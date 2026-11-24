@@ -1,0 +1,32 @@
+name: Update daily IPTV playlists
+
+on:
+  schedule:
+    - cron: "0 4 * * *" # 09:00 Kazakhstan time (UTC+5)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-playlist
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Build playlists and stats
+        run: python scripts/update_playlist.py
+      - name: Commit generated changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update daily IPTV playlists"
+          file_pattern: "playlists/**/*.m3u stats.json"
