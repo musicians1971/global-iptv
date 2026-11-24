@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 group-title="Документальные",Конгресс
+http://live-3.otcnet.ru/congresstv/index.m3u8
+#EXTINF:-1 group-title="Документальные",Следствие вели...
+https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 tvg-id="discovery-channel" group-title="Документальные",Discovery
+https://stream8.cinerama.uz/1039/index.m3u8
 #EXTINF:-1 tvg-id="365daysTV.ru" tvg-country="RU" group-title="Документальные",365 дней ТВ
 https://stream8.cinerama.uz/1242/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="RTDocumentary.ru" tvg-country="RU" group-title="Документальные",RTД

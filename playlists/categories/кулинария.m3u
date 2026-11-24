@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 group-title="Кулинария",Joy Cook
+https://stitch.teletarget.ru/peerstv/joycook/index.m3u8
+#EXTINF:-1 group-title="Кулинария",Kulinar
+https://api.alpaca.t62a.com/hls/9110/index.m3u8
 #EXTINF:-1 tvg-id="KulinarTV.ru" tvg-country="RU" group-title="Кулинария",Кулинар HD
 https://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 #EXTINF:-1 tvg-id="Kuhnya.ru" tvg-country="RU" group-title="Кулинария",Кухня
@@ -7,3 +11,5 @@ https://stream8.cinerama.uz/1236/tracks-v1a1/mono.m3u8
 https://cityeden.catcast.tv/content/47516/index.m3u8
 #EXTINF:-1 tvg-id="Telecafe.ru" tvg-country="RU" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Кулинария",Телекафе
 https://cdn4.skygo.mn/live/disk1/Telecafe/HLSv3-FTA/Telecafe.m3u8
+#EXTINF:-1 tvg-id="Telecafe.ru" tvg-country="RU" group-title="Кулинария",Телекафе
+https://stream8.cinerama.uz/1035/tracks-v1a1/mono.m3u8

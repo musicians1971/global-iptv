@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Dikij.ru" tvg-country="RU" group-title="На природе",Дикий
 https://stream3.cinerama.uz/1230/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NashaTema.ru" tvg-country="RU" group-title="Путешествия",Наша Тема
+https://fonbet.mediacdn.ru/live/nashatema/playlist.m3u8
 #EXTINF:-1 tvg-id="Okhotairybalka.ru" tvg-country="RU" group-title="На природе",Охота и рыбалка
 https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Ohotnikirybolov.ru" tvg-country="RU" group-title="На природе",Охотник и рыболов
@@ -10,6 +12,6 @@ http://88.212.15.50/live/test_poehali/playlist.m3u8
 #EXTINF:-1 tvg-id="Rybalkaiokhota.ru" tvg-country="RU" group-title="На природе",Рыбалка и охота
 https://fs.uplink.kz/ohota_i_ribalka/index.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-id="LoveNature.ca" tvg-country="CA" group-title="На природе",Love Nature
-https://mumbai-edge.smartplaytv.in/LoveNature/index.m3u8
+http://88.212.15.50/live/test_love_nature_uhd_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="ChassePeche.fr" tvg-country="FR" group-title="На природе",Chasse & Peche
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/chasse_et_peche/live.livx/playlist.m3u8

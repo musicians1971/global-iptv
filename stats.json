@@ -1,21 +1,26 @@
 {
-  "generated_at": "2026-11-24T20:05:29+00:00",
+  "generated_at": "2026-11-24T20:33:08+00:00",
   "source": "https://iptv-org.github.io/api/streams.json",
   "source_streams": 19263,
   "additional_sources": {
     "Nexonic IPTV": 256,
-    "IPTV Nexus": 596
+    "IPTV Nexus": 596,
+    "NGRCH IPTV": 978,
+    "NGRCH Music and Radio": 334,
+    "NGRCH Cartoons": 376,
+    "IPTV Russia": 721,
+    "DuckKota Russian playlist": 605
   },
-  "additional_source_candidates": 115,
-  "unique_candidate_urls": 1333,
-  "duplicate_urls_removed": 737,
-  "excluded_labeled_streams": 159,
-  "excluded_non_russian_or_unknown_language": 17871,
-  "checked_urls": 1333,
-  "available_urls": 574,
-  "available_channels": 391,
+  "additional_source_candidates": 1567,
+  "unique_candidate_urls": 2905,
+  "duplicate_urls_removed": 2299,
+  "excluded_labeled_streams": 167,
+  "excluded_non_russian_or_unknown_language": 17743,
+  "checked_urls": 2905,
+  "available_urls": 1964,
+  "available_channels": 1479,
   "countries": 23,
-  "categories": 25,
+  "categories": 42,
   "probe_timeout_seconds": 8.0,
   "availability_note": "Availability reflects this run's network and may differ by viewer location."
 }

@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Domashniy.ru" tvg-country="RU" group-title="Образ жизни",Dомашний
 http://31.148.5.241/kanal_14/index.m3u8
+#EXTINF:-1 tvg-id="FashionTV.ru@SD" tvg-country="RU" group-title="Образ жизни",FashionTV Россия
+http://fashionlive.mediacdn.ru/cdn/fashiontv/playlist.m3u8
 #EXTINF:-1 tvg-id="Doctor.ru" tvg-country="RU" group-title="Образование",Доктор
 http://178.134.1.158:8081/doktor/index.m3u8
 #EXTINF:-1 tvg-id="DomashnieZhivotnye.ru" tvg-country="RU" group-title="Образ жизни",Домашние животные

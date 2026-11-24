@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="AngelTV.in" tvg-country="IN" group-title="Религиозные",Angel TV
-https://janya-digimix.akamaized.net/vglive-sk-955415/russia/ngrp:angelrussia_all/playlist.m3u8
+https://cdn.pishow.tv/ott/live/453/master.m3u8
+#EXTINF:-1 tvg-id="AngelTV.in" tvg-country="IN" group-title="Религиозные",Angel TV
+https://janya-digimix.akamaized.net/vglive-sk-904559/africa/ngrp:angelafrica_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Travelxp.in" tvg-country="IN" group-title="Путешествия",Travelxp
-https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8
+http://88.212.7.14/live/travel_xp_4k/index.m3u8

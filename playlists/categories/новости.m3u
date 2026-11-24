@@ -3,6 +3,26 @@
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PerviyInformationniy.by" tvg-country="BY" group-title="Новости",Первый информационный
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
+#EXTINF:-1 group-title="Новости",CGTN Русский
+https://english-livetx.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802_hd.m3u8
+#EXTINF:-1 group-title="Новости",Магнат
+https://s1.tv-nano.com/Magnat/index.m3u8
+#EXTINF:-1 tvg-id="moskva-24" group-title="Новости",Москва 24 (М24)
+https://stream.smotrim.ru/hls/moscow_24/playlist_3.m3u8
+#EXTINF:-1 group-title="Новости",РБК (3)
+https://s91030.cdn.ngenix.net/hls/CH_R25_RBKTVHD_VLDK/variant.m3u8
+#EXTINF:-1 group-title="Новости",ТАСС
+https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
+#EXTINF:-1 group-title="Новости",Эхо
+https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Новости",CNN
+https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
+#EXTINF:-1 group-title="Новости",Euronews
+https://stream8.cinerama.uz/1024/index.m3u8
+#EXTINF:-1 group-title="Новости",NHK World
+https://stream8.cinerama.uz/1449/index.m3u8
+#EXTINF:-1 group-title="Новости",RT News
+http://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-id="360News.ru" tvg-country="RU" group-title="Новости",360° Новости
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/index.m3u8
 #EXTINF:-1 tvg-id="Astrahan24.ru" tvg-country="RU" group-title="Новости",Астрахань 24
@@ -31,8 +51,12 @@ https://live.smotrim.ru/vgtrk/0/russia24-hd/1080p.m3u8
 http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Tolk.ru" tvg-country="RU" group-title="Новости",Толк
 http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RT.ru@HD" tvg-country="RU" group-title="Новости",RT
+https://wisewatchoott.wiseplayout.com/RT/master.m3u8
 #EXTINF:-1 tvg-id="RTBalkan.ru" tvg-country="RU" group-title="Новости",RT Balkan
 https://rt-srb.rttv.com/dvr/rtbalkan/playlist.m3u8
+#EXTINF:-1 tvg-id="RTenEspanol.ru@SD" tvg-country="RU" group-title="Новости",RT en Espanol
+http://168.196.127.137:6001/play/a0a9/index.m3u8
 #EXTINF:-1 tvg-id="UzReportTV.uz" tvg-country="UZ" group-title="Новости",UzReport TV
 https://stream8.cinerama.uz/1015/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="FREEDOM.ua" tvg-country="UA" group-title="Новости",FREEДOM
@@ -48,6 +72,6 @@ https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 #EXTINF:-1 tvg-id="EuronewsRussian.fr" tvg-country="FR" group-title="Новости",Euronews по-русски
 https://stream8.cinerama.uz/1024/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="DW.de" tvg-country="DE" group-title="Новости",DW
-https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8
 #EXTINF:-1 tvg-id="Channel9.il" tvg-country="IL" group-title="Новости",9 канал
 https://contact.gostreaming.tv/Con-11/index.m3u8

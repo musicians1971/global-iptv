@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="FILMBOXPlusFestival.pl" tvg-country="PL" group-title="Кино",FILMBOX+ Festival
 https://nosignal1.antenaplay.ro/hls/fb-festival-hd/index.m3u8
-#EXTINF:-1 tvg-id="FILMBOXPlusOne.pl" tvg-country="PL" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36" group-title="Кино",FILMBOX+ One
-https://nosignal1.antenaplay.ro/hls/fb-one-sd/index.m3u8
+#EXTINF:-1 tvg-id="FILMBOXPlusOne.pl" tvg-country="PL" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Кино",FILMBOX+ One
+http://213.91.179.28:8000/play/a06i

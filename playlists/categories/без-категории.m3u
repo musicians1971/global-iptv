@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Vetta24.ru" tvg-country="RU" group-title="Без категории",Ветта 24
+http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
+#EXTINF:-1 tvg-id="NTVSledstviyeveli.ru" tvg-country="RU" group-title="Без категории",НТВ Следствие вели
+https://mhd116.iptv2022.com/x/t4hRFz1R89Q6kjp3CL3WVQ,1792610109/streaming/sledstvie_veli_hd/324/1/index.m3u8
+#EXTINF:-1 tvg-id="S1.ru" tvg-country="RU" group-title="Без категории",С1
+https://sitv.ru/hls/stv.m3u8
+#EXTINF:-1 tvg-id="Oplot2.ru" tvg-country="RU" group-title="Без категории",Oplot 2
+http://91.224.16.9:7779/Oplot_2/index.m3u8

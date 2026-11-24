@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 group-title="Познавательные",Univer (Универ)
+http://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Аква
+http://stitch.teletarget.ru/vintera/aquatv/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Вопросы и ответы
+https://stream8.cinerama.uz/1429/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Загородный
+https://stream8.cinerama.uz/1044/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Первый космический
+https://stream8.cinerama.uz/1415/index.m3u8
+#EXTINF:-1 group-title="Познавательные",ПРНК
+https://serv25.vintera.tv/1pnk/prnk/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",BRICS (2)
+https://origin5.mediacdn.ru/live/brics/index.m3u8
