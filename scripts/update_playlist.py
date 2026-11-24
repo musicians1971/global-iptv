@@ -18,10 +18,101 @@ from typing import Any
 
 ROOT = Path(__file__).resolve().parents[1]
 API = "https://iptv-org.github.io/api"
+ADDITIONAL_RUSSIAN_SOURCES = {
+    "Nexonic IPTV": "https://raw.githubusercontent.com/nexonic-technologies/nexonic-iptv/main/playlists/languages/ru.m3u",
+    "IPTV Nexus": "https://dearbulut.github.io/iptv/playlists/language/rus.m3u",
+}
 USER_AGENT = "global-iptv-playlist-builder/1.0 (+https://github.com/musicians1971/global-iptv)"
 TIMEOUT = float(os.environ.get("IPTV_TIMEOUT", "8"))
 WORKERS = int(os.environ.get("IPTV_WORKERS", "48"))
 RUSSIAN_LANGUAGE = "rus"  # ISO 639-3
+
+CATEGORY_NAMES_RU = {
+    "animation": "Мультфильмы", "auto": "Авто", "business": "Бизнес",
+    "classic": "Классика", "comedy": "Комедии", "cooking": "Кулинария",
+    "culture": "Культура", "documentary": "Документальные", "education": "Образование",
+    "entertainment": "Развлечения", "family": "Семейные", "general": "Общие",
+    "history": "История", "kids": "Детские", "legislative": "Государственные",
+    "lifestyle": "Образ жизни", "movies": "Кино", "music": "Музыка",
+    "news": "Новости", "outdoor": "На природе", "public": "Общественные",
+    "quiz": "Викторины", "relax": "Отдых", "religious": "Религиозные",
+    "series": "Сериалы", "science": "Наука", "shop": "Телемагазин",
+    "sports": "Спорт", "travel": "Путешествия", "weather": "Погода",
+    "undefined": "Без категории",
+}
+COUNTRY_NAMES_RU = {
+    "RU": "Россия", "KZ": "Казахстан", "BY": "Беларусь", "UA": "Украина",
+    "KG": "Кыргызстан", "UZ": "Узбекистан", "TJ": "Таджикистан", "MD": "Молдова",
+    "AM": "Армения", "AZ": "Азербайджан", "GE": "Грузия", "EE": "Эстония",
+    "LV": "Латвия", "LT": "Литва",
+}
+
+
+def fetch_additional_playlists() -> tuple[list[dict[str, Any]], dict[str, int]]:
+    """Load extra Russian-language M3U inputs independently and tolerate outages."""
+    records: list[dict[str, Any]] = []
+    source_counts: dict[str, int] = {}
+    for source_name, url in ADDITIONAL_RUSSIAN_SOURCES.items():
+        try:
+            request = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+            with urllib.request.urlopen(request, timeout=30) as response:
+                text = response.read().decode("utf-8-sig")
+            source_records = parse_m3u(text, source_name)
+            records.extend(source_records)
+            source_counts[source_name] = len(source_records)
+        except Exception as exc:
+            print(f"Additional Russian playlist unavailable ({source_name}): {type(exc).__name__}: {exc}", file=sys.stderr)
+            source_counts[source_name] = 0
+    return records, source_counts
+
+
+def parse_m3u(text: str, source_name: str = "additional") -> list[dict[str, Any]]:
+    """Parse EXTINF records and VLC request headers from an M3U playlist."""
+    records: list[dict[str, Any]] = []
+    current: dict[str, Any] | None = None
+    options: dict[str, str] = {}
+    for line in text.splitlines():
+        line = line.strip()
+        if line.startswith("#EXTINF:"):
+            attrs = {key.casefold(): value for key, value in re.findall(r'([\w-]+)="([^"]*)"', line)}
+            title = line.split(",", 1)[1].strip() if "," in line else attrs.get("tvg-name", "")
+            current = {
+                "channel": attrs.get("tvg-id", ""), "title": title,
+                "country": attrs.get("tvg-country", ""), "source": source_name,
+                "referrer": attrs.get("http-referrer", ""),
+                "user_agent": attrs.get("http-user-agent", ""),
+            }
+            options = {}
+        elif line.startswith("#EXTVLCOPT:"):
+            option = line.removeprefix("#EXTVLCOPT:")
+            key, separator, value = option.partition("=")
+            if separator:
+                options[key.casefold()] = value
+        elif line and not line.startswith("#") and current:
+            if line.startswith(("http://", "https://")):
+                current["url"] = line
+                current["referrer"] = options.get("http-referrer", current["referrer"])
+                current["user_agent"] = options.get("http-user-agent", current["user_agent"])
+                records.append(current)
+            current = None
+            options = {}
+    return records
+
+
+def russian_sort_key(value: str) -> tuple[int, str]:
+    normalized = value.casefold().replace("ё", "е")
+    # Put Cyrillic names first; retain a deterministic order for other scripts.
+    return (0 if re.search(r"[а-яё]", normalized) else 1, normalized)
+
+
+def russian_channel_name(channel: dict[str, Any], fallback: str) -> str:
+    for alternative in channel.get("alt_names", []) or []:
+        if re.search(r"[а-яё]", str(alternative), re.IGNORECASE):
+            return str(alternative)
+    if re.search(r"[а-яё]", fallback, re.IGNORECASE):
+        return fallback
+    name = str(channel.get("name") or fallback)
+    return name
 
 
 def fetch_json(name: str) -> list[dict[str, Any]]:
@@ -63,7 +154,7 @@ def available(stream: dict[str, Any]) -> tuple[bool, str]:
 
 
 def slug(value: str) -> str:
-    result = re.sub(r"[^a-z0-9]+", "-", value.lower()).strip("-")
+    result = re.sub(r"[^a-z0-9а-яё]+", "-", value.lower()).strip("-")
     return result or "unknown"
 
 
@@ -79,8 +170,9 @@ def m3u(channels: list[dict[str, Any]]) -> str:
         if item.get("user_agent"):
             attrs.append(f'http-user-agent="{_attribute(item["user_agent"])}"')
         cats = item.get("categories") or []
-        if cats:
-            attrs.append(f'group-title="{cats[0]}"')
+        group_title = item.get("display_category") or (cats[0] if cats else "")
+        if group_title:
+            attrs.append(f'group-title="{_attribute(group_title)}"')
         title = str(item.get("title") or name).replace("\r", " ").replace("\n", " ")
         lines.append(f"#EXTINF:-1 {' '.join(attrs)},{title}")
         lines.append(item["url"])
@@ -104,8 +196,13 @@ def build(
     channels: list[dict[str, Any]],
     countries: list[dict[str, Any]],
     feeds: list[dict[str, Any]],
+    additional_streams: list[dict[str, Any]] | None = None,
+    additional_source_counts: dict[str, int] | None = None,
 ) -> dict[str, Any]:
     channel_by_id = {c["id"]: c for c in channels if c.get("id")}
+    channel_by_base_id = {
+        str(c["id"]).split("@", 1)[0]: c for c in channels if c.get("id")
+    }
     country_names = {c["code"].upper(): c["name"] for c in countries if c.get("code")}
     feed_by_key = {
         (feed.get("channel"), feed.get("id")): feed
@@ -139,6 +236,19 @@ def build(
         else:
             unique[url] = stream
 
+    # The secondary feed is itself a Russian-language playlist. It adds candidates
+    # only; the same availability check and URL deduplication apply to every entry.
+    additional_candidates = 0
+    for stream in additional_streams or []:
+        url = stream.get("url")
+        if not isinstance(url, str) or not url.startswith(("http://", "https://")):
+            continue
+        if url in unique:
+            duplicates += 1
+            continue
+        unique[url] = stream
+        additional_candidates += 1
+
     checks: dict[str, tuple[bool, str]] = {}
     with concurrent.futures.ThreadPoolExecutor(max_workers=WORKERS) as pool:
         futures = {pool.submit(available, stream): url for url, stream in unique.items()}
@@ -155,29 +265,36 @@ def build(
         ok, _ = checks[url]
         if not ok:
             continue
-        channel = channel_by_id.get(stream.get("channel"))
+        channel_id = str(stream.get("channel") or "")
+        base_channel_id = channel_id.split("@", 1)[0] if channel_id else ""
+        channel = channel_by_id.get(channel_id) or channel_by_base_id.get(base_channel_id)
         if channel and channel.get("is_nsfw"):
             continue
-        identity = str(stream.get("channel") or url)
+        identity = base_channel_id or url
         if identity not in selected:
             selected[identity] = (stream, channel or {})
 
     rows: list[dict[str, Any]] = []
     for stream, channel in selected.values():
         url = stream["url"]
-        country_code = str(channel.get("country") or "").upper()
+        country_code = str(channel.get("country") or stream.get("country") or "").upper()
+        fallback_name = stream.get("title") or stream.get("channel") or url
+        display_name = russian_channel_name(channel, fallback_name)
+        categories = channel.get("categories") or []
+        display_category = CATEGORY_NAMES_RU.get(str(categories[0]).casefold(), str(categories[0])) if categories else ""
         rows.append({
             "id": stream.get("channel") or "",
-            "name": channel.get("name") or stream.get("title") or stream.get("channel") or url,
-            "title": stream.get("title") or channel.get("name") or stream.get("channel") or url,
+            "name": display_name,
+            "title": display_name,
             "url": url,
             "country": country_code,
-            "country_name": country_names.get(country_code, "Unknown"),
-            "categories": channel.get("categories") or [],
+            "country_name": COUNTRY_NAMES_RU.get(country_code, country_names.get(country_code, "Неизвестная страна")),
+            "categories": categories,
+            "display_category": display_category,
             "referrer": stream.get("referrer") or "",
             "user_agent": stream.get("user_agent") or "",
         })
-    rows.sort(key=lambda row: (row["country_name"].casefold(), row["name"].casefold(), row["url"]))
+    rows.sort(key=lambda row: (russian_sort_key(row["country_name"]), russian_sort_key(row["name"]), row["url"]))
 
     (ROOT / "playlists").mkdir(exist_ok=True)
     (ROOT / "playlists" / "all.m3u").write_text(m3u(rows), encoding="utf-8")
@@ -187,7 +304,7 @@ def build(
         if row["country"]:
             country_groups[f'{row["country"]}-{row["country_name"]}'].append(row)
         for category in row["categories"]:
-            category_groups[str(category)].append(row)
+            category_groups[CATEGORY_NAMES_RU.get(str(category).casefold(), str(category))].append(row)
     write_grouped(ROOT / "playlists" / "countries", country_groups)
     write_grouped(ROOT / "playlists" / "categories", category_groups)
     write_grouped(ROOT / "playlists" / "languages", {"rus": rows})
@@ -197,6 +314,8 @@ def build(
         "generated_at": now.isoformat(),
         "source": f"{API}/streams.json",
         "source_streams": len(streams),
+        "additional_sources": additional_source_counts or {},
+        "additional_source_candidates": additional_candidates,
         "unique_candidate_urls": len(unique),
         "duplicate_urls_removed": duplicates,
         "excluded_labeled_streams": excluded_labels,
@@ -217,7 +336,8 @@ def main() -> int:
     start = time.monotonic()
     try:
         streams, channels, countries, feeds = (fetch_json(name) for name in ("streams", "channels", "countries", "feeds"))
-        stats = build(streams, channels, countries, feeds)
+        additional_streams, source_counts = fetch_additional_playlists()
+        stats = build(streams, channels, countries, feeds, additional_streams, source_counts)
     except Exception as exc:
         print(f"Playlist update failed: {exc}", file=sys.stderr)
         return 1
