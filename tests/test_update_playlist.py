@@ -15,7 +15,7 @@ class PlaylistTests(unittest.TestCase):
 
     def test_parse_m3u_reads_ids_urls_and_vlc_headers(self):
         playlist = (
-            '#EXTM3U\n#EXTINF:-1 tvg-id="Example.ru" tvg-country="RU",Новости\n'
+            '#EXTM3U\n#EXTINF:-1 tvg-id="Example.ru" tvg-country="RU" tvg-language="Russian" group-title="Новости",Новости\n'
             "#EXTVLCOPT:http-referrer=https://example.test/\n"
             "https://example.test/live.m3u8\n"
         )
@@ -25,6 +25,8 @@ class PlaylistTests(unittest.TestCase):
         self.assertEqual(records[0]["title"], "Новости")
         self.assertEqual(records[0]["referrer"], "https://example.test/")
         self.assertEqual(records[0]["source"], "Test source")
+        self.assertEqual(records[0]["group_title"], "Новости")
+        self.assertEqual(records[0]["language"], "Russian")
 
     def test_russian_names_sort_before_latin_names(self):
         self.assertLess(updater.russian_sort_key("Новости"), updater.russian_sort_key("News"))
@@ -99,6 +101,34 @@ class PlaylistTests(unittest.TestCase):
             self.assertEqual(stats["additional_source_candidates"], 1)
             self.assertEqual(stats["available_channels"], 1)
 
+    def test_russian_channel_metadata_can_fill_an_unlabeled_feed(self):
+        streams = [{"channel": "Example.kz@HD", "feed": "HD", "url": "https://example.test/live.m3u8"}]
+        channels = [{"id": "Example.kz", "name": "Пример", "country": "KZ"}]
+        feeds = [
+            {"channel": "Example.kz", "id": "Russian", "languages": ["rus"]},
+            {"channel": "Example.kz", "id": "HD", "languages": []},
+        ]
+        with tempfile.TemporaryDirectory() as temp:
+            with patch.object(updater, "ROOT", Path(temp)), patch.object(
+                updater, "available", return_value=(True, "200")
+            ):
+                stats = updater.build(streams, channels, [], feeds)
+            self.assertEqual(stats["available_channels"], 1)
+
+    def test_additional_playlist_mirrors_collapse_by_channel_name(self):
+        additional = [
+            {"title": "Первый канал (HD)", "url": "https://one.test/live.m3u8", "source": "List A"},
+            {"title": "Первый канал (2)", "url": "https://two.test/live.m3u8", "source": "List B"},
+        ]
+        with tempfile.TemporaryDirectory() as temp:
+            with patch.object(updater, "ROOT", Path(temp)), patch.object(
+                updater, "available", return_value=(True, "200")
+            ):
+                stats = updater.build([], [], [], [], additional)
+            playlist = (Path(temp) / "playlists" / "all.m3u").read_text(encoding="utf-8")
+            self.assertEqual(stats["available_channels"], 1)
+            self.assertEqual(playlist.count("#EXTINF:"), 1)
+
     def test_available_rejects_error_pages_and_invalid_hls(self):
         class FakeHeaders:
             def get_content_type(self):
@@ -127,6 +157,35 @@ class PlaylistTests(unittest.TestCase):
             self.assertFalse(updater.available({"url": "https://sample.test/live.m3u8"})[0])
         with patch.object(updater.urllib.request, "urlopen", return_value=FakeResponse(b"#EXTM3U\n#EXT-X-VERSION:3\n")):
             self.assertTrue(updater.available({"url": "https://sample.test/live.m3u8"})[0])
+
+    def test_available_retries_a_temporary_timeout(self):
+        class FakeHeaders:
+            def get_content_type(self):
+                return "application/vnd.apple.mpegurl"
+
+        class FakeResponse:
+            status = 200
+            headers = FakeHeaders()
+
+            def __enter__(self):
+                return self
+
+            def __exit__(self, *_args):
+                return None
+
+            def read(self, _size):
+                return b"#EXTM3U\n#EXT-X-VERSION:3\n"
+
+            def geturl(self):
+                return "https://sample.test/live.m3u8"
+
+        with patch.object(
+            updater.urllib.request,
+            "urlopen",
+            side_effect=[TimeoutError(), FakeResponse()],
+        ) as open_url:
+            self.assertTrue(updater.available({"url": "https://sample.test/live.m3u8"})[0])
+            self.assertEqual(open_url.call_count, 2)
 
 
 if __name__ == "__main__":
