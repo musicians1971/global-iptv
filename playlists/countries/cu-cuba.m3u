@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="CubavisionInternacional.cu" tvg-country="CU" group-title="general",Cubavision Internacional
-http://90.183.52.46:4000/play/a04a/index.m3u8
-#EXTINF:-1 tvg-id="PrensaLatinaTV.cu" tvg-country="CU" group-title="news",Prensa Latina TV
-https://eu1.servers10.com:8081/8192/index.m3u8

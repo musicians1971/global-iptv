@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="BTNTV.rw" tvg-country="RW" group-title="general",BTN TV
-https://tv.btnrwanda.com:3973/live/btnv2live.m3u8
-#EXTINF:-1 tvg-id="IsiboTV.rw" tvg-country="RW" group-title="general",Isibo TV
-https://5c46fa289c89f.streamlock.net/pub2live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="TV1.rw" tvg-country="RW" group-title="general",TV1
-https://live.tv1.rw/index.m3u8
-#EXTINF:-1 tvg-id="TV10.rw" tvg-country="RW" group-title="general",TV10
-https://5c46fa289c89f.streamlock.net/pub1live/mystream/playlist.m3u8

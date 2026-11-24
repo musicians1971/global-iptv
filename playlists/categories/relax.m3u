@@ -1,19 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="10Bold.au" tvg-country="AU" group-title="lifestyle",10 Bold Adelaide
-https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
-#EXTINF:-1 tvg-id="ZenLIFEbyStingray.ca" tvg-country="CA" group-title="relax",Stingray ZenLIFE
-https://lotus.stingray.com/manifest/zenlife-zen001-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="MyZenTV.fr" tvg-country="FR" group-title="relax",MyZen TV
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/myzen_tv/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Home4K.ru" tvg-country="RU" group-title="relax",Home 4K
 http://88.212.7.14/live/test_home_uhd_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="WildEarth.za" tvg-country="ZA" group-title="outdoor",WildEarth
-https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
-#EXTINF:-1 tvg-id="SpaceLivepoweredbysen.uk" tvg-country="UK" group-title="relax",Space Live
-https://jmp2.uk/plu-69a554497ed3b3fff0b9ca80.m3u8
-#EXTINF:-1 tvg-id="BetterLifeNatureChannel.us" tvg-country="US" group-title="relax",Better Life Nature Channel
-https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
-#EXTINF:-1 tvg-id="DroneTV.us" tvg-country="US" group-title="relax",DroneTV
-https://airvuz-dronetv-1-us.ohlscdn.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ScreenDreams.us" tvg-country="US" group-title="relax",Screen Dreams
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2240

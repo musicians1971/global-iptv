@@ -7,8 +7,6 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Belarus4.by" tvg-country="BY" group-title="general",Belarus-4 Gomel
 https://live.dc.beltelecom.by/trkgomel/trkgomel.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Belarus5.by" tvg-country="BY" group-title="sports",Belarus-5 HD
-http://178.124.179.122:8080/BT5/index.m3u8
 #EXTINF:-1 tvg-id="BugTV.by" tvg-country="BY" group-title="general",Bug-TV
 http://46.53.200.153:7777/play/Bug_TV_HD/index.m3u8
 #EXTINF:-1 tvg-id="FirstMusicChannel.by" tvg-country="BY" group-title="music",Первый Музыкальный Канал
@@ -19,13 +17,7 @@ http://rtmp.one.by:2200
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioMir.by" tvg-country="BY" group-title="general",Radio Mir
 https://stream1.dc.beltelecom.by/radiomir/studio.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="SportTV.by" tvg-country="BY" group-title="sports",Sport TV
-http://178.124.179.122:8080/SportTV/mpegts
 #EXTINF:-1 tvg-id="STV.by" tvg-country="BY" group-title="general",STV HD
 https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="SvetloeTV.by" tvg-country="BY",Svetloe TV
-http://46.53.200.153:7777/play/svetloetv/index.m3u8
 #EXTINF:-1 tvg-id="Vitebsk.by" tvg-country="BY",Vitebsk
 https://live.dc.beltelecom.by/vtv/vitebsk.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="VoyenTV.by" tvg-country="BY" group-title="general",VoyenTV
-http://media1.skifnet.by/voentv/index.m3u8

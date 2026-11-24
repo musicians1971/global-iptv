@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="AlMasarTV.ly" tvg-country="LY" group-title="news",Al Masar TV
-https://starmenajo.com/hls/almasar/index.m3u8
-#EXTINF:-1 tvg-id="LibyaAlWataniya.ly" tvg-country="LY" group-title="general",Libya Al Wataniya
-https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u8
-#EXTINF:-1 tvg-id="TanasuhTV.ly" tvg-country="LY" group-title="general",Tanasuh TV
-https://kilolink.pulsarstarsolutions.com/live/smil:tanasuhtv.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="WasatTV.ly" tvg-country="LY" group-title="general",Wasat TV
-https://alwasattv.hibridcdn.net/alwasattv/alwasat_abr/playlist.m3u8

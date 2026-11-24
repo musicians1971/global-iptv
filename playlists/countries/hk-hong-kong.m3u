@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="KIX.hk" tvg-country="HK" group-title="entertainment",KIX
-https://freem3u.xyz/api/live/play.m3u8?vid=9901
-#EXTINF:-1 tvg-id="NewsWorld.hk" tvg-country="HK" group-title="news",NewsWorld
-https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/playlist.m3u8
-#EXTINF:-1 tvg-id="PetClubTV.hk" tvg-country="HK" group-title="entertainment",Pet Club TV
-https://petclub-samsungaus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ViuTV.hk" tvg-country="HK",ViuTV
-http://php.jdshipin.com/TVOD/iptv.php?id=viutv

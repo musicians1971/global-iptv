@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="CanalMotor.no" tvg-country="NO" group-title="auto",Canal Motor
-https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
-#EXTINF:-1 tvg-id="NRK1.no" tvg-country="NO" group-title="general",NRK1
-http://185.19.191.171:8090/NRK1/index.m3u8
-#EXTINF:-1 tvg-id="TVOstfold.no" tvg-country="NO" group-title="general",TV Østfold
-https://streamnorge.com:8088/hls/tvo.m3u8
-#EXTINF:-1 tvg-id="TVModum.no" tvg-country="NO" group-title="general",TV Modum
-https://cdn010.panaccess.com/5677_streams/TVMODUM/index.m3u8
