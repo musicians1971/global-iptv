@@ -63,3 +63,5 @@ https://stream8.cinerama.uz/1017/tracks-v1a1/playlist.m3u8
 https://59d39900ebfb8.streamlock.net/tvfamilia_270p/tvfamilia_270p/playlist.m3u8
 #EXTINF:-1 tvg-id="HTVCFamily.vn" tvg-country="VN" group-title="family",HTVC Family
 https://dethich.pw/htvcgiadinh/index.m3u8
+#EXTINF:-1 tvg-id="ONVFamily.vn" tvg-country="VN" group-title="entertainment",ON V Family
+https://vmttv.dpdns.org/tv360?id=187

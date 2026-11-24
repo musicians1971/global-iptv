@@ -9,6 +9,8 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1552.m3u8
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-country="AR" group-title="sports",TyC Sports
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 tvg-id="TyCSportsUSA.ar" tvg-country="AR" group-title="sports",TyC Sports USA
+http://45.170.130.224:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="CricketGold.au" tvg-country="AU" group-title="sports",Cricket Gold
 https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8
 #EXTINF:-1 tvg-id="FoxSportsNews.au" tvg-country="AU" group-title="sports",Fox Sports News
@@ -347,8 +349,6 @@ https://cdn.bestream.io/prime/prime.m3u8
 http://185.121.1.163:8083/FootballHD/index.m3u8
 #EXTINF:-1 tvg-id="TSports7.th" tvg-country="TH" group-title="sports",T Sports 7
 https://live-us1.thaimomo.com/live-as/chtsport-1/playlist.m3u8
-#EXTINF:-1 tvg-id="ASpor.tr" tvg-country="TR" group-title="sports",A Spor
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 #EXTINF:-1 tvg-id="FBTV.tr" tvg-country="TR" group-title="sports",FB TV
 http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="HTSporTV.tr" tvg-country="TR" group-title="sports",HTSpor TV
@@ -531,3 +531,7 @@ https://streamtv.as3sport.online:3394/hybrid/play.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=255
 #EXTINF:-1 tvg-id="HTVSports.vn" tvg-country="VN" group-title="sports",HTV Sports
 https://dethich.pw/htvthethao/index.m3u8
+#EXTINF:-1 tvg-id="VinhLongTV4.vn" tvg-country="VN" group-title="culture",Vinh Long TV 4
+https://dethich.pw/thvl4/index.m3u8
+#EXTINF:-1 tvg-id="VTV6.vn" tvg-country="VN" group-title="sports",VTV6
+https://dethich.pw/vtv6/index.m3u8

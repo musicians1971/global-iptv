@@ -111,8 +111,6 @@ https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
 #EXTINF:-1 tvg-id="TimesBrasil.br" tvg-country="BR" group-title="news",Times Brasil
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8
-#EXTINF:-1 tvg-id="TVAFolha.br" tvg-country="BR" group-title="news",TV A Folha
-https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBrusque.br" tvg-country="BR" group-title="news",TV Brusque
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCAJUIWEB.br" tvg-country="BR" group-title="general",TV CAJUI WEB
@@ -1289,6 +1287,8 @@ https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
 http://85.117.61.84/cnnturk/index.m3u8
 #EXTINF:-1 tvg-id="Ekoturk.tr" tvg-country="TR" group-title="news",Ekoturk
 https://cdn.ekoturk.net/hls/master.m3u8
+#EXTINF:-1 tvg-id="FinansTurkTV.tr" tvg-country="TR" group-title="news",Finans Turk TV
+https://yayin30.haber100.com/live/finansturk/playlist.m3u8
 #EXTINF:-1 tvg-id="FlashHaberTV.tr" tvg-country="TR" group-title="news",Flash Haber TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="HalkTV.tr" tvg-country="TR" group-title="news",Halk TV
@@ -1511,8 +1511,6 @@ https://voaphls.wns.live/hls/stream.m3u8
 https://2-fss-2.streamhoster.com/pl_118/204972-1954106-1/playlist.m3u8
 #EXTINF:-1 tvg-id="WFTSTV321.us" tvg-country="US" group-title="news",ABC 28 Tampa Bay FL (WFTS)
 https://amg01438-amg01438c12-vizio-us-10904.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="WPLG101.us" tvg-country="US" group-title="news",ABC (WPLG-DT1) Miami FL
-https://pubads.g.doubleclick.net/ssai/event/tQD6w9OJQVOobcyV3Dammw/master.m3u8
 #EXTINF:-1 tvg-id="Ozbekiston24.uz" tvg-country="UZ" group-title="news",O'zbekiston 24
 https://stream8.cinerama.uz/1011/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="UzReportTV.uz" tvg-country="UZ" group-title="news",UzReport TV
@@ -1525,5 +1523,7 @@ https://mblenmain01.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=53
 #EXTINF:-1 tvg-id="HTV9.vn" tvg-country="VN" group-title="news",HTV9
 https://freem3u.xyz/api/live/play.m3u8?vid=194
+#EXTINF:-1 tvg-id="VinhLongTV1.vn" tvg-country="VN" group-title="news",Vinh Long TV 1
+https://dethich.pw/thvl1/index.m3u8
 #EXTINF:-1 tvg-id="VinhLongTV5.vn" tvg-country="VN" group-title="culture",Vinh Long TV 5
 https://freem3u.xyz/api/live/play.m3u8?vid=91

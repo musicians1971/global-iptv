@@ -42,7 +42,7 @@ https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8
 #EXTINF:-1 tvg-id="SenadoTV.py" tvg-country="PY" group-title="legislative",Senado TV
 https://vid.hls.protv.ro/liveibu6/liveibu6_highw/index.m3u8?1
 #EXTINF:-1 tvg-id="TVCamara.py" tvg-country="PY" group-title="legislative",TV Camara
-http://158.172.217.18:8000/play/a00m/index.m3u8
+http://45.170.130.224:8000/play/a03x/index.m3u8?hls
 #EXTINF:-1 tvg-id="JusticiaTV.pe" tvg-country="PE" group-title="legislative",Justicia TV
 http://190.93.224.42/JUSTICIA-TV/index.m3u8
 #EXTINF:-1 tvg-id="DumaTV.ru" tvg-country="RU" group-title="legislative",Duma TV

@@ -13,8 +13,6 @@ https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/720
 https://best-str.umn.cdn.united.cloud/stream?channel=novashd&p=n0v43!23t001&player=m3u8&sp=novas&stream=hp7000&u=novas
 #EXTINF:-1 tvg-id="NovosadskaTV.rs" tvg-country="RS" group-title="general",Novosadska TV
 https://live.novosadska.tv/hls/mystream.m3u8
-#EXTINF:-1 tvg-id="PannonTV.rs" tvg-country="RS" group-title="general",Pannon RTV
-https://stream.nmih.hu:4102/live.m3u8
 #EXTINF:-1 tvg-id="RadioHitFMTV.rs" tvg-country="RS" group-title="music",Radio Hit FM TV
 https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a02-4f8c8677d565/0.m3u8
 #EXTINF:-1 tvg-id="RadioKarolinaTV.rs" tvg-country="RS" group-title="music",Radio Karolina TV

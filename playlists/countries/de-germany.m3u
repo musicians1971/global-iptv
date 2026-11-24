@@ -111,6 +111,10 @@ https://jmp2.uk/stvp-CHAJ0500413A
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 tvg-id="DeluxeRap.de" tvg-country="DE" group-title="music",Deluxe Rap
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.de" tvg-country="DE" group-title="kids",Disney Channel
+https://s6.hopslan.com/disneyX/index.m3u8
+#EXTINF:-1 tvg-id="DMAX.de" tvg-country="DE" group-title="lifestyle",DMAX HD
+https://s6.hopslan.com/dmaxX/index.m3u8
 #EXTINF:-1 tvg-id="Dokusat.de" tvg-country="DE" group-title="documentary",Dokusat
 https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
 #EXTINF:-1 tvg-id="DrakeJosh.de" tvg-country="DE" group-title="kids",Drake & Josh

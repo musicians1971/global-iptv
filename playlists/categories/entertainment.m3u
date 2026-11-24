@@ -145,6 +145,8 @@ https://mistserver.evi-tv.com/hls/evi_tv_live/index.m3u8
 https://5790d294af2dc.streamlock.net/latinostv/latinostv/playlist.m3u8
 #EXTINF:-1 tvg-id="CibaenaTV.do" tvg-country="DO" group-title="entertainment",Cibaeña TV
 https://streamunoapp.com:3958/live/cibaenatvlive.m3u8
+#EXTINF:-1 tvg-id="ClaroVisionTV.do" tvg-country="DO" group-title="entertainment",Claro Visión TV
+https://streamunoapp.com:3057/live/clarovisiontvlive.m3u8
 #EXTINF:-1 tvg-id="Super7FM.do" tvg-country="DO" group-title="entertainment",Super7FM
 https://stream.haislin.com/super7fm/index.m3u8
 #EXTINF:-1 tvg-id="BacanTeVeo.ec" tvg-country="EC" group-title="entertainment",Bacán Te Veo
@@ -163,10 +165,6 @@ https://stream.solmediaeg.com/soltv/soltv.m3u8
 https://sb.err.ee/live/etvpluss.m3u8
 #EXTINF:-1 tvg-id="OTV.ee" tvg-country="EE" group-title="entertainment",OTV
 http://88.212.7.14/live/otv/playlist.m3u8
-#EXTINF:-1 tvg-id="Jim.fi" tvg-country="FI" group-title="entertainment",Jim
-https://live-fi.tvkaista.net/jim/live.m3u8?hd=true
-#EXTINF:-1 tvg-id="Liv.fi" tvg-country="FI" group-title="entertainment",Liv
-https://live-fi.tvkaista.net/liv/live.m3u8?hd=true
 #EXTINF:-1 tvg-id="13emeRue.fr" tvg-country="FR" group-title="entertainment",13eme Rue
 http://192.99.186.30/stream/251/index.m3u8
 #EXTINF:-1 tvg-id="6ter.fr" tvg-country="FR" group-title="entertainment",6ter
@@ -299,8 +297,6 @@ http://88.212.7.14/live/rtl_otthon_atk/index.m3u8
 http://88.212.7.14/live/sorozatklub_atk/index.m3u8
 #EXTINF:-1 tvg-id="SpektrumHome.hu" tvg-country="HU" group-title="entertainment",Spektrum Home
 http://88.212.7.14/live/spektrum_home_hun/index.m3u8
-#EXTINF:-1 tvg-id="ZugloTV.hu" tvg-country="HU" group-title="entertainment",Zuglo TV
-https://cloudfront44.lexanetwork.com:1344/freerelay/zuglotv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="AakaashAath.in" tvg-country="IN" group-title="entertainment",Aakaash Aath
 https://cdn.pishow.tv/ott/live/969/master.m3u8
 #EXTINF:-1 tvg-id="AlrightTV.in" tvg-country="IN" group-title="entertainment",Alright! TV
@@ -615,6 +611,8 @@ https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/60580
 https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8
 #EXTINF:-1 tvg-id="DelReyTV.py" tvg-country="PY" group-title="entertainment",Del Rey TV
 https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8
+#EXTINF:-1 tvg-id="GOTV.py" tvg-country="PY" group-title="entertainment",GO TV
+https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
 #EXTINF:-1 tvg-id="MiTV.py" tvg-country="PY" group-title="entertainment",MiTV
 https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
 #EXTINF:-1 tvg-id="OasisTV.py" tvg-country="PY" group-title="entertainment",Oasis TV
@@ -635,8 +633,6 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://183.giatvcdn.com/giatvplayout7/giatv-211353/playlist.m3u8
 #EXTINF:-1 tvg-id="BialogardzkaTelewizjaKablowa.pl" tvg-country="PL" group-title="entertainment",Bialogardzka Telewizja Kablowa
 https://bsmbialogard.pl/live/index.m3u8
-#EXTINF:-1 tvg-id="CrimePlusInvestigationPolsat.pl" tvg-country="PL" group-title="entertainment",Crime + Investigation Polsat
-http://92.114.85.87:8015/play/a00d/index.m3u8
 #EXTINF:-1 tvg-id="Fox.pl" tvg-country="PL" group-title="entertainment",Fox
 http://92.114.85.87:8015/play/a00a/index.m3u8
 #EXTINF:-1 tvg-id="RadiowaCzworka.pl" tvg-country="PL" group-title="entertainment",Radio Czwórka
@@ -787,8 +783,6 @@ https://jmp2.uk/plu-68dfa1e7fae18f8db6218703.m3u8
 https://jmp2.uk/plu-68dfa160cc3c6cd90404d798.m3u8
 #EXTINF:-1 tvg-id="RidiculousnessNyeepisoder.se" tvg-country="SE" group-title="entertainment",Ridiculousness Nye episoder
 https://jmp2.uk/plu-68dfa1a7fae18f8db6218222.m3u8
-#EXTINF:-1 tvg-id="RobinsonEkspeditionen.se" tvg-country="SE" group-title="entertainment",Robinson Ekspeditionen
-https://jmp2.uk/plu-63a42df60cc44a0007dd47f8.m3u8
 #EXTINF:-1 tvg-id="SkonhetsfallanDanmark.se" tvg-country="SE" group-title="entertainment",Skönhetsfällan Danmark
 https://jmp2.uk/plu-643808dce0789d00084797f6.m3u8
 #EXTINF:-1 tvg-id="SvenskaHollywoodfruar.se" tvg-country="SE" group-title="entertainment",Svenska Hollywoodfruar
@@ -831,6 +825,10 @@ https://hls.4utv.live/hls/stream.m3u8
 https://canli.edessatv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="KanalDDrama.tr" tvg-country="TR" group-title="entertainment",Kanal D Drama
 http://190.93.224.42/KANAL-D-DRAMA/index.m3u8
+#EXTINF:-1 tvg-id="BTV.ug" tvg-country="UG" group-title="entertainment",BTV
+https://streamfi-alphadgtl1.zettawiseroutes.com:8181/hls/stream.m3u8
+#EXTINF:-1 tvg-id="FORTTV.ug" tvg-country="UG" group-title="entertainment",FORT TV
+https://fort.co-works.org/memfs/87017643-274a-4bc0-a786-7767a0d159c2.m3u8
 #EXTINF:-1 tvg-id="K2.ua" tvg-country="UA" group-title="entertainment",K2
 https://cdn15.live-tv.cloud/ua_infinitas_tv/k2-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="Sonce.ua" tvg-country="UA" group-title="entertainment",Sonce
@@ -1163,9 +1161,17 @@ https://freem3u.xyz/api/live/play.m3u8?vid=192
 https://freem3u.xyz/api/live/play.m3u8?vid=182
 #EXTINF:-1 tvg-id="ONInfoTV.vn" tvg-country="VN" group-title="business",ON Info TV
 https://freem3u.xyz/api/live/play.m3u8?vid=189
+#EXTINF:-1 tvg-id="ONVFamily.vn" tvg-country="VN" group-title="entertainment",ON V Family
+https://vmttv.dpdns.org/tv360?id=187
 #EXTINF:-1 tvg-id="ONVieDramas.vn" tvg-country="VN" group-title="entertainment",ON Vie Dramas
 https://freem3u.xyz/api/live/play.m3u8?vid=177
 #EXTINF:-1 tvg-id="ONVieGiaiTri.vn" tvg-country="VN" group-title="entertainment",ON Vie Giai Tri
 https://freem3u.xyz/api/live/play.m3u8?vid=180
+#EXTINF:-1 tvg-id="VinhLongTV2.vn" tvg-country="VN" group-title="culture",Vinh Long TV 2
+https://dethich.pw/thvl2/index.m3u8
+#EXTINF:-1 tvg-id="VinhLongTV3.vn" tvg-country="VN" group-title="movies",Vinh Long TV 3
+https://dethich.pw/thvl3/index.m3u8
+#EXTINF:-1 tvg-id="VinhLongTV4.vn" tvg-country="VN" group-title="culture",Vinh Long TV 4
+https://dethich.pw/thvl4/index.m3u8
 #EXTINF:-1 tvg-id="VinhLongTV5.vn" tvg-country="VN" group-title="culture",Vinh Long TV 5
 https://freem3u.xyz/api/live/play.m3u8?vid=91

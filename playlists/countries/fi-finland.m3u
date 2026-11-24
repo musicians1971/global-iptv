@@ -1,12 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="HimlenTV7.fi" tvg-country="FI" group-title="religious",Himlen TV7
 https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Jim.fi" tvg-country="FI" group-title="entertainment",Jim
-https://live-fi.tvkaista.net/jim/live.m3u8?hd=true
 #EXTINF:-1 tvg-id="JRTVJarviradio.fi" tvg-country="FI" group-title="music",JRTV Järviradio
 https://streamer.radiotaajuus.fi/memfs/47f113bf-04ea-493b-a9d4-52945fd9db31.m3u8
-#EXTINF:-1 tvg-id="Liv.fi" tvg-country="FI" group-title="entertainment",Liv
-https://live-fi.tvkaista.net/liv/live.m3u8?hd=true
 #EXTINF:-1 tvg-id="MTVSub.fi" tvg-country="FI",MTV Sub
 https://live-fi.tvkaista.net/sub/live.m3u8
 #EXTINF:-1 tvg-id="MTV3.fi" tvg-country="FI" group-title="general",MTV3

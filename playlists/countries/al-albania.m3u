@@ -13,5 +13,7 @@ https://stream.syritv.al/live/syritv/playlist.m3u8
 https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVJohaniter.al" tvg-country="AL" group-title="general",TV Johaniter
 https://protokolldns.xyz/johaniterweb44547dsd/index.m3u8
+#EXTINF:-1 tvg-id="VizionPlus.al" tvg-country="AL" group-title="general",Vizion Plus
+https://tringliveviz.akamaized.net/delta/105/out/u/qwaszxerdfcvrtryuy.m3u8
 #EXTINF:-1 tvg-id="ZjarrTV.al" tvg-country="AL" group-title="general",Zjarr TV
 https://zjarr.future.al/hls/playlist.m3u8

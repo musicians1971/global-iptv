@@ -675,14 +675,14 @@ https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8
 #EXTINF:-1 tvg-id="PaighanTV.pk" tvg-country="PK" group-title="religious",Paighan TV
 https://cdn4.mjunoon.tv:8087/streamtest/107M/chunks.m3u8
+#EXTINF:-1 tvg-id="HolyQuranRadioNablus.ps" tvg-country="PS" group-title="religious",Holy Quran Radio Nablus
+http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8
 #EXTINF:-1 tvg-id="ARCanal.pa" tvg-country="PA" group-title="religious",A&R Canal Adventista
 http://51.222.9.192:3589/stream/play.m3u8
 #EXTINF:-1 tvg-id="RadioHogar.pa" tvg-country="PA" group-title="religious",Radio Hogar
 https://www.streaming507.net:19360/videoradiohogar/videoradiohogar.m3u8
 #EXTINF:-1 tvg-id="VisionLatina.pa" tvg-country="PA" group-title="religious",Vision Latina
 https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/64917431-2f51-0a46-d4d0-04d111b2393f/master.m3u8
-#EXTINF:-1 tvg-id="CaritasTV.py" tvg-country="PY" group-title="religious",Cáritas TV
-https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8
 #EXTINF:-1 tvg-id="NandejaraNeeTV.py" tvg-country="PY" group-title="religious",Nandejara Ne'e TV
 https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?admin=tvaccion
 #EXTINF:-1 tvg-id="AndesTelevision.pe" tvg-country="PE" group-title="religious",Andes Television
@@ -843,6 +843,10 @@ https://lbl.netmedya.net/hls/lalegultv.m3u8
 https://canli.sercemtv.com.tr/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="ThaqalaynTV.tr" tvg-country="TR" group-title="religious",Althaqalayn TV
 http://62.60.207.173:8080/hls/thaqalayn/index.m3u8
+#EXTINF:-1 tvg-id="AlphaDigital.ug" tvg-country="UG" group-title="religious",Alpha Digital
+https://streamfi-alphatvdgtl1.zettawiseroutes.com:8181/hls/stream.m3u8
+#EXTINF:-1 tvg-id="DreamTV.ug" tvg-country="UG" group-title="religious",Dream TV
+https://streamfi-dreamtv1.zettawiseroutes.com:8181/hls/stream.m3u8
 #EXTINF:-1 tvg-id="GloriousTimesTV.ug" tvg-country="UG" group-title="religious",Glorious Times TV
 https://gttv-cdn.cybercdn.live/GTTV/Live/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTNUkraine.ua" tvg-country="UA" group-title="religious",EWTN Ukraine

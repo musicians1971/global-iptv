@@ -37,8 +37,6 @@ http://92.114.85.87:8019/play/a009/index.m3u8
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883095
 #EXTINF:-1 tvg-id="CBeebies.pl" tvg-country="PL" group-title="kids",CBeebies
 http://92.114.85.87:8017/play/a004/index.m3u8
-#EXTINF:-1 tvg-id="CrimePlusInvestigationPolsat.pl" tvg-country="PL" group-title="entertainment",Crime + Investigation Polsat
-http://92.114.85.87:8015/play/a00d/index.m3u8
 #EXTINF:-1 tvg-id="DiscoPoloMusic.pl" tvg-country="PL" group-title="music",Disco Polo Music
 http://92.114.85.87:8014/play/a007/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.pl" tvg-country="PL" group-title="kids",Disney Channel HD
@@ -163,6 +161,8 @@ http://92.114.85.87:8004/play/a00c/index.m3u8
 https://prx-y5cf8.mediatool.tv/playout/tbn-abr67/index.m3u8
 #EXTINF:-1 tvg-id="Tele5.pl" tvg-country="PL",Tele5
 http://92.114.85.87:8012/play/a005/index.m3u8
+#EXTINF:-1 tvg-id="TeletoonPlus.pl" tvg-country="PL" group-title="animation",Teletoon+ HD
+http://92.114.85.87:8009/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="TelewizjaBiznesowa.pl" tvg-country="PL" group-title="business",Telewizja Biznesowa
 https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8
 #EXTINF:-1 tvg-id="TelewizjaImperium.pl" tvg-country="PL" group-title="general",Telewizja Imperium
@@ -177,6 +177,8 @@ https://tvregfull.mailfull.pl/tvregfull/memfs/e64b3e05-649c-4939-9ff6-584e79285c
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883039
 #EXTINF:-1 tvg-id="TOPBarca.pl" tvg-country="PL",Top Barça
 https://jmp2.uk/plu-6888ee858f4a4aa11feb9430.m3u8
+#EXTINF:-1 tvg-id="TravelChannel.pl" tvg-country="PL" group-title="travel",Travel Channel
+http://92.114.85.87:8011/play/a00d/index.m3u8
 #EXTINF:-1 tvg-id="TVASTA.pl" tvg-country="PL" group-title="general",TV ASTA
 https://5cce8c6f0e84c.streamlock.net/LiveCast/smil:PlayStream9.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVOkazje.pl" tvg-country="PL",TV Okazje

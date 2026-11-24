@@ -651,3 +651,5 @@ https://freem3u.xyz/api/live/play.m3u8?vid=192
 https://dethich.pw/htvcphim/index.m3u8
 #EXTINF:-1 tvg-id="ONCine.vn" tvg-country="VN" group-title="series",ON Cine
 https://freem3u.xyz/api/live/play.m3u8?vid=176
+#EXTINF:-1 tvg-id="ONPhimViet.vn" tvg-country="VN" group-title="series",ON Phim Viet
+https://vmttv.dpdns.org/tv360?id=175
