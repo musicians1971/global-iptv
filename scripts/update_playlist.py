@@ -21,6 +21,7 @@ API = "https://iptv-org.github.io/api"
 USER_AGENT = "global-iptv-playlist-builder/1.0 (+https://github.com/musicians1971/global-iptv)"
 TIMEOUT = float(os.environ.get("IPTV_TIMEOUT", "8"))
 WORKERS = int(os.environ.get("IPTV_WORKERS", "48"))
+RUSSIAN_LANGUAGE = "rus"  # ISO 639-3
 
 
 def fetch_json(name: str) -> list[dict[str, Any]]:
@@ -32,21 +33,30 @@ def fetch_json(name: str) -> list[dict[str, Any]]:
     return data
 
 
-def available(url: str) -> tuple[bool, str]:
-    """Probe a URL with a short GET; HEAD is unreliable for streaming hosts."""
+def available(stream: dict[str, Any]) -> tuple[bool, str]:
+    """Check a stream with the source's request headers and inspect its response."""
+    url = str(stream["url"])
+    headers = {"User-Agent": stream.get("user_agent") or USER_AGENT}
+    if stream.get("referrer"):
+        headers["Referer"] = str(stream["referrer"])
     request = urllib.request.Request(
         url,
-        headers={"User-Agent": USER_AGENT, "Range": "bytes=0-0"},
+        headers=headers,
         method="GET",
     )
     try:
         with urllib.request.urlopen(request, timeout=TIMEOUT) as response:
-            response.read(1)
-            return response.status < 400, str(response.status)
+            content_type = response.headers.get_content_type().casefold()
+            body = response.read(4096)
+            if response.status >= 400 or not body:
+                return False, str(response.status)
+            if content_type in {"text/html", "application/json", "text/plain"}:
+                return False, f"unexpected content type: {content_type}"
+            is_hls = ".m3u8" in response.geturl().casefold() or "mpegurl" in content_type
+            if is_hls and not body.lstrip(b"\xef\xbb\xbf\t\r\n ").startswith(b"#EXTM3U"):
+                return False, "invalid HLS playlist"
+            return True, str(response.status)
     except urllib.error.HTTPError as exc:
-        # A range request may be rejected even when the endpoint is alive.
-        if exc.code in (400, 405, 416, 501):
-            return True, f"{exc.code} (range unsupported)"
         return False, str(exc.code)
     except (urllib.error.URLError, TimeoutError, OSError, ValueError) as exc:
         return False, type(exc).__name__
@@ -64,6 +74,10 @@ def m3u(channels: list[dict[str, Any]]) -> str:
         attrs = [f'tvg-id="{item["id"]}"'] if item.get("id") else []
         if item.get("country"):
             attrs.append(f'tvg-country="{item["country"]}"')
+        if item.get("referrer"):
+            attrs.append(f'http-referrer="{_attribute(item["referrer"])}"')
+        if item.get("user_agent"):
+            attrs.append(f'http-user-agent="{_attribute(item["user_agent"])}"')
         cats = item.get("categories") or []
         if cats:
             attrs.append(f'group-title="{cats[0]}"')
@@ -71,6 +85,10 @@ def m3u(channels: list[dict[str, Any]]) -> str:
         lines.append(f"#EXTINF:-1 {' '.join(attrs)},{title}")
         lines.append(item["url"])
     return "\n".join(lines) + "\n"
+
+
+def _attribute(value: str) -> str:
+    return str(value).replace("&", "&amp;").replace('"', "&quot;").replace("\r", " ").replace("\n", " ")
 
 
 def write_grouped(directory: Path, groups: dict[str, list[dict[str, Any]]]) -> None:
@@ -81,18 +99,33 @@ def write_grouped(directory: Path, groups: dict[str, list[dict[str, Any]]]) -> N
         (directory / f"{slug(key)}.m3u").write_text(m3u(channels), encoding="utf-8")
 
 
-def build(streams: list[dict[str, Any]], channels: list[dict[str, Any]], countries: list[dict[str, Any]]) -> dict[str, Any]:
+def build(
+    streams: list[dict[str, Any]],
+    channels: list[dict[str, Any]],
+    countries: list[dict[str, Any]],
+    feeds: list[dict[str, Any]],
+) -> dict[str, Any]:
     channel_by_id = {c["id"]: c for c in channels if c.get("id")}
     country_names = {c["code"].upper(): c["name"] for c in countries if c.get("code")}
+    feed_by_key = {
+        (feed.get("channel"), feed.get("id")): feed
+        for feed in feeds
+        if feed.get("channel") and feed.get("id")
+    }
 
     # URLs can be listed multiple times, including under different feeds. Keep one
     # record and prefer the first one that has a known channel ID.
     unique: dict[str, dict[str, Any]] = {}
     duplicates = 0
     excluded_labels = 0
+    excluded_language = 0
     for stream in streams:
         url = stream.get("url")
         if not isinstance(url, str) or not url.startswith(("http://", "https://")):
+            continue
+        feed = feed_by_key.get((stream.get("channel"), stream.get("feed")))
+        if not feed or RUSSIAN_LANGUAGE not in {str(code).casefold() for code in feed.get("languages", [])}:
+            excluded_language += 1
             continue
         labels = {str(label).casefold() for label in stream.get("labels", [])}
         if labels.intersection({"geo-blocked", "not 24/7"}):
@@ -108,7 +141,7 @@ def build(streams: list[dict[str, Any]], channels: list[dict[str, Any]], countri
 
     checks: dict[str, tuple[bool, str]] = {}
     with concurrent.futures.ThreadPoolExecutor(max_workers=WORKERS) as pool:
-        futures = {pool.submit(available, url): url for url in unique}
+        futures = {pool.submit(available, stream): url for url, stream in unique.items()}
         for future in concurrent.futures.as_completed(futures):
             url = futures[future]
             try:
@@ -141,6 +174,8 @@ def build(streams: list[dict[str, Any]], channels: list[dict[str, Any]], countri
             "country": country_code,
             "country_name": country_names.get(country_code, "Unknown"),
             "categories": channel.get("categories") or [],
+            "referrer": stream.get("referrer") or "",
+            "user_agent": stream.get("user_agent") or "",
         })
     rows.sort(key=lambda row: (row["country_name"].casefold(), row["name"].casefold(), row["url"]))
 
@@ -155,6 +190,7 @@ def build(streams: list[dict[str, Any]], channels: list[dict[str, Any]], countri
             category_groups[str(category)].append(row)
     write_grouped(ROOT / "playlists" / "countries", country_groups)
     write_grouped(ROOT / "playlists" / "categories", category_groups)
+    write_grouped(ROOT / "playlists" / "languages", {"rus": rows})
 
     now = dt.datetime.now(dt.timezone.utc).replace(microsecond=0)
     stats = {
@@ -164,6 +200,7 @@ def build(streams: list[dict[str, Any]], channels: list[dict[str, Any]], countri
         "unique_candidate_urls": len(unique),
         "duplicate_urls_removed": duplicates,
         "excluded_labeled_streams": excluded_labels,
+        "excluded_non_russian_or_unknown_language": excluded_language,
         "checked_urls": len(checks),
         "available_urls": sum(1 for ok, _ in checks.values() if ok),
         "available_channels": len(rows),
@@ -179,8 +216,8 @@ def build(streams: list[dict[str, Any]], channels: list[dict[str, Any]], countri
 def main() -> int:
     start = time.monotonic()
     try:
-        streams, channels, countries = (fetch_json(name) for name in ("streams", "channels", "countries"))
-        stats = build(streams, channels, countries)
+        streams, channels, countries, feeds = (fetch_json(name) for name in ("streams", "channels", "countries", "feeds"))
+        stats = build(streams, channels, countries, feeds)
     except Exception as exc:
         print(f"Playlist update failed: {exc}", file=sys.stderr)
         return 1
