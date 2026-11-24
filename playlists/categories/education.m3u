@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="DaVinci.ru" tvg-country="RU" group-title="education",Da Vinci
-https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Doctor.ru" tvg-country="RU" group-title="education",Doctor
-http://178.134.1.158:8081/doktor/index.m3u8

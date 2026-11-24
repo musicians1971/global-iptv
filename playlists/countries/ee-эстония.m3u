@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ETVPlus.ee" tvg-country="EE" group-title="Развлечения",ETV+
+https://sb.err.ee/live/etvpluss.m3u8
+#EXTINF:-1 tvg-id="LifeTV.ee@SD" tvg-country="EE" group-title="Религиозные",Life TV
+https://lifetv.bitflip.ee/live/stream1.m3u8
+#EXTINF:-1 tvg-id="OTV.ee" tvg-country="EE" group-title="Развлечения",OTV
+http://88.212.7.14/live/otv/playlist.m3u8
+#EXTINF:-1 tvg-id="TBNBaltia.ee" tvg-country="EE" group-title="Религиозные",TBN Baltia
+http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8

@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Nostalgia.ru" tvg-country="RU" group-title="Классика",Ностальгия
+http://176.118.197.101/Nostalgiya/index.m3u8
+#EXTINF:-1 tvg-id="Retro.ru" tvg-country="RU" group-title="Классика",Ретро
+https://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Smotrim100Klassika.ru" tvg-country="RU" group-title="Кино",Смотрим 100% Классика
+https://stream.smotrim.ru/hls2/fasttv03/playlist_3.m3u8
+#EXTINF:-1 tvg-id="BollywoodClassic.ro" tvg-country="RO" group-title="Кино",Bollywood Classic
+https://hls02ns.antenaplay.ro/hls/bollywood-sd/index.m3u8

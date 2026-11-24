@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Domashniy.ru" tvg-country="RU" group-title="Образ жизни",Dомашний
+http://31.148.5.241/kanal_14/index.m3u8
+#EXTINF:-1 tvg-id="Doctor.ru" tvg-country="RU" group-title="Образование",Доктор
+http://178.134.1.158:8081/doktor/index.m3u8
+#EXTINF:-1 tvg-id="DomashnieZhivotnye.ru" tvg-country="RU" group-title="Образ жизни",Домашние животные
+https://stream8.cinerama.uz/1426/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ZdorovoeTV.ru" tvg-country="RU" group-title="Образ жизни",Здоровое ТВ
+https://stream8.cinerama.uz/1428/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="OtkritiymirZdorove.ru" tvg-country="RU" group-title="Образ жизни",Открытый мир. Здоровье
+https://v4.proofix.ru/0mir/index.m3u8
+#EXTINF:-1 tvg-id="CityEdenMedZdrav.ru@HD" tvg-country="RU" group-title="Образ жизни",Сити Эдем МедЗдрав
+https://cityeden.catcast.tv/content/47519/index.m3u8
+#EXTINF:-1 tvg-id="WorldFashionChannel.ru" tvg-country="RU" group-title="Образ жизни",World Fashion Channel
+https://cdn.wfc.tv/cdn/stream-eng.m3u8

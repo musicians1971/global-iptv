@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Belarus2.by" tvg-country="BY" group-title="Развлечения",Беларусь 2
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Channel8.ru" tvg-country="RU" group-title="Развлечения",8 канал
+http://45.11.139.43:8555/8kanal/index.m3u8
+#EXTINF:-1 tvg-id="2x2.ru" tvg-country="RU" group-title="Развлечения",Дважды два
+http://176.118.197.101/2x2/index.m3u8
+#EXTINF:-1 tvg-id="OTVPrim.ru" tvg-country="RU" group-title="Развлечения",ОТВ-Прим
+https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Poehali.ru" tvg-country="RU" group-title="Развлечения",Поехали!
+http://88.212.15.50/live/test_poehali/playlist.m3u8
+#EXTINF:-1 tvg-id="Friday.ru" tvg-country="RU" group-title="Развлечения",Пятница!
+http://31.148.5.241/kanal_16/index.m3u8
+#EXTINF:-1 tvg-id="Smotrim100k1.ru" tvg-country="RU" group-title="Развлечения",Смотрим 100% к 1
+https://stream.smotrim.ru/hls2/fasttv08/playlist_2.m3u8
+#EXTINF:-1 tvg-id="Smotrim100Prazdnik.ru" tvg-country="RU" group-title="Развлечения",Смотрим 100% Праздник
+https://stream.smotrim.ru/hls2/fasttv04/playlist_3.m3u8
+#EXTINF:-1 tvg-id="Smotrim100Talkshow.ru" tvg-country="RU" group-title="Развлечения",Смотрим 100% Ток-шоу
+https://stream.smotrim.ru/hls2/fasttv09/playlist_3.m3u8
+#EXTINF:-1 tvg-id="Subbota.ru" tvg-country="RU" group-title="Развлечения",Суббота!
+https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?e=2066519758&s=dmUf6BUQzDBTwtQOseAfog&scheme=https
+#EXTINF:-1 tvg-id="TV3.ru" tvg-country="RU" group-title="Развлечения",ТВ-3
+http://31.148.5.241/kanal_15/index.m3u8
+#EXTINF:-1 tvg-id="TvoeTV.ru" tvg-country="RU" group-title="Развлечения",Твое ТВ
+http://tvoetv.space:8080/tvoetv/index.m3u8
+#EXTINF:-1 tvg-id="TNT.ru" tvg-country="RU" group-title="Развлечения",ТНТ
+http://31.148.5.241/kanal_19/index.m3u8
+#EXTINF:-1 tvg-id="Che.ru" tvg-country="RU" http-user-agent="WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer" group-title="Развлечения",Че!
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
+#EXTINF:-1 tvg-id="U.ru" tvg-country="RU" group-title="Развлечения",Ю
+https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?e=2066519758&s=9cPc1rCGu6M932eqrifRhQ&scheme=https
+#EXTINF:-1 tvg-id="red.ru" tvg-country="RU" group-title="Развлечения",.red
+http://178.134.1.158:8081/red/index.m3u8
+#EXTINF:-1 tvg-id="MakonTV.uz" tvg-country="UZ" group-title="Развлечения",Makon TV
+https://stream8.cinerama.uz/1497/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ETVPlus.ee" tvg-country="EE" group-title="Развлечения",ETV+
+https://sb.err.ee/live/etvpluss.m3u8
+#EXTINF:-1 tvg-id="OTV.ee" tvg-country="EE" group-title="Развлечения",OTV
+http://88.212.7.14/live/otv/playlist.m3u8

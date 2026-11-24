@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="GlazamiTurista.ru" tvg-country="RU" group-title="travel",Glazami Turista
-https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="RTGTV.ru" tvg-country="RU" group-title="travel",RTG TV HD
-http://46.53.200.153:7777/play/a00u/index.m3u8
-#EXTINF:-1 tvg-id="Vkus.ru" tvg-country="RU" group-title="travel",Vkus
-http://178.134.1.158:8081/vkus/index.m3u8

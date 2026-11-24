@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="ART.ru" tvg-country="RU" group-title="culture",ART
-http://89.104.114.24:8080/art/index.m3u8
-#EXTINF:-1 tvg-id="Ministerstvoidey.ru" tvg-country="RU" group-title="culture",Ministerstvo idey
-https://live-minidey.cdnvideo.ru/minidey-srt/minidey/playlist.m3u8
-#EXTINF:-1 tvg-id="NTVMir.ru" tvg-country="RU" group-title="culture",НТВ Мир
-https://streaming.thestream.cyou/live/213.m3u8
-#EXTINF:-1 tvg-id="RussiaK.ru" tvg-country="RU" group-title="culture",Russia-K HD
-https://live.smotrim.ru/vgtrk/0/kultura-hd/index.m3u8

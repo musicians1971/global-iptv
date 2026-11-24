@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="365daysTV.ru" tvg-country="RU" group-title="Документальные",365 дней ТВ
+https://stream8.cinerama.uz/1242/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="RTDocumentary.ru" tvg-country="RU" group-title="Документальные",RTД
+https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
+#EXTINF:-1 tvg-id="Arsenal.ru" tvg-country="RU" group-title="Документальные",Арсенал
+https://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Nano.ru" tvg-country="RU" group-title="Документальные",Нано
+http://185.23.80.23:8080/NANO_HD/index.m3u8
+#EXTINF:-1 tvg-id="Nauka.ru" tvg-country="RU" group-title="Документальные",Наука
+https://vod.tuva.ru/nauka2/index.m3u8
+#EXTINF:-1 tvg-id="CityEdenKinoDok.ru@HD" tvg-country="RU" group-title="Документальные",Сити Эдем КиноДок
+https://cityeden.catcast.tv/content/38354/index.m3u8
+#EXTINF:-1 tvg-id="Smotrim100Fakty.ru" tvg-country="RU" group-title="Документальные",Смотрим 100% Факты
+https://stream.smotrim.ru/hls2/fasttv06/playlist_3.m3u8
+#EXTINF:-1 tvg-id="TheExplorers.ru" tvg-country="RU" group-title="Документальные",The Explorers
+https://sofast-yupptv.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4804aca3-dd54-43d1-8caa-0b836a76d9e9/manifest.m3u8
+#EXTINF:-1 tvg-id="vijuExplore.ru" tvg-country="RU" group-title="Документальные",viju Explore
+http://46.53.200.153:7777/play/a01i/index.m3u8
+#EXTINF:-1 tvg-id="vijuHistory.ru" tvg-country="RU" group-title="Документальные",viju History
+http://46.53.200.153:7777/play/a01j/index.m3u8
+#EXTINF:-1 tvg-id="vijuNature.ru" tvg-country="RU" group-title="Документальные",viju Nature
+https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="DocuBox.nl" tvg-country="NL" group-title="Документальные",DocuBox
+https://dash3.antik.sk/live/test_docubox_medium_atk/playlist.m3u8

@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="DW.de" tvg-country="DE" group-title="news",DW Russian
+#EXTINF:-1 tvg-id="DW.de" tvg-country="DE" group-title="Новости",DW
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
 #EXTINF:-1 tvg-id="TVRUS.de" tvg-country="DE" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",TVRUS
 http://213.91.179.28:8000/play/a082

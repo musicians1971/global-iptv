@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Solnce.ru" tvg-country="RU" group-title="Мультфильмы",Солнце
+http://217.114.191.150/Solnce/index.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkCEE.uk" tvg-country="UK" group-title="Мультфильмы",Cartoon Network CEE
+http://45.132.87.69:8080/cartoon_network/index.m3u8

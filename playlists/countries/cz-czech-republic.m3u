@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CurrentTimeTV.cz" tvg-country="CZ" group-title="news",Настоящее Время
+#EXTINF:-1 tvg-id="CurrentTimeTV.cz" tvg-country="CZ" group-title="Новости",Настоящее Время
 https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8

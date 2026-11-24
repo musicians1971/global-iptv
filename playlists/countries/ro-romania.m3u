@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BollywoodHD.ro" tvg-country="RO" group-title="movies",Bollywood HD Russia
+#EXTINF:-1 tvg-id="BollywoodClassic.ro" tvg-country="RO" group-title="Кино",Bollywood Classic
+https://hls02ns.antenaplay.ro/hls/bollywood-sd/index.m3u8
+#EXTINF:-1 tvg-id="BollywoodHD.ro" tvg-country="RO" group-title="Кино",Bollywood HD
 https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
