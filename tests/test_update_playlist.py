@@ -10,7 +10,25 @@ import scripts.update_playlist as updater
 class PlaylistTests(unittest.TestCase):
     def test_slug_is_safe_and_stable(self):
         self.assertEqual(updater.slug("United States / News"), "united-states-news")
+        self.assertEqual(updater.slug("Россия / Новости"), "россия-новости")
         self.assertEqual(updater.slug("!!!"), "unknown")
+
+    def test_parse_m3u_reads_ids_urls_and_vlc_headers(self):
+        playlist = (
+            '#EXTM3U\n#EXTINF:-1 tvg-id="Example.ru" tvg-country="RU",Новости\n'
+            "#EXTVLCOPT:http-referrer=https://example.test/\n"
+            "https://example.test/live.m3u8\n"
+        )
+        records = updater.parse_m3u(playlist, "Test source")
+        self.assertEqual(len(records), 1)
+        self.assertEqual(records[0]["channel"], "Example.ru")
+        self.assertEqual(records[0]["title"], "Новости")
+        self.assertEqual(records[0]["referrer"], "https://example.test/")
+        self.assertEqual(records[0]["source"], "Test source")
+
+    def test_russian_names_sort_before_latin_names(self):
+        self.assertLess(updater.russian_sort_key("Новости"), updater.russian_sort_key("News"))
+        self.assertEqual(updater.russian_sort_key("Ёлка"), updater.russian_sort_key("Елка"))
 
     def test_m3u_has_metadata_headers_and_escaped_single_line_title(self):
         content = updater.m3u([{
@@ -60,6 +78,26 @@ class PlaylistTests(unittest.TestCase):
             self.assertEqual(stats["available_channels"], 1)
             self.assertEqual(stats["excluded_non_russian_or_unknown_language"], 1)
             self.assertEqual(saved_stats["excluded_labeled_streams"], 1)
+
+    def test_additional_playlist_stream_is_checked_and_localized(self):
+        streams = []
+        channels = [{
+            "id": "Example.kz", "name": "Example", "alt_names": ["Пример"],
+            "country": "KZ", "categories": ["news"],
+        }]
+        additional = [{
+            "channel": "Example.kz@HD", "title": "Example HD", "country": "KZ",
+            "url": "https://example.test/live.m3u8", "source": "External list",
+        }]
+        with tempfile.TemporaryDirectory() as temp:
+            with patch.object(updater, "ROOT", Path(temp)), patch.object(
+                updater, "available", return_value=(True, "200")
+            ):
+                stats = updater.build(streams, channels, [{"code": "KZ", "name": "Kazakhstan"}], [], additional)
+            playlist = (Path(temp) / "playlists" / "all.m3u").read_text(encoding="utf-8")
+            self.assertIn("group-title=\"Новости\",Пример", playlist)
+            self.assertEqual(stats["additional_source_candidates"], 1)
+            self.assertEqual(stats["available_channels"], 1)
 
     def test_available_rejects_error_pages_and_invalid_hls(self):
         class FakeHeaders:
