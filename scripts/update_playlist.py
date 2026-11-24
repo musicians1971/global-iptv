@@ -21,9 +21,16 @@ API = "https://iptv-org.github.io/api"
 ADDITIONAL_RUSSIAN_SOURCES = {
     "Nexonic IPTV": "https://raw.githubusercontent.com/nexonic-technologies/nexonic-iptv/main/playlists/languages/ru.m3u",
     "IPTV Nexus": "https://dearbulut.github.io/iptv/playlists/language/rus.m3u",
+    "NGRCH IPTV": "https://raw.githubusercontent.com/ngrch/iptv/main/ru.m3u",
+    "NGRCH Music and Radio": "https://raw.githubusercontent.com/ngrch/iptv/main/music.m3u",
+    "NGRCH Cartoons": "https://raw.githubusercontent.com/ngrch/iptv/main/cartoons.m3u",
+    "IPTV Russia": "https://raw.githubusercontent.com/substanc1/iptv-russia/main/streams/ru.m3u",
+    "DuckKota Russian playlist": "https://duckkota.github.io/iptv/playlists/language/rus.m3u",
 }
 USER_AGENT = "global-iptv-playlist-builder/1.0 (+https://github.com/musicians1971/global-iptv)"
 TIMEOUT = float(os.environ.get("IPTV_TIMEOUT", "8"))
+RETRY_TIMEOUT = float(os.environ.get("IPTV_RETRY_TIMEOUT", "12"))
+AVAILABILITY_RETRIES = int(os.environ.get("IPTV_AVAILABILITY_RETRIES", "1"))
 WORKERS = int(os.environ.get("IPTV_WORKERS", "48"))
 RUSSIAN_LANGUAGE = "rus"  # ISO 639-3
 
@@ -79,6 +86,8 @@ def parse_m3u(text: str, source_name: str = "additional") -> list[dict[str, Any]
             current = {
                 "channel": attrs.get("tvg-id", ""), "title": title,
                 "country": attrs.get("tvg-country", ""), "source": source_name,
+                "group_title": attrs.get("group-title", ""),
+                "language": attrs.get("tvg-language", ""),
                 "referrer": attrs.get("http-referrer", ""),
                 "user_agent": attrs.get("http-user-agent", ""),
             }
@@ -124,8 +133,8 @@ def fetch_json(name: str) -> list[dict[str, Any]]:
     return data
 
 
-def available(stream: dict[str, Any]) -> tuple[bool, str]:
-    """Check a stream with the source's request headers and inspect its response."""
+def _probe_once(stream: dict[str, Any], timeout: float) -> tuple[bool, str, bool]:
+    """Return (available, status, retryable) for a single request."""
     url = str(stream["url"])
     headers = {"User-Agent": stream.get("user_agent") or USER_AGENT}
     if stream.get("referrer"):
@@ -136,21 +145,32 @@ def available(stream: dict[str, Any]) -> tuple[bool, str]:
         method="GET",
     )
     try:
-        with urllib.request.urlopen(request, timeout=TIMEOUT) as response:
+        with urllib.request.urlopen(request, timeout=timeout) as response:
             content_type = response.headers.get_content_type().casefold()
             body = response.read(4096)
             if response.status >= 400 or not body:
-                return False, str(response.status)
+                return False, str(response.status), response.status in {408, 425, 429} or response.status >= 500
             if content_type in {"text/html", "application/json", "text/plain"}:
-                return False, f"unexpected content type: {content_type}"
+                return False, f"unexpected content type: {content_type}", False
             is_hls = ".m3u8" in response.geturl().casefold() or "mpegurl" in content_type
             if is_hls and not body.lstrip(b"\xef\xbb\xbf\t\r\n ").startswith(b"#EXTM3U"):
-                return False, "invalid HLS playlist"
-            return True, str(response.status)
+                return False, "invalid HLS playlist", False
+            return True, str(response.status), False
     except urllib.error.HTTPError as exc:
-        return False, str(exc.code)
+        return False, str(exc.code), exc.code in {408, 425, 429} or exc.code >= 500
     except (urllib.error.URLError, TimeoutError, OSError, ValueError) as exc:
-        return False, type(exc).__name__
+        return False, type(exc).__name__, True
+
+
+def available(stream: dict[str, Any]) -> tuple[bool, str]:
+    """Check a stream, retrying timeouts and temporary server errors once."""
+    for attempt in range(AVAILABILITY_RETRIES + 1):
+        timeout = RETRY_TIMEOUT if attempt else TIMEOUT
+        ok, status, retryable = _probe_once(stream, timeout)
+        if ok or not retryable or attempt >= AVAILABILITY_RETRIES:
+            return ok, status
+        time.sleep(0.25)
+    return False, "unavailable"
 
 
 def slug(value: str) -> str:
@@ -183,6 +203,15 @@ def _attribute(value: str) -> str:
     return str(value).replace("&", "&amp;").replace('"', "&quot;").replace("\r", " ").replace("\n", " ")
 
 
+def _normalized_channel_name(value: Any) -> str:
+    """Normalize titles so mirror rows from community lists collapse together."""
+    name = str(value or "").casefold().replace("ё", "е")
+    name = re.sub(r"\s*\(\d+\)\s*$", "", name)
+    name = re.sub(r"\s*\((?:\d{3,4}p|uhd|fhd|hd|sd)\)\s*$", "", name)
+    name = re.sub(r"\b(?:\d{3,4}p|uhd|fhd|hd|sd)\b", " ", name)
+    return " ".join(re.findall(r"[a-z0-9а-яё]+", name))
+
+
 def write_grouped(directory: Path, groups: dict[str, list[dict[str, Any]]]) -> None:
     directory.mkdir(parents=True, exist_ok=True)
     for old in directory.glob("*.m3u"):
@@ -209,6 +238,20 @@ def build(
         for feed in feeds
         if feed.get("channel") and feed.get("id")
     }
+    russian_channels = {
+        str(feed["channel"]).split("@", 1)[0]
+        for feed in feeds
+        if feed.get("channel")
+        and RUSSIAN_LANGUAGE in {str(code).casefold() for code in feed.get("languages", [])}
+    }
+    channel_id_by_name: dict[str, str] = {}
+    for channel in channels:
+        if not channel.get("id"):
+            continue
+        for name in [channel.get("name"), *(channel.get("alt_names") or [])]:
+            normalized = _normalized_channel_name(name)
+            if normalized:
+                channel_id_by_name.setdefault(normalized, str(channel["id"]).split("@", 1)[0])
 
     # URLs can be listed multiple times, including under different feeds. Keep one
     # record and prefer the first one that has a known channel ID.
@@ -221,7 +264,11 @@ def build(
         if not isinstance(url, str) or not url.startswith(("http://", "https://")):
             continue
         feed = feed_by_key.get((stream.get("channel"), stream.get("feed")))
-        if not feed or RUSSIAN_LANGUAGE not in {str(code).casefold() for code in feed.get("languages", [])}:
+        base_channel_id = str(stream.get("channel") or "").split("@", 1)[0]
+        feed_is_russian = bool(
+            feed and RUSSIAN_LANGUAGE in {str(code).casefold() for code in feed.get("languages", [])}
+        )
+        if not feed_is_russian and base_channel_id not in russian_channels:
             excluded_language += 1
             continue
         labels = {str(label).casefold() for label in stream.get("labels", [])}
@@ -270,7 +317,14 @@ def build(
         channel = channel_by_id.get(channel_id) or channel_by_base_id.get(base_channel_id)
         if channel and channel.get("is_nsfw"):
             continue
-        identity = base_channel_id or url
+        fallback_name = stream.get("title") or stream.get("name")
+        catalog_identity = channel_id_by_name.get(_normalized_channel_name(fallback_name))
+        if catalog_identity:
+            identity = catalog_identity
+        elif base_channel_id in channel_by_base_id:
+            identity = base_channel_id
+        else:
+            identity = _normalized_channel_name(fallback_name) or base_channel_id or url
         if identity not in selected:
             selected[identity] = (stream, channel or {})
 
@@ -280,7 +334,7 @@ def build(
         country_code = str(channel.get("country") or stream.get("country") or "").upper()
         fallback_name = stream.get("title") or stream.get("channel") or url
         display_name = russian_channel_name(channel, fallback_name)
-        categories = channel.get("categories") or []
+        categories = channel.get("categories") or ([stream["group_title"]] if stream.get("group_title") else [])
         display_category = CATEGORY_NAMES_RU.get(str(categories[0]).casefold(), str(categories[0])) if categories else ""
         rows.append({
             "id": stream.get("channel") or "",
