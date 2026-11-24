@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DRTV.dk" tvg-country="DK" group-title="general",DRTV
+https://drlivedrtvahls.akamaized.net/hls/live/2113613/drlivedrtva/master.m3u8
+#EXTINF:-1 tvg-id="TV2Fyn.dk" tvg-country="DK",TV 2 Fyn
+https://cdn.jwplayer.com/live/broadcast/igp9r9oc.mpd

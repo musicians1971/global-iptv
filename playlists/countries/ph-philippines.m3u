@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AbanteTV.ph" tvg-country="PH" group-title="news",Abante TV
+https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
+#EXTINF:-1 tvg-id="HopeChannelPhilippines.ph" tvg-country="PH" group-title="religious",Hope Channel Philippines
+https://jstre.am/live/jsl:nX5eC7gQvZb.m3u8
+#EXTINF:-1 tvg-id="INCRadio.ph" tvg-country="PH" group-title="religious",INC Radio
+https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_b60a96e056fc11f084c05f5d0649296b/rewind-1800.m3u8
+#EXTINF:-1 tvg-id="INCTV.ph" tvg-country="PH" group-title="religious",INC TV
+https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_f5ac22b0566511f0805217b960326aaa/rewind-1800.m3u8
+#EXTINF:-1 tvg-id="LivingAsiaChannel.ph" tvg-country="PH" group-title="travel",Living Asia Channel
+https://cdn.vegasplus.us/vegas/lac/playlist.m3u8
+#EXTINF:-1 tvg-id="MindanowNetworkTV.ph" tvg-country="PH" group-title="general",Mindanow Network TV
+https://cdn.vegasplus.us/vegas/mmn01/playlist.m3u8
+#EXTINF:-1 tvg-id="PremierSports.ph" tvg-country="PH" group-title="sports",Premier Sports
+https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
+#EXTINF:-1 tvg-id="PremierSports2.ph" tvg-country="PH" group-title="sports",Premier Sports 2
+https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8
+#EXTINF:-1 tvg-id="SMNI.ph" tvg-country="PH",SMNI
+https://stream.kdlc.click/hls/0/stream.m3u8

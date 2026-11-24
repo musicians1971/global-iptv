@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AnimaxAsia.sg" tvg-country="SG" group-title="animation",Animax Asia Taiwan
+http://125.227.210.55:3056/VideoInput/play.ts
+#EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-country="SG" group-title="cooking",Asian Food Network Vietnam
+https://freem3u.xyz/api/live/play.m3u8?vid=215
+#EXTINF:-1 tvg-id="AXNAsia.sg" tvg-country="SG" group-title="movies",AXN Asia Taiwan
+http://125.227.210.55:4050/VideoInput/play.ts
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-country="SG" group-title="animation",Cartoon Network Asia
+https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
+#EXTINF:-1 tvg-id="CartoonitoAsia.sg" tvg-country="SG" group-title="animation",Cartoonito Asia
+http://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8
+#EXTINF:-1 tvg-id="Channel5.sg" tvg-country="SG" group-title="general",Channel 5
+https://cdn.qd.je/163189/ch5
+#EXTINF:-1 tvg-id="Channel8.sg" tvg-country="SG" group-title="general",Channel 8
+https://cdn.qd.je/163189/ch8
+#EXTINF:-1 tvg-id="ChannelU.sg" tvg-country="SG" group-title="entertainment",Channel U
+https://cdn.qd.je/163189/chu
+#EXTINF:-1 tvg-id="CinemaxAsia.sg" tvg-country="SG" group-title="movies",Cinemax Asia Taiwan
+http://125.227.210.55:1001/VideoInput/play.ts
+#EXTINF:-1 tvg-id="CNAInternational.sg" tvg-country="SG" group-title="news",CNA International
+https://freem3u.xyz/api/live/play.m3u8?vid=112
+#EXTINF:-1 tvg-id="CNAOriginals.sg" tvg-country="SG" group-title="documentary",CNA Originals
+https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CNBCAsia.sg" tvg-country="SG" group-title="business",CNBC Asia HD
+https://freem3u.xyz/api/live/play.m3u8?vid=9855
+#EXTINF:-1 tvg-id="HBOAsia.sg" tvg-country="SG" group-title="movies",HBO Asia Taiwan
+http://125.227.210.55:1003/VideoInput/play.ts
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-country="SG" group-title="entertainment",meWATCH LIVE 1
+https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
+#EXTINF:-1 tvg-id="ZeeTVAsiaPacific.sg" tvg-country="SG",Zee TV Asia Pacific
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeTVHDAPAC.m3u8
+#EXTINF:-1 tvg-id="ZooMoo.sg" tvg-country="SG" group-title="kids",Zoo Moo (Australia)
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8

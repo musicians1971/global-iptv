@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ACWUGTV.ug" tvg-country="UG" group-title="general",ACW UG TV
+https://live.acwugtv.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="BBSTV.ug" tvg-country="UG" group-title="general",BBS TV
+https://bbstv.ug/hls/ch01/index.m3u8
+#EXTINF:-1 tvg-id="BukeddeTV1.ug" tvg-country="UG" group-title="general",Bukedde TV 1
+https://stream.hydeinnovations.com/bukedde1flussonic/index.m3u8
+#EXTINF:-1 tvg-id="GloriousTimesTV.ug" tvg-country="UG" group-title="religious",Glorious Times TV
+https://gttv-cdn.cybercdn.live/GTTV/Live/playlist.m3u8
+#EXTINF:-1 tvg-id="KTV.ug" tvg-country="UG" group-title="general",KTV
+https://stream.kingdommediaug.com/ktv/video.m3u8
+#EXTINF:-1 tvg-id="TayariWestTV.ug" tvg-country="UG" group-title="general",Tayari West TV
+https://stream.hydeinnovations.com/tarari-west/index.m3u8
+#EXTINF:-1 tvg-id="TVWest.ug" tvg-country="UG" group-title="general",TV West
+https://stream.hydeinnovations.com/tvwest-flussonic/index.m3u8
+#EXTINF:-1 tvg-id="WanLuoTV.ug" tvg-country="UG" group-title="general",Wan Luo TV
+https://stream.hydeinnovations.com/luotv-flussonic/index.m3u8

@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BeautifulLifeTV.tw" tvg-country="TW" group-title="religious",Beautiful Life TV
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+#EXTINF:-1 tvg-id="CGNTVChinese.tw" tvg-country="TW" group-title="religious",CGNTV Chinese
+https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
+#EXTINF:-1 tvg-id="DaliTV.tw" tvg-country="TW" group-title="general",Dali TV (大立電視台)
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryAsiaTaiwan.tw" tvg-country="TW" group-title="entertainment",Discovery Asia Taiwan
+http://125.227.210.55:1004/VideoInput/play.ts
+#EXTINF:-1 tvg-id="Good2.tw" tvg-country="TW" group-title="religious",GOOD TV CH2 真理台
+https://live.streamingfast.net/osmflivech2.m3u8
+#EXTINF:-1 tvg-id="HakkaTV.tw" tvg-country="TW" group-title="culture",Hakka TV
+https://h5cul1yar48um3t.wcetv.com/hls/hakkatv.m3u8
+#EXTINF:-1 tvg-id="SupremeMasterTV.tw" tvg-country="TW",Supreme Master TV
+https://lbs-us1.suprememastertv.com/720p.m3u8
+#EXTINF:-1 tvg-id="TaiwanIndigenousTV.tw" tvg-country="TW" group-title="general",Taiwan Indigenous TV
+https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+#EXTINF:-1 tvg-id="TaiwanPlusTV.tw" tvg-country="TW",Taiwan Plus TV
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+#EXTINF:-1 tvg-id="TTVNews.tw" tvg-country="TW" group-title="news",TTV News
+https://live.wcetv.com/hls/master-ttvnews.m3u8
+#EXTINF:-1 tvg-id="TVBSAsia.tw" tvg-country="TW" group-title="entertainment",TVBS Asia
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 tvg-id="WXTV.tw" tvg-country="TW" group-title="religious",唯心電視
+https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8

@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AnewZTV.az" tvg-country="AZ" group-title="news",AnewZ TV
+http://svln.li/anewz.m3u8
+#EXTINF:-1 tvg-id="AyazTV.az" tvg-country="AZ" group-title="general",Ayaz TV
+https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/720p/720p.m3u8
+#EXTINF:-1 tvg-id="AzTV.az" tvg-country="AZ" group-title="general",Az TV
+https://stream8.cinerama.uz/1455/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="AzadTV.az" tvg-country="AZ" group-title="general",Azad TV HD
+https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
+#EXTINF:-1 tvg-id="BakuTV.az" tvg-country="AZ" group-title="news",Baku TV
+https://rtmp.baku.tv/hls/bakutv.m3u8
+#EXTINF:-1 tvg-id="KanalS.az" tvg-country="AZ" group-title="general",Kanal S
+https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
+#EXTINF:-1 tvg-id="KNMusicTV.az" tvg-country="AZ" group-title="music",KN Music TV
+https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ShowPlusTV.az" tvg-country="AZ" group-title="entertainment",Show Plus TV
+https://rtmp.showplus.tv/hls/myshow.m3u8
+#EXTINF:-1 tvg-id="VilayetTV.az" tvg-country="AZ" group-title="general",Vilayet TV
+https://nl.livekadeh.com/hls2/vilayet.m3u8
+#EXTINF:-1 tvg-id="XezerTV.az" tvg-country="AZ" group-title="general",Xezer TV
+https://xezer.tvstream.az/hls/stream/main_stream.m3u8

@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CartoonNetwork.jp" tvg-country="JP" group-title="animation",Cartoon Network HD
+http://103.255.250.188:5002/cs25.m3u8?channel=zhongying&gid=cs25&token=guoziyun
+#EXTINF:-1 tvg-id="CGNTVJapan.jp" tvg-country="JP" group-title="religious",CGNTV Japan
+https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.jp" tvg-country="JP" group-title="kids",Disney Channel
+http://103.255.250.188:5002/bs24.m3u8?channel=zhongying&gid=bs24&token=guoziyun
+#EXTINF:-1 tvg-id="GSTV.jp" tvg-country="JP" group-title="shop",GSTV
+https://japaneast.av.mk.io/mediakindcdn-mediakind/ca01a143-f823-4432-b670-c22ff9643ce4/index.qfm/manifest(format=m3u8-cmaf)
+#EXTINF:-1 tvg-id="MTV.jp" tvg-country="JP" group-title="entertainment",MTV
+http://103.255.250.188:5002/cs18.m3u8?channel=zhongying&gid=cs18&token=guoziyun
+#EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-country="JP" group-title="general",NHK General TV JOJG-DTV
+https://tv-stream-test.daydreamer-json.cc/fe8bf835820fb530467f75a9cb761504/master.m3u8
+#EXTINF:-1 tvg-id="NHKWorldPremium.jp" tvg-country="JP" group-title="entertainment",NHK World Premium
+https://media-tyo.hls.nhkworld.jp/hls/wp/live/master.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-country="JP" group-title="news",NHK World-Japan HD
+https://freem3u.xyz/api/live/play.m3u8?vid=106
+#EXTINF:-1 tvg-id="QVC.jp" tvg-country="JP" group-title="shop",QVC
+https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8
+#EXTINF:-1 tvg-id="SakuranboTV.jp" tvg-country="JP" group-title="general",Sakuranbo TV
+https://tv-stream-test.daydreamer-json.cc/stream/bd2dd29080c36c9b01338d329156febe/master.m3u8
+#EXTINF:-1 tvg-id="TVUYamagata.jp" tvg-country="JP" group-title="general",TV-U Yamagata
+https://tv-stream-test.daydreamer-json.cc/stream/1668b5a43560598b385ccf33fd2d5f43/master.m3u8
+#EXTINF:-1 tvg-id="Weathernews.jp" tvg-country="JP" group-title="weather",Weathernews
+https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
+#EXTINF:-1 tvg-id="YTSYamagataTV.jp" tvg-country="JP" group-title="general",YTS Yamagata TV
+https://tv-stream-test.daydreamer-json.cc/stream/407fd00ebd2a059c9cd1ea3fa7156097/master.m3u8

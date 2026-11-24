@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="FUSIONTV.mq" tvg-country="MQ" group-title="music",FUSION TV
+https://edge20.vedge.infomaniak.com/livecast/ik:fusiontv/manifest.m3u8
+#EXTINF:-1 tvg-id="IdentiteTeleCaraibes.mq" tvg-country="MQ" group-title="music",Identité Télé Caraïbes
+https://vdo2.pro-fhi.net:3769/stream/play.m3u8
+#EXTINF:-1 tvg-id="TeleZoukla.mq" tvg-country="MQ" group-title="music",Tele Zoukla
+https://vdo.pro-fhi.net:3228/stream/play.m3u8
+#EXTINF:-1 tvg-id="TVFamille.mq" tvg-country="MQ" group-title="family",TV Famille
+https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8
+#EXTINF:-1 tvg-id="ZitataTV.mq" tvg-country="MQ" group-title="general",Zitata TV
+https://live.zitata.tv/direct-hls/playlist.m3u8

@@ -1,0 +1,1103 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KayhanTV.af" tvg-country="AF" group-title="music",Kayhan TV
+https://playout395.livestreamingcdn.com/live/Stream1/playlist.m3u8
+#EXTINF:-1 tvg-id="AlbKanaleMusicTV.al" tvg-country="AL" group-title="music",AlbKanale Music TV
+https://albportal.net/albkanalemusic.m3u8
+#EXTINF:-1 tvg-id="MuzangalaTV.ao" tvg-country="AO" group-title="music",Muzangala TV
+https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
+#EXTINF:-1 tvg-id="AzaharesRadiovisualMultimedia.ar" tvg-country="AR" group-title="music",Azahares Radio Multimedia
+https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
+#EXTINF:-1 tvg-id="BeatsRadio.ar" tvg-country="AR" group-title="music",Beats Radio
+https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
+#EXTINF:-1 tvg-id="ChamameTV.ar" tvg-country="AR" group-title="music",Chamame TV
+https://srv4.zcast.com.br/chamametv/chamametv/playlist.m3u8
+#EXTINF:-1 tvg-id="CumbiaMix.ar" tvg-country="AR" group-title="music",Cumbia Mix
+https://cloud.tvomix.com/CUMBIAMIX/index.m3u8
+#EXTINF:-1 tvg-id="La100.ar" tvg-country="AR" group-title="music",La 100
+https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
+#EXTINF:-1 tvg-id="MasFM.ar" tvg-country="AR" group-title="music",Más FM 95.9
+https://vivo.solumedia.com:19360/masfm/masfm.m3u8
+#EXTINF:-1 tvg-id="MusicTop.ar" tvg-country="AR" group-title="music",MusicTop
+https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioConexionWebTV.ar" tvg-country="AR" group-title="music",Radio Conexion Web TV
+https://tuvideoonline.com.ar:3391/live/radioconexionlive.m3u8
+#EXTINF:-1 tvg-id="RadioRealpolitik.ar" tvg-country="AR" group-title="music",Radio Realpolitik
+https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8
+#EXTINF:-1 tvg-id="CoolFM989.aw" tvg-country="AW" group-title="music",Cool FM 98.9
+https://live2.tensila.com/cool-v-1.arubara/hls/master.m3u8
+#EXTINF:-1 tvg-id="HeartRadioAruba.aw" tvg-country="AW" group-title="music",Heart Radio Aruba
+https://live2.tensila.com/heart-v-1.heartar/hls/live/mystream.m3u8
+#EXTINF:-1 tvg-id="Power1017FM.aw" tvg-country="AW" group-title="music",Power 101.7 FM
+https://vcp11.myplaytv.com/powerfm/powerfm/playlist.m3u8
+#EXTINF:-1 tvg-id="VIPTV.aw" tvg-country="AW" group-title="music",VIP TV
+https://vs20.live.opencaster.com/viptvaruba_01e417ae/index.m3u8
+#EXTINF:-1 tvg-id="WavezFM.aw" tvg-country="AW" group-title="music",Wavez FM
+https://media.streambrothers.com:1936/uszqnhpjpa/uszqnhpjpa/playlist.m3u8
+#EXTINF:-1 tvg-id="X1027FM.aw" tvg-country="AW" group-title="music",X 102.7 FM
+https://live2.tensila.com/onair-v-1.xfm1027/hls/master.m3u8
+#EXTINF:-1 tvg-id="DGRadio.au" tvg-country="AU" group-title="religious",DG:Radio
+https://mdn.dg.church/683c0cb036885-1/index.m3u8
+#EXTINF:-1 tvg-id="FolkKlubTV.au" tvg-country="AU" group-title="music",Folk Klub
+http://tv1.intv.mk:1935/live2/folkklub/index.m3u8
+#EXTINF:-1 tvg-id="INTVAustralia.au" tvg-country="AU" group-title="music",INTV Australia
+http://tv1.intv.mk:1935/live/intv/index.m3u8
+#EXTINF:-1 tvg-id="AntenneKaernten.at" tvg-country="AT" group-title="music",Antenne Kaernten
+https://60efd7a2b4d02.streamlock.net/a_kaernten/ngrp:livestream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AntenneSteiermark.at" tvg-country="AT" group-title="music",Antenne Steiermark
+https://60efd7a2b4d02.streamlock.net/a_steiermark/ngrp:livestream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="HitradioO3.at" tvg-country="AT" group-title="music",Hitradio O3
+https://studiocam-oe3.mdn.ors.at/orf/studiocam_oe3/q6a/manifest.mpd
+#EXTINF:-1 tvg-id="Kronehit.at" tvg-country="AT" group-title="music",Kronehit
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="KNMusicTV.az" tvg-country="AZ" group-title="music",KN Music TV
+https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="FirstMusicChannel.by" tvg-country="BY" group-title="music",Первый Музыкальный Канал
+http://hz1.teleport.cc/HLS/SD.m3u8
+#EXTINF:-1 tvg-id="FirstMusicChannelRussia.by" tvg-country="BY" group-title="music",Первый Музыкальный Канал Россия
+http://rtmp.one.by:2200
+#EXTINF:-1 tvg-id="BelRTL.be" tvg-country="BE" group-title="music",Bel RTL
+https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
+#EXTINF:-1 tvg-id="FunVision.be" tvg-country="BE" group-title="music",Fun Vision
+https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
+#EXTINF:-1 tvg-id="Klara.be" tvg-country="BE" group-title="music",Klara
+https://live.vrtcdn.be/groupb/live/9c429b62-e160-417a-b438-cdf985bcd352/live.isml/.m3u8
+#EXTINF:-1 tvg-id="MNM.be" tvg-country="BE" group-title="music",MNM
+https://live-radio-cf-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.m3u8
+#EXTINF:-1 tvg-id="RadioContact.be" tvg-country="BE" group-title="music",Radio Contact
+https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.m3u8
+#EXTINF:-1 tvg-id="StuBru.be" tvg-country="BE" group-title="music",StuBru
+https://live.vrtcdn.be/groupb/live/450aa9d1-7173-47f3-aaaa-9701426f8ddd/live.isml/.m3u8
+#EXTINF:-1 tvg-id="Audiokiss.bo" tvg-country="BO" group-title="music",Audiokiss
+https://master.tucableip.com/audiokisstv/index.m3u8
+#EXTINF:-1 tvg-id="RadioClasicaTV.bo" tvg-country="BO" group-title="music",Radio Clasica TV
+https://ares.disfrutaenlared.com:1936/clasica/clasica/playlist.m3u8
+#EXTINF:-1 tvg-id="TvCarigso.bo" tvg-country="BO" group-title="music",Tv Carigso
+https://183.giatvcdn.com/ssh101/ssh101/carigsotv2026/playlist.m3u8
+#EXTINF:-1 tvg-id="Live99FM.bq" tvg-country="BQ" group-title="music",Live99FM
+https://media.streambrothers.com:1936/8014/8014/playlist.m3u8
+#EXTINF:-1 tvg-id="PlusMaisUm.br" tvg-country="BR" group-title="general",+MaisUm
+https://stream.ichibansys.com:3230/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="LamoreRockShowWebTV.br" tvg-country="BR" group-title="music",Lamore Rock Show WebTV
+https://a.cdni.live/rodrigo2364/rodrigo2364/playlist.m3u8
+#EXTINF:-1 tvg-id="MusicBoxBrazil.br" tvg-country="BR" group-title="music",Music Box Brazil
+http://170.83.49.66:8083/MUSICBOXBRASILHD/index.m3u8
+#EXTINF:-1 tvg-id="TikTokRadioBrasil.br" tvg-country="BR" group-title="music",TikTok Radio Brasil
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992529
+#EXTINF:-1 tvg-id="TVCAJUIWEB.br" tvg-country="BR" group-title="general",TV CAJUI WEB
+https://cdn.live.br1.jmvstream.com/webtv/tvcajui/playlist/playlist.m3u8
+#EXTINF:-1 tvg-id="BOXTV.bg" tvg-country="BG" group-title="music",BOX TV
+http://213.91.179.28:8000/play/a0an
+#EXTINF:-1 tvg-id="HitMixMusic.bg" tvg-country="BG" group-title="music",Hit Mix Music
+http://213.91.179.28:8000/play/a0cl
+#EXTINF:-1 tvg-id="MagicTV.bg" tvg-country="BG" group-title="music",Magic TV
+https://bss1.neterra.tv/magictv/magictv.m3u8
+#EXTINF:-1 tvg-id="TheVoice.bg" tvg-country="BG" group-title="music",The Voice TV
+https://bss1.neterra.tv/thevoice/thevoice.m3u8
+#EXTINF:-1 tvg-id="TiankovFolk.bg" tvg-country="BG" group-title="music",Tiankov Folk
+https://streamer103.neterra.tv/tiankov-folk/live.m3u8
+#EXTINF:-1 tvg-id="TiankovOrientFolk.bg" tvg-country="BG" group-title="music",Tiankov Orient Folk
+https://streamer103.neterra.tv/tiankov-orient/live.m3u8
+#EXTINF:-1 tvg-id="TVRodina.bg" tvg-country="BG" group-title="music",TV Rodina
+https://shift03.isp.bg/RodinaTV/index.m3u8
+#EXTINF:-1 tvg-id="CKNOFM.ca" tvg-country="CA" group-title="music",Now TV 102.3FM Edmonton (CKNO-FM)
+https://videostream.jpbgdigital.com/NOWTV.m3u8
+#EXTINF:-1 tvg-id="MovieMusicbyStingray.ca" tvg-country="CA" group-title="music",Stingray Movie Music
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="QelloConcertsbyStingray.ca" tvg-country="CA" group-title="music",Qello Concerts by Stingray
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883052
+#EXTINF:-1 tvg-id="StingrayCityscapes.ca" tvg-country="CA" group-title="music",Stingray Cityscapes
+https://aka-live1050.delivery.roku.com/7572d640-7373-4137-8b14-a3afff395349/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 tvg-id="StingrayClassicRock.ca" tvg-country="CA" group-title="music",Stingray Classic Rock
+https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayClassica.ca" tvg-country="CA" group-title="music",Stingray Classica
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayCozyCafe.ca" tvg-country="CA" group-title="music",Stingray Cozy Cafe
+https://aka-live1050.delivery.roku.com/372c813e-1fb9-41d4-a4d0-5fbd803659c5/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 tvg-id="StingrayDJAZZ.ca" tvg-country="CA" group-title="music",Stingray DJAZZ
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayEasyListening.ca" tvg-country="CA" group-title="music",Stingray Easy Listening
+https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayEverything80s.ca" tvg-country="CA" group-title="music",Stingray Remember the 80s
+https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayFlashback70s.ca" tvg-country="CA" group-title="music",Stingray Flashback 70s
+https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayGreatestHits.ca" tvg-country="CA" group-title="music",Stingray Greatest Hits
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883053
+#EXTINF:-1 tvg-id="StingrayHitList.ca" tvg-country="CA" group-title="music",Stingray Hitlist
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883054
+#EXTINF:-1 tvg-id="StingrayHolidayHits.ca" tvg-country="CA" group-title="music",Stingray Holiday Hits
+https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayHolidayscapes.ca" tvg-country="CA" group-title="music",Stingray Holidayscapes
+https://d10cyxntpn0bwm.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="StingrayHotCountry.ca" tvg-country="CA" group-title="music",Stingray Hot Country
+https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayiConcerts.ca" tvg-country="CA" group-title="music",Stingray iConcerts HD
+https://dash4.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
+#EXTINF:-1 tvg-id="StingrayJukeboxOldies.ca" tvg-country="CA" group-title="music",Stingray Jukebox Oldies
+https://lotus.stingray.com/manifest/ose-021ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayKaraoke.ca" tvg-country="CA" group-title="music",Stingray Karaoke
+https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayNaturescape.ca" tvg-country="CA" group-title="music",Stingray Naturescape
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883056
+#EXTINF:-1 tvg-id="StingrayNothinBut90s.ca" tvg-country="CA" group-title="music",Stingray Nothin' But 90s
+https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayPopAdult.ca" tvg-country="CA" group-title="music",Stingray Pop Adult
+https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayRememberthe80s.ca" tvg-country="CA" group-title="music",Stingray Remember the 80s
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883071
+#EXTINF:-1 tvg-id="StingrayRockAlternative.ca" tvg-country="CA" group-title="music",Stingray Rock Alternative
+https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayRomanceLatino.ca" tvg-country="CA" group-title="music",Stingray Romance Latino
+https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingraySmoothJazz.ca" tvg-country="CA" group-title="music",Stingray Smooth Jazz
+https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingraySoulStorm.ca" tvg-country="CA" group-title="music",Stingray Soul Storm
+https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayTheSpa.ca" tvg-country="CA" group-title="music",Stingray The Spa
+https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayTikTokRadio.ca" tvg-country="CA" group-title="music",Stingray TikTok Radio
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814594/hls/master.m3u8?ads.xumo_channelId=88814594
+#EXTINF:-1 tvg-id="StingrayTodaysKPop.ca" tvg-country="CA" group-title="music",Stingray Today's KPOP
+https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayTodaysLatinPop.ca" tvg-country="CA" group-title="music",Stingray Today's Latin Pop
+https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="TVCidade.cv" tvg-country="CV" group-title="music",TV Cidade
+https://stmv1.srvif.com/tvcidade/tvcidade/playlist.m3u8
+#EXTINF:-1 tvg-id="13Festival.cl" tvg-country="CL" group-title="music",13 Festival
+https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
+#EXTINF:-1 tvg-id="ChocolateFM.cl" tvg-country="CL" group-title="music",Chocolate FM
+https://5eaccbab48461.streamlock.net:1936/8180/8180/playlist.m3u8
+#EXTINF:-1 tvg-id="DanceFM.cl" tvg-country="CL" group-title="music",Dance FM
+https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8
+#EXTINF:-1 tvg-id="FMPlusTV.cl" tvg-country="CL" group-title="music",FM Plus TV
+https://v2.tustreaming.cl/fmplus/index.m3u8
+#EXTINF:-1 tvg-id="GenialTV.cl" tvg-country="CL" group-title="music",Genial TV
+https://v1.tustreaming.cl/genialtv/index.m3u8
+#EXTINF:-1 tvg-id="LaClave.cl" tvg-country="CL" group-title="music",La Clave
+https://unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="LaGranjaTV.cl" tvg-country="CL" group-title="music",La Granja TV
+https://oracle.streaminghd.cl/8126/8126/playlist.m3u8
+#EXTINF:-1 tvg-id="PalMundoFM.cl" tvg-country="CL" group-title="music",PalMundo FM
+https://streampanelcp.palmundofm.cl/hls/palmundofm/visual/hd.m3u8
+#EXTINF:-1 tvg-id="PatagoniaRadioTV.cl" tvg-country="CL" group-title="music",Patagonia Radio TV
+https://video01.logicahost.com.br/grupomedia/grupomedia/playlist.m3u8
+#EXTINF:-1 tvg-id="Pauta.cl" tvg-country="CL" group-title="music",Pauta
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/pautatv/pautatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioDuna.cl" tvg-country="CL" group-title="music",Radio Duna
+https://mdstrm.com/live-stream-playlist/67ed8a8d6db4af9a0188555c.m3u8
+#EXTINF:-1 tvg-id="RadioEdelweiss.cl" tvg-country="CL" group-title="music",Radio Edelweiss
+https://stmv5.voxtvhd.com.br/edelweisstv/edelweisstv/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioLaSerenaTV.cl" tvg-country="CL" group-title="music",Radio La Serena TV
+https://5ff3d9babae13.streamlock.net/chrgkqgkyb/chrgkqgkyb/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioPudahuel.cl" tvg-country="CL" group-title="music",Radio Pudahuel
+https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioSuyaiTV.cl" tvg-country="CL" group-title="culture",Radio Suyai TV
+https://cl-2.backend.energeek.cl/RadioSuyai-Neo/index.m3u8
+#EXTINF:-1 tvg-id="RadioZona903.cl" tvg-country="CL" group-title="music",Radio Zona 90.3
+https://live.tvcontrolcp.com:8081/radiozona/index.m3u8
+#EXTINF:-1 tvg-id="RetromusicaTelevision.cl" tvg-country="CL" group-title="music",Retromusica Television
+https://vdochile.com:3864/stream/play.m3u8
+#EXTINF:-1 tvg-id="RitoqueTV.cl" tvg-country="CL" group-title="music",Ritoque TV
+https://streaming.purum.cl/ritoquetv/index.m3u8
+#EXTINF:-1 tvg-id="SaborTV.cl" tvg-country="CL" group-title="music",Sabor TV
+https://v1.tustreaming.cl/sabortv/index.m3u8
+#EXTINF:-1 tvg-id="SensacionCosta.cl" tvg-country="CL" group-title="music",Sensacion Costa
+https://tvcosta.gleeze.com/memfs/4d48db09-0b1e-4803-8da7-22be388bdd7e.m3u8
+#EXTINF:-1 tvg-id="SoloBailalo.cl" tvg-country="CL" group-title="music",SoloBáilalo
+https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleangolRadio.cl" tvg-country="CL" group-title="music",Teleangol Radio
+https://pantera1-100gb-cl-movistar.dps.live/teleangolradio/teleangolradio.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="VClassicTV.cl" tvg-country="CL" group-title="music",V Classic TV
+http://186.148.196.100:8000/play/a02z
+#EXTINF:-1 tvg-id="CCTV11.cn" tvg-country="CN" group-title="music",CCTV-11
+http://74.91.26.218:82/live/cctv11hd.m3u8
+#EXTINF:-1 tvg-id="CCTV15.cn" tvg-country="CN" group-title="music",CCTV-15
+http://74.91.26.218:82/live/cctv15hd.m3u8
+#EXTINF:-1 tvg-id="CCTVStormMusic.cn" tvg-country="CN" group-title="music",CCTV-Storm Music
+http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="BuenisimaRadioTV.co" tvg-country="CO" group-title="music",Buenisima Radio TV
+https://canal.mediaserver.com.co/live/buenisimatv.m3u8
+#EXTINF:-1 tvg-id="ClaroMusicaTV.co" tvg-country="CO" group-title="music",Claro Musica TV
+http://45.171.64.30:6060/play/a010
+#EXTINF:-1 tvg-id="FiestaTV.co" tvg-country="CO" group-title="music",Fiesta TV
+https://panelvideo1.intermediahost.co:3286/live/ruzfpkqklive.m3u8
+#EXTINF:-1 tvg-id="LaKalle.co" tvg-country="CO" group-title="music",La Kalle
+https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
+#EXTINF:-1 tvg-id="LaMoradaRadioTV.co" tvg-country="CO" group-title="music",La Morada Radio TV
+https://movil.ejeserver.com/live/lamoradatv.m3u8
+#EXTINF:-1 tvg-id="MasMusicaFM.co" tvg-country="CO" group-title="music",MasMusica FM
+https://movil.ejeserver.com/live/masmusica.m3u8
+#EXTINF:-1 tvg-id="ParrandaVallenata.co" tvg-country="CO" group-title="music",Parranda Vallenata
+https://backupmaxmedia.hvmultiplay.com/hls/stream3/parrandavallenata.m3u8
+#EXTINF:-1 tvg-id="RadiolaTV.co" tvg-country="CO" group-title="music",Radiola TV
+http://158.172.217.18:8000/play/a01k/index.m3u8
+#EXTINF:-1 tvg-id="RanchenatoTV.co" tvg-country="CO" group-title="music",Ranchenato TV
+http://181.78.12.119:16123/play/ch15/index.m3u8
+#EXTINF:-1 tvg-id="Reyali.co" tvg-country="CO" group-title="music",Reyali
+https://eu1.servers10.com:8081/8090/index.m3u8
+#EXTINF:-1 tvg-id="RumbaTV.co" tvg-country="CO" group-title="music",Rumba TV
+http://38.134.250.110:8000/play/a01p/index.m3u8
+#EXTINF:-1 tvg-id="SalsaGordaTelevision.co" tvg-country="CO" group-title="music",Salsa Gorda Television
+https://stmv1.voxtvhd.com.br/salsagorda/salsagorda/playlist.m3u8
+#EXTINF:-1 tvg-id="SupermusicaTV.co" tvg-country="CO" group-title="music",Supermúsica TV
+https://backupmaxmedia.hvmultiplay.com/hls/stream4/supermusica.m3u8
+#EXTINF:-1 tvg-id="HopeChannelPROYECTOJA.cr" tvg-country="CR" group-title="music",Hope Channel PROYECTO JA
+https://edge1-us-miami.picarto.tv/stream/hls/golive%2bXSTUDIOCODE/0_1/index.m3u8
+#EXTINF:-1 tvg-id="IQChannel.cr" tvg-country="CR" group-title="music",IQ Channel
+https://rtmp.info/iqtv/envivo/playlist.m3u8
+#EXTINF:-1 tvg-id="SOYPlanchaTV.cr" tvg-country="CR" group-title="music",SOY Plancha TV
+https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
+#EXTINF:-1 tvg-id="UrbanoTV.cr" tvg-country="CR" group-title="music",Urbano TV
+https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
+#EXTINF:-1 tvg-id="VideoTourChannel.cr" tvg-country="CR" group-title="music",Video Tour Channel
+https://59ef525c24caa.streamlock.net/videotour/videotour/playlist.m3u8
+#EXTINF:-1 tvg-id="VintageMusic.cr" tvg-country="CR" group-title="music",Vintage Music
+https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
+#EXTINF:-1 tvg-id="VMLatino.cr" tvg-country="CR" group-title="music",VM Latino
+http://45.163.139.42:8000/play/a03d/index.m3u8
+#EXTINF:-1 tvg-id="VoiceOverRadioTV.cr" tvg-country="CR" group-title="music",VoiceOver Radio TV
+https://cloudvideo.servers10.com:8081/8198/index.m3u8
+#EXTINF:-1 tvg-id="CMCTV.hr" tvg-country="HR" group-title="music",CMC TV
+https://stream.cmctv.hr:49998/cmc/live.m3u8
+#EXTINF:-1 tvg-id="KlapeiTambureTV.hr" tvg-country="HR" group-title="music",Klape i Tambure TV
+https://stream.cmctv.hr:49998/kit/live.m3u8
+#EXTINF:-1 tvg-id="VAMTV.cw" tvg-country="CW" group-title="music",VAM Vid's & More
+https://sincerecloud.stream/loadbalancer/public/J9EmQQGf.m3u8
+#EXTINF:-1 tvg-id="MusicBoxClassic.cz" tvg-country="CZ" group-title="music",Music Box Classic
+http://88.212.15.50/live/mb_classic/index.m3u8
+#EXTINF:-1 tvg-id="MusicBoxDance.cz" tvg-country="CZ" group-title="music",Music Box Dance
+http://88.212.15.50/live/mb_dance/index.m3u8
+#EXTINF:-1 tvg-id="MusicBoxHits.cz" tvg-country="CZ" group-title="music",Music Box Hits
+http://88.212.15.50/live/mb_hits/index.m3u8
+#EXTINF:-1 tvg-id="MusicBoxSexy.cz" tvg-country="CZ" group-title="music",Music Box Sexy
+http://88.212.15.50/live/mb_sexy/index.m3u8
+#EXTINF:-1 tvg-id="Ocko.cz" tvg-country="CZ" group-title="music",Óčko
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OckoBlack.cz" tvg-country="CZ" group-title="music",Ocko Black
+https://dash2.antik.sk/live/test_ocko_black/playlist.m3u8
+#EXTINF:-1 tvg-id="OckoExpres.cz" tvg-country="CZ" group-title="music",Óčko Expres
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
+#EXTINF:-1 tvg-id="OckoGold.cz" tvg-country="CZ" group-title="music",Óčko Gold
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
+#EXTINF:-1 tvg-id="OckoStar.cz" tvg-country="CZ" group-title="music",Ocko Star
+https://dash4.antik.sk/live/test_ocko_star/playlist.m3u8
+#EXTINF:-1 tvg-id="RetroMusicTV.cz" tvg-country="CZ" group-title="music",Retro Music Television
+https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-id="SlagerMuzika.cz" tvg-country="CZ" group-title="music",Slager Muzika
+https://stream-23.mazana.tv/slagrmuzika.m3u8s
+#EXTINF:-1 tvg-id="SlagerOriginal.cz" tvg-country="CZ" group-title="music",Slager Original
+https://stream-13.mazana.tv/slagroriginal.m3u8s
+#EXTINF:-1 tvg-id="MakaoTV.do" tvg-country="DO" group-title="music",Makao TV
+https://live.obslivestream.com/makaomux/index.m3u8
+#EXTINF:-1 tvg-id="SiembraTV.do" tvg-country="DO" group-title="music",Siembra TV
+https://streamunoapp.com:3809/live/siembratvlive.m3u8
+#EXTINF:-1 tvg-id="TarimaTV.do" tvg-country="DO" group-title="music",Tarima TV
+http://190.122.104.210:5080/LiveApp/streams/tarima.m3u8
+#EXTINF:-1 tvg-id="TVExitos.do" tvg-country="DO" group-title="music",TV Éxitos
+https://streaming.grupomediosdelnorte.com:19360/tvexitos/tvexitos.m3u8
+#EXTINF:-1 tvg-id="ElSolNetworkTV.ec" tvg-country="EC" group-title="music",El Sol Network TV
+https://tv.wracanal10.com:3025/live/elsoltvlive.m3u8
+#EXTINF:-1 tvg-id="FMMundo.ec" tvg-country="EC" group-title="music",FM Mundo
+https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8
+#EXTINF:-1 tvg-id="InfinitaTV.ec" tvg-country="EC" group-title="music",Infinita TV
+https://s2.tvdatta.com:3753/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="MetropoliMediosTV.ec" tvg-country="EC" group-title="music",Metropoli Medios TV
+https://eu1.servers10.com:8081/8214/index.m3u8
+#EXTINF:-1 tvg-id="RadioBonita1067.ec" tvg-country="EC" group-title="music",Radio Bonita 106.7
+https://cloudvideo.servers10.com:8081/8154/index.m3u8
+#EXTINF:-1 tvg-id="RadioCuencaEstereo.ec" tvg-country="EC" group-title="music",Radio Cuenca Estéreo
+https://eu1.servers10.com:8081/8074/index.m3u8
+#EXTINF:-1 tvg-id="RadioFantastica989FM.ec" tvg-country="EC" group-title="music",Radio Fantástica 98.9 FM
+http://190.107.232.9:8082/livestream/stream.m3u8
+#EXTINF:-1 tvg-id="ElRadio9090FM.eg" tvg-country="EG" group-title="music",El Radio 9090 FM
+https://9090video.mobtada.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Mazzika.eg" tvg-country="EG" group-title="music",Mazzika
+http://149.100.11.235:8080/Mazzika/index.m3u8
+#EXTINF:-1 tvg-id="BestofDanceTV.ee" tvg-country="EE" group-title="music",Best of Dance TV
+https://m1b2.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8
+#EXTINF:-1 tvg-id="DanceTVAlgorhythm.ee" tvg-country="EE" group-title="music",DanceTV Algorhythm
+https://m2b2.worldcast.tv:7443/dancetelevisionfour/dancetelevisionfour.m3u8
+#EXTINF:-1 tvg-id="DanceTVDeepHouseDistrict.ee" tvg-country="EE" group-title="music",DanceTV Deep House District
+https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
+#EXTINF:-1 tvg-id="DanceTVHouseFloor.ee" tvg-country="EE" group-title="music",DanceTV House Floor
+https://m2b2.worldcast.tv:7443/dancetelevisionfive/dancetelevisionfive.m3u8
+#EXTINF:-1 tvg-id="DanceTVTechnoWarehouse.ee" tvg-country="EE" group-title="music",DanceTV Techno Warehouse
+https://m2b2.worldcast.tv:7443/dancetelevisionthree/dancetelevisionthree.m3u8
+#EXTINF:-1 tvg-id="VantageClassic.ee" tvg-country="EE" group-title="music",Vantage Classic
+https://hls.vantagetv.ee/vclassic_stream/index.m3u8
+#EXTINF:-1 tvg-id="VantageDance.ee" tvg-country="EE" group-title="music",Vantage Dance
+https://hls.vantagetv.ee/vdance_stream/main_stream.m3u8
+#EXTINF:-1 tvg-id="JRTVJarviradio.fi" tvg-country="FI" group-title="music",JRTV Järviradio
+https://streamer.radiotaajuus.fi/memfs/47f113bf-04ea-493b-a9d4-52945fd9db31.m3u8
+#EXTINF:-1 tvg-id="NavahangTV.fi" tvg-country="FI" group-title="music",Navahang TV
+https://hls.navahang.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="4Music.fr" tvg-country="FR" group-title="music",Persiana Music
+https://musichls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="4Kurd.fr" tvg-country="FR" group-title="music",4 Kurd
+https://4kuhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="DBMTV.fr" tvg-country="FR" group-title="music",DBM TV
+https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
+#EXTINF:-1 tvg-id="M6Music.fr" tvg-country="FR" group-title="music",M6 Music
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/m6_music_hits/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="Melody.fr" tvg-country="FR" group-title="music",Melody
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/melody/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="P2MTV.fr" tvg-country="FR" group-title="music",P2M TV
+https://vdo2.pro-fhi.net:3207/stream/play.m3u8
+#EXTINF:-1 tvg-id="PersianaFolk.fr" tvg-country="FR" group-title="music",Persiana Folk
+https://sonhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PersianaNostalgia.fr" tvg-country="FR" group-title="music",Persiana Nostalgia
+https://noshls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PersianaVibe.fr" tvg-country="FR" group-title="music",Persiana Vibe
+https://raphls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="QwestTV.fr" tvg-country="FR" group-title="music",Qwest TV
+https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8
+#EXTINF:-1 tvg-id="QwestTVJazzBeyond.fr" tvg-country="FR" group-title="music",Qwest TV Jazz & Beyond
+https://samsungau-qwestjazz-samsungtv-zw2jc.amagi.tv/playlist/samsungau-qwestjazz-samsungtv/playlist.m3u8
+#EXTINF:-1 tvg-id="TraceBrazuca.fr" tvg-country="FR" group-title="music",Trace Brasil
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
+#EXTINF:-1 tvg-id="TraceLatina.fr" tvg-country="FR" group-title="music",Trace Latina
+https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-country="FR" group-title="music",Trace Urban (Australia)
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="AdriaMusicTelevision.de" tvg-country="DE" group-title="music",Adria Music Television
+https://adriaapp.b-cdn.net/1080p/index.m3u8
+#EXTINF:-1 tvg-id="BibelTVMusik.de" tvg-country="DE" group-title="music",Bibel TV Musik
+https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="DASDING908.de" tvg-country="DE" group-title="music",DASDING 90.8
+https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
+#EXTINF:-1 tvg-id="DeluxeDance.de" tvg-country="DE" group-title="music",Deluxe Dance
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF:-1 tvg-id="DeluxeLounge.de" tvg-country="DE" group-title="music",Deluxe Lounge
+https://jmp2.uk/stvp-CHAJ0500413A
+#EXTINF:-1 tvg-id="DeluxeMusic.de" tvg-country="DE" group-title="music",Deluxe Music
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 tvg-id="DeluxeRap.de" tvg-country="DE" group-title="music",Deluxe Rap
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+#EXTINF:-1 tvg-id="FolxMusicTelevision.de" tvg-country="DE" group-title="music",Folx Music Television
+https://folxapp.b-cdn.net/1080p/index.m3u8
+#EXTINF:-1 tvg-id="Lausitzwelle.de" tvg-country="DE" group-title="music",Lausitzwelle
+https://h056.video-stream-hosting.de/easycast11-live/_definst_/mp4:livestreamhd2/playlist.m3u8?ref=
+#EXTINF:-1 tvg-id="OneAdria.de" tvg-country="DE" group-title="music",One Adria
+https://oneadriaapp.b-cdn.net/1080p/index.m3u8
+#EXTINF:-1 tvg-id="OneMusicTelevision.de" tvg-country="DE" group-title="music",One Music Television
+https://oneapp.b-cdn.net/1080p/index.m3u8
+#EXTINF:-1 tvg-id="TVBozsikeHamburgHD.de" tvg-country="DE" group-title="music",TV Bozsike Hamburg HD
+https://rtmp.radiobozsike.com/hls/stream1.m3u8
+#EXTINF:-1 tvg-id="VolksmusikTV.de" tvg-country="DE" group-title="music",Volksmusik TV
+https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8
+#EXTINF:-1 tvg-id="ZweiMusicTelevision.de" tvg-country="DE" group-title="music",Zwei Music Television
+https://zweiapp.b-cdn.net/1080p/index.m3u8
+#EXTINF:-1 tvg-id="BarazaTV.gr" tvg-country="GR" group-title="music",Baraza TV
+https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BarazaTVDeepHouse.gr" tvg-country="GR" group-title="music",Baraza TV Deep House
+https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
+#EXTINF:-1 tvg-id="BarazaTVRelaxing.gr" tvg-country="GR" group-title="music",Baraza TV Relaxing
+https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
+#EXTINF:-1 tvg-id="EllinikosFM.gr" tvg-country="GR" group-title="music",Ellinikos FM
+https://rtmp.win:3603/live/ellinikosfmlive.m3u8
+#EXTINF:-1 tvg-id="MessatidaTV.gr" tvg-country="GR" group-title="music",Messatida TV
+https://rtmp.streams.ovh:8081/mtv/index.m3u8
+#EXTINF:-1 tvg-id="PanikTV.gr" tvg-country="GR" group-title="music",Panik TV
+https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
+#EXTINF:-1 tvg-id="MadrasFMTV.gp" tvg-country="GP" group-title="music",Madras FM TV
+https://edge12.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8
+#EXTINF:-1 tvg-id="RHTGuadeloupe.gp" tvg-country="GP" group-title="music",RHT Guadeloupe
+https://edge12.vedge.infomaniak.com/livecast/ik:livehautetension/manifest.m3u8
+#EXTINF:-1 tvg-id="TMA.gp" tvg-country="GP" group-title="music",TMA
+http://hls.tmacaraibes.com/live/index.m3u8
+#EXTINF:-1 tvg-id="RadioTeleHit.ht" tvg-country="HT" group-title="music",Radio Télé Hit
+https://59d39900ebfb8.streamlock.net/RadioTelehit/RadioTelehit/playlist.m3u8
+#EXTINF:-1 tvg-id="LaTop1029.hn" tvg-country="HN" group-title="music",La Top 102.9
+https://59d39900ebfb8.streamlock.net/top102/top102/playlist.m3u8
+#EXTINF:-1 tvg-id="LaTop1077.hn" tvg-country="HN" group-title="music",La Top 107.7
+https://59d39900ebfb8.streamlock.net/top107/top107/playlist.m3u8
+#EXTINF:-1 tvg-id="MuzsikaTV.hu" tvg-country="HU" group-title="music",Muzsika TV
+http://88.212.7.14/live/test_muzsika_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="OxygenMusic.hu" tvg-country="HU" group-title="music",Oxygen Music
+https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
+#EXTINF:-1 tvg-id="SlagerTV.hu" tvg-country="HU" group-title="music",Slager TV
+http://88.212.7.14/live/test_slager_tv_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="K100.is" tvg-country="IS" group-title="music",K100
+https://k100streymi.mbl.is/beint/k100/index.m3u8
+#EXTINF:-1 tvg-id="7SMusic.in" tvg-country="IN" group-title="music",7S Music
+https://cdn.pishow.tv/ott/live/1257/master.m3u8
+#EXTINF:-1 tvg-id="7XMusic.in" tvg-country="IN" group-title="music",7X Music
+https://7xshreeshyam.akamaized.net/7XPunjabi/index.m3u8
+#EXTINF:-1 tvg-id="9XJalwa.in" tvg-country="IN" group-title="music",9X Jalwa
+https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
+#EXTINF:-1 tvg-id="9XJhakaas.in" tvg-country="IN" group-title="music",9X Jhakaas
+https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id="9XTashan.in" tvg-country="IN" group-title="music",9X Tashan
+https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id="9XM.in" tvg-country="IN" group-title="music",9XM
+https://wiselp.wiseplayout.com/9XM/master.m3u8
+#EXTINF:-1 tvg-id="AaryaaTV.in" tvg-country="IN" group-title="music",Aaryaa TV
+https://stream.ottlive.co.in/aryatvtamil/index.m3u8
+#EXTINF:-1 tvg-id="B4UMusic.in" tvg-country="IN" group-title="music",B4U Music
+https://amg01408-amg01408c5-amgplt0747.playout.now3.amagi.tv/b4um001/playlist.m3u8
+#EXTINF:-1 tvg-id="BalleBalle.in" tvg-country="IN" group-title="music",Balle Balle HD
+https://mcncdndigital.com/balleballetv/index.m3u8
+#EXTINF:-1 tvg-id="BoogleBollywood.in" tvg-country="IN" group-title="music",Boogle Bollywood
+https://yuppnimrestreammum.akamaized.net/181224/smil:bogglebollywood.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-id="DhoolTV.in" tvg-country="IN" group-title="music",Dhool TV
+https://d1msejlow1t3l4.cloudfront.net/fta/subhartitv/playlist.m3u8
+#EXTINF:-1 tvg-id="DhoomMusic.in" tvg-country="IN" group-title="music",Dhoom Music
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:dhoom.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="EpicMusic.in" tvg-country="IN" group-title="music",Epic Music Digital
+https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/playlist.m3u8
+#EXTINF:-1 tvg-id="ETVBeats.in" tvg-country="IN" group-title="music",ETV Beats
+https://cc-szivnms4rlah6.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-szivnms4rlah6/WWBI/Amagi/ETV_Music_IN/playlist.m3u8
+#EXTINF:-1 tvg-id="ETVMusic.in" tvg-country="IN" group-title="music",ETV Music
+https://cc-szivnms4rlah6.akamaized.net/WWBI/Amagi/ETV_Music_IN/playlist.m3u8
+#EXTINF:-1 tvg-id="HareKrsnaMusic.in" tvg-country="IN" group-title="religious",Hare Krsna Music
+https://d1y1fq5zo7b6pt.cloudfront.net/v1/master/071c0467fcd02420cdf0d8a1ca3524b96c27a151/hkmusic/HKTV/HKMusic/playlist.m3u8
+#EXTINF:-1 tvg-id="HindiHits.in" tvg-country="IN" group-title="music",Hindi Hits
+http://146.59.253.52:8080/hindihitshd/index.m3u8
+#EXTINF:-1 tvg-id="Insync.in" tvg-country="IN" group-title="music",Insync
+https://d1msejlow1t3l4.cloudfront.net/fta/insync/playlist.m3u8
+#EXTINF:-1 tvg-id="IsaiAruvi.in" tvg-country="IN" group-title="music",Isai Aruvi
+https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
+#EXTINF:-1 tvg-id="KalikaTV.in" tvg-country="IN" group-title="music",Kalika TV
+http://server.applelive.in/kalikatv/kalikatv.m3u8
+#EXTINF:-1 tvg-id="Mastiii.in" tvg-country="IN" group-title="music",Mastiii
+https://mumbai-edge.smartplaytv.in/MastiMusic/index.m3u8
+#EXTINF:-1 tvg-id="Mh1Music.in" tvg-country="IN" group-title="music",Mh 1 Music
+https://livestream.jswk.online/playlisttest/live/playlist.m3u8
+#EXTINF:-1 tvg-id="MusicIndia.in" tvg-country="IN" group-title="music",Music India
+https://fta.ektv.in/live/158/master.m3u8
+#EXTINF:-1 tvg-id="NHBollyRaga.in" tvg-country="IN" group-title="music",NH BollyRaga
+https://jmp2.uk/stvp-IN460001373
+#EXTINF:-1 tvg-id="OrangeBanglaTV.in" tvg-country="IN" group-title="music",Orange Bangla TV
+https://cdn.pishow.tv/ott/live/1499/master.m3u8
+#EXTINF:-1 tvg-id="Pankh.in" tvg-country="IN" group-title="music",Pankh
+https://samitaorigin.tangotv.in/PANKH/SAMITAORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="PeppersTV.in" tvg-country="IN" group-title="music",Peppers TV
+https://mumt07.tangotv.in/zHjX9OFlPEPPERS/index.m3u8
+#EXTINF:-1 tvg-id="PTCChakde.in" tvg-country="IN" group-title="music",PTC Chakde
+https://fta.ektv.in/live/180/master.m3u8
+#EXTINF:-1 tvg-id="PTCMusic.in" tvg-country="IN" group-title="music",PTC Music
+https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
+#EXTINF:-1 tvg-id="PublicMusic.in" tvg-country="IN" group-title="music",Public Music
+https://fta.ektv.in/live/240/master.m3u8
+#EXTINF:-1 tvg-id="PunjabiBeatsHD.in" tvg-country="IN" group-title="music",Punjabi Beats HD
+https://mumt01.tangotv.in/O5aw8Zn3STVHARYANANEWS/index.m3u8
+#EXTINF:-1 tvg-id="PunjabiHits.in" tvg-country="IN" group-title="music",Punjabi Hits
+https://legitpro.co.in/punjabihits/punjabihits/index.m3u8
+#EXTINF:-1 tvg-id="PunjabiMusicHD.in" tvg-country="IN" group-title="music",Punjabi Music HD
+https://samitaorigin.tangotv.in/PUNJABIMUSICHD/SAMITAORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="RajMusixKannada.in" tvg-country="IN" group-title="music",Raj Musix Kannada
+https://mumt01.tangotv.in/O5aw8Zn3RAJMUSIXKANDA/index.m3u8
+#EXTINF:-1 tvg-id="RajMusixMalayalam.in" tvg-country="IN" group-title="music",Raj Musix Malayalam
+https://cdn.pishow.tv/ott/live/1073/master.m3u8
+#EXTINF:-1 tvg-id="RajMusixTamil.in" tvg-country="IN" group-title="music",Raj Musix Tamil
+https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u8
+#EXTINF:-1 tvg-id="RajMusixTelugu.in" tvg-country="IN" group-title="music",Raj Musix Telugu
+https://mumt07.tangotv.in/zHjX9OFlRAJMUSIXTELUGU/index.m3u8
+#EXTINF:-1 tvg-id="SanaPlus.in" tvg-country="IN" group-title="music",Sana Plus
+https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8
+#EXTINF:-1 tvg-id="SangeetBangla.in" tvg-country="IN" group-title="music",Sangeet Bangla
+https://fta.ektv.in/live/379/master.m3u8
+#EXTINF:-1 tvg-id="SangeetBhojpuri.in" tvg-country="IN" group-title="music",Sangeet Bhojpuri
+https://fta.ektv.in/live/349/master.m3u8
+#EXTINF:-1 tvg-id="SangeetMarathi.in" tvg-country="IN" group-title="music",Sangeet Marathi
+https://fta.ektv.in/live/712/master.m3u8
+#EXTINF:-1 tvg-id="SongdewTV.in" tvg-country="IN" group-title="music",Songdew TV
+https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-id="TabbarHits.in" tvg-country="IN" group-title="music",Tabbar Hits
+https://livingindiaottlive.akamaized.net/tabbarhits/index.m3u8
+#EXTINF:-1 tvg-id="TarangMusic.in" tvg-country="IN" group-title="music",Tarang Music
+https://livetv.tarangplus.in/tarangmusic-origin/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Tunes6.in" tvg-country="IN" group-title="music",Tunes 6
+https://stream.d6-pro.com/Tunes6music/live/video.m3u8
+#EXTINF:-1 tvg-id="UltimateTV.in" tvg-country="IN" group-title="music",Ultimate TV
+https://stream.ottlive.co.in/utvtamil/index.m3u8
+#EXTINF:-1 tvg-id="VaanavilTV.in" tvg-country="IN" group-title="music",Vaanavil TV
+https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="VijayTakkar.in" tvg-country="IN" group-title="music",Vijay Takkar APAC
+https://tglmp01.akamaized.net/out/v1/c1071012b73f4f189b202e1529e8f802/manifest.mpd
+#EXTINF:-1 tvg-id="VisionBeats.in" tvg-country="IN" group-title="music",Vision Beats
+http://a-edge.bliscdn.com/Visionbeats/index.m3u8
+#EXTINF:-1 tvg-id="WahPunjabi.in" tvg-country="IN" group-title="music",Wah Punjabi
+https://yuppnimrestreammum.akamaized.net/181224/smil:wahpunjabi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-id="YRFMusic.in" tvg-country="IN" group-title="music",YRF Music Nepal
+https://vidaa.kableone.com/hls/live/2111218/YrfMusic/1.m3u8
+#EXTINF:-1 tvg-id="ZBMusic.in" tvg-country="IN" group-title="music",ZB Music
+https://server.zillarbarta.com/zbmusic/index.m3u8
+#EXTINF:-1 tvg-id="Zoom.in" tvg-country="IN" group-title="music",Zoom
+https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
+#EXTINF:-1 tvg-id="LingkarTV.id" tvg-country="ID" group-title="news",Lingkar TV
+https://lingkartv.my.id/hls/lingkartv.m3u8
+#EXTINF:-1 tvg-id="MusicInformationChannel.id" tvg-country="ID" group-title="music",Music Information Channel
+https://mic.siar.us/mic/live/mic.m3u8
+#EXTINF:-1 tvg-id="AFNTV.ir" tvg-country="IR" group-title="music",AFN TV
+https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
+#EXTINF:-1 tvg-id="T2TV.ir" tvg-country="IR" group-title="music",T2 TV
+https://t2hls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="IshtarTV.iq" tvg-country="IQ" group-title="culture",Ishtar TV
+https://stream.ishtartv.com/live/iShtarHD/playlist.m3u8
+#EXTINF:-1 tvg-id="MusicIL.il" tvg-country="IL" group-title="music",Music IL
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/music_il/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="7080TV.it" tvg-country="IT" group-title="music",70-80 TV
+https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
+#EXTINF:-1 tvg-id="CompanyTV.it" tvg-country="IT" group-title="music",Company TV
+https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
+#EXTINF:-1 tvg-id="EuroIndieMusicChartTV.it" tvg-country="IT" group-title="music",Euro Indie Music Chart TV
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+#EXTINF:-1 tvg-id="FMITALIA.it" tvg-country="IT" group-title="music",FM ITALIA
+https://stream2.xdevel.com/video0s975817-1183/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="KissKissNapoliTV.it" tvg-country="IT" group-title="music",Kiss Kiss Napoli TV
+https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="KissKissTV.it" tvg-country="IT" group-title="music",Kiss Kiss TV
+https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="m2oTV.it" tvg-country="IT" group-title="music",m2o TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioBrunoTV.it" tvg-country="IT" group-title="music",Radio Bruno TV
+http://stream7.xdevel.com/video0s975758-1051/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioCapitalTiVu.it" tvg-country="IT" group-title="music",Radio Capital TiVu
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioItaliaTrendTV.it" tvg-country="IT" group-title="music",Radio Italia Trend
+https://amg00745-radioitailaspa-radioitalia-rakuten-sucsc.amagi.tv/hls/amagi_hls_data_rakutenAA-radioitalia-rakuten/CDN/master.m3u8
+#EXTINF:-1 tvg-id="RadioZeta.it" tvg-country="IT" group-title="music",Radio Zeta TV
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
+#EXTINF:-1 tvg-id="Radiofreccia.it" tvg-country="IT" group-title="music",Radio Freccia TV
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
+#EXTINF:-1 tvg-id="RTL1025Best.it" tvg-country="IT" group-title="music",RTL 102.5 Best
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/playlist_video.m3u8
+#EXTINF:-1 tvg-id="RTL1025BroSis.it" tvg-country="IT" group-title="music",RTL 102.5 Bro&Sis
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/playlist_video.m3u8
+#EXTINF:-1 tvg-id="RTL1025Caliente.it" tvg-country="IT" group-title="music",RTL 102.5 Caliente
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_video.m3u8
+#EXTINF:-1 tvg-id="RTL1025Disco.it" tvg-country="IT" group-title="music",RTL 102.5 Disco
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/playlist_video.m3u8
+#EXTINF:-1 tvg-id="RTL1025Napule.it" tvg-country="IT" group-title="music",RTL 102.5 Napulè
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_video.m3u8
+#EXTINF:-1 tvg-id="RTL1025Traffic.it" tvg-country="IT" group-title="music",RTL 102.5 Traffic
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
+#EXTINF:-1 tvg-id="RTL1025TV.it" tvg-country="IT" group-title="music",RTL 102.5 TV
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
+#EXTINF:-1 tvg-id="IvoireChannel.ci" tvg-country="CI" group-title="music",Ivoire Channel
+https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
+#EXTINF:-1 tvg-id="Fame95FM.jm" tvg-country="JM" group-title="music",Fame95 FM
+https://rjrfame-ioriver-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 tvg-id="JordanSongs.jo" tvg-country="JO" group-title="music",Jordan Songs
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Song/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioSWHTV.lv" tvg-country="LV" group-title="music",Radio SWH TV
+https://00ff00.latnet.media/edge/swh_tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AghaniAghaniTV.lb" tvg-country="LB" group-title="music",Aghani Aghani TV
+https://cdn.streamlane.tv/hls/aghanitv/index.m3u8
+#EXTINF:-1 tvg-id="ArabicaTV.lb" tvg-country="LB" group-title="music",Arabica TV
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
+#EXTINF:-1 tvg-id="mfm.lb" tvg-country="LB" group-title="music",mfm
+https://hms.pfs.gdn/hms/v1/broadcast/hlmvmp2hfriode891/playlist.m3u8
+#EXTINF:-1 tvg-id="2TV.lt" tvg-country="LT" group-title="music",2TV
+https://lnk5511.bstrm.net/live/687e3ff1679c8d4d68fab6c5/hd/manifest.mpd
+#EXTINF:-1 tvg-id="LRTKlasika.lt" tvg-country="LT" group-title="music",LRT Klasika
+https://stream-live.lrt.lt/klasika/master.m3u8
+#EXTINF:-1 tvg-id="LRTOpus.lt" tvg-country="LT" group-title="music",LRT Opus
+https://stream-live.lrt.lt/opus/master.m3u8
+#EXTINF:-1 tvg-id="M1.lt" tvg-country="LT" group-title="music",M-1
+https://m-1.data.lt/m-1/smil:m-1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTLGold.lu" tvg-country="LU" group-title="music",RTL Gold
+https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8
+#EXTINF:-1 tvg-id="TodayRadio.lu" tvg-country="LU" group-title="music",RTL Today Radio
+https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8
+#EXTINF:-1 tvg-id="FUSIONTV.mq" tvg-country="MQ" group-title="music",FUSION TV
+https://edge20.vedge.infomaniak.com/livecast/ik:fusiontv/manifest.m3u8
+#EXTINF:-1 tvg-id="IdentiteTeleCaraibes.mq" tvg-country="MQ" group-title="music",Identité Télé Caraïbes
+https://vdo2.pro-fhi.net:3769/stream/play.m3u8
+#EXTINF:-1 tvg-id="TeleZoukla.mq" tvg-country="MQ" group-title="music",Tele Zoukla
+https://vdo.pro-fhi.net:3228/stream/play.m3u8
+#EXTINF:-1 tvg-id="Bandamax.mx" tvg-country="MX" group-title="music",Bandamax
+http://181.78.106.127:5000/play/ca064/index.m3u8
+#EXTINF:-1 tvg-id="ConectaTV.mx" tvg-country="MX" group-title="music",Conecta TV
+https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
+#EXTINF:-1 tvg-id="LoboTV.mx" tvg-country="MX" group-title="music",Lobo TV
+https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleHit.mx" tvg-country="MX" group-title="music",TeleHit
+http://186.148.196.100:8000/play/a01s
+#EXTINF:-1 tvg-id="VisionTelevision.mx" tvg-country="MX" group-title="music",Visión Televisión
+https://cloudvideo.servers10.com:8081/8016/index.m3u8
+#EXTINF:-1 tvg-id="HitFM.md" tvg-country="MD" group-title="music",Hit FM
+https://hitfm.nfthost.net/hls/hitfm/live_all/playlist.m3u8
+#EXTINF:-1 tvg-id="NorocTV.md" tvg-country="MD" group-title="music",Noroc TV
+https://media.noroc.tv/noroc/bitrate_1080p.m3u8
+#EXTINF:-1 tvg-id="RadioChisinau.md" tvg-country="MD" group-title="music",Radio Chisinau
+https://radiochisinau.md/hls/RChisinau.m3u8
+#EXTINF:-1 tvg-id="RadioMoldovaMuzical.md" tvg-country="MD" group-title="music",Radio Moldova Muzical
+https://radiolive.trm.md:8001/hls_rmm/muzical.m3u8
+#EXTINF:-1 tvg-id="TezaurTV.md" tvg-country="MD" group-title="music",Tezaur TV
+https://tezaurtv.md/stream/index.m3u8
+#EXTINF:-1 tvg-id="TjilTV.na" tvg-country="NA" group-title="music",Tjil TV
+https://hls-1zdhtxpm-livepush.akamaized.net/live_cdn/nsM12Xw0C1xXdJ/em0Wx71z-ec6EWJb/rewind-3600.m3u8
+#EXTINF:-1 tvg-id="360TuneBox.nl" tvg-country="NL" group-title="music",360TuneBox
+https://dash3.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="BEATTV.nl" tvg-country="NL" group-title="music",BE@TTV
+https://tv.beatfm.nl/live.m3u8
+#EXTINF:-1 tvg-id="DanceTelevision.nl" tvg-country="NL" group-title="music",Dance Television
+https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+#EXTINF:-1 tvg-id="FomixTV.nl" tvg-country="NL" group-title="music",FomixTV
+https://stream.fomixmedia.nl/FomixTV/video.m3u8
+#EXTINF:-1 tvg-id="GigantFM.nl" tvg-country="NL" group-title="music",Gigant FM
+https://video.uitzending.tv:19360/gigantfm/gigantfm.m3u8
+#EXTINF:-1 tvg-id="HypeVisualRadio.nl" tvg-country="NL" group-title="music",Hype Visual Radio
+https://streammix.alsolnet.com/hyperadio/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Qmusic.nl" tvg-country="NL" group-title="music",Qmusic
+https://stream.qmusic.nl/qmusic/videohls.m3u8
+#EXTINF:-1 tvg-id="RadioJND.nl" tvg-country="NL" group-title="music",Radio JND
+https://radiojnd.cdn.hostin.cc/radiojnd/playlist.m3u8
+#EXTINF:-1 tvg-id="TMF.nl" tvg-country="NL" group-title="classic",TMF
+https://tmf-nl-nl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-yourchannels-10-restreaming/bitok/eyJzdGlkIjoiMzUzNGNiZTAtNWY4MS00ZmU4LWE1NGYtYjgyMjJmMTM3ZmZjIiwibWt0IjoibmwiLCJjaCI6IjEwIiwicHRmIjo1fQ%3D%3D/mpgmedia/TMF/TMF_NL/TMF_NL.m3u8
+#EXTINF:-1 tvg-id="XITE.nl" tvg-country="NL" group-title="music",XITE
+https://xite-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="XITEClassicCountry.nl" tvg-country="NL" group-title="music",XITE Classic Country
+https://jmp2.uk/plu-623b92a2ccefed0007b1db48.m3u8
+#EXTINF:-1 tvg-id="XITEHits.nl" tvg-country="NL" group-title="music",XITE Hits Germany
+https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8
+#EXTINF:-1 tvg-id="XITEJustChill.nl" tvg-country="NL" group-title="music",XITE Just Chill
+https://dvnftgdlbnemm.cloudfront.net/XITE_Just_Chill.m3u8
+#EXTINF:-1 tvg-id="XITEReggaeVibes.nl" tvg-country="NL" group-title="music",XITE Reggae Vibes
+https://dw2m7yrngfg8c.cloudfront.net/XITE_Reggae_Vibes.m3u8
+#EXTINF:-1 tvg-id="XITERockxMetal.nl" tvg-country="NL" group-title="music",XITE Rock x Metal
+https://jmp2.uk/plu-623a1b5188ecdc0007c9ef5a.m3u8
+#EXTINF:-1 tvg-id="AMusicChannel.ng" tvg-country="NG" group-title="music",AMusic Channel
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_021/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="HMTV.ng" tvg-country="NG" group-title="music",HMTV
+https://customer-yzxu6n447dx2x45h.cloudflarestream.com/f255a1e5ef17a8277e15e5f409951e98/manifest/video.m3u8
+#EXTINF:-1 tvg-id="TopEstradaTV.mk" tvg-country="MK" group-title="music",TopEstrada TV
+http://live.topestrada.com/live/topestrada/playlist.m3u8
+#EXTINF:-1 tvg-id="JalwaTV.pk" tvg-country="PK" group-title="music",Jalwa TV
+https://vodzong.mjunoon.tv:8087/streamtest/JalwaTV-135/live/135M/chunks.m3u8
+#EXTINF:-1 tvg-id="JooMusic.pk" tvg-country="PK" group-title="music",JooMusic
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FalastiniTV.ps" tvg-country="PS" group-title="music",Falastini TV
+https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8
+#EXTINF:-1 tvg-id="CorazonTV.pa" tvg-country="PA" group-title="music",Corazon TV
+https://sistemastr.tropicalmoonmedia.com/live/7FFCFEC3978B68D1A2ED0A38DE96AF76/12.m3u8
+#EXTINF:-1 tvg-id="FabulosaEstereo1005FM.pa" tvg-country="PA" group-title="music",Fabulosa Estéreo 100.5 FM
+https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8
+#EXTINF:-1 tvg-id="Mas23TV.pa" tvg-country="PA" group-title="music",Mas23 TV
+https://movil.ejeserver.com/live/mas23tv.m3u8
+#EXTINF:-1 tvg-id="PindinTV.pa" tvg-country="PA" group-title="music",Pindin TV
+https://sistemastr.tropicalmoonmedia.com/live/7C452409423F57ADC960F6405635267F/7.m3u8
+#EXTINF:-1 tvg-id="Planet1009FM.pa" tvg-country="PA" group-title="music",Planet 100.9 FM
+https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8
+#EXTINF:-1 tvg-id="SuperQPanama.pa" tvg-country="PA" group-title="music",Súper Q Panamá
+https://vcp8.myplaytv.com:1936/superq/superq/playlist.m3u8
+#EXTINF:-1 tvg-id="TropiQ997FM.pa" tvg-country="PA" group-title="music",Tropi Q 99.7 FM
+https://www.streaming507.net:19360/videotropiq/videotropiq.m3u8
+#EXTINF:-1 tvg-id="AlcanceFMPLAYTV.py" tvg-country="PY" group-title="music",Alcance FM PLAY TV
+https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8
+#EXTINF:-1 tvg-id="E40.py" tvg-country="PY" group-title="music",E40
+https://copacotf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion
+#EXTINF:-1 tvg-id="HEiNow.py" tvg-country="PY" group-title="music",HEi Now
+https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion
+#EXTINF:-1 tvg-id="LosAngelesTVRadio.py" tvg-country="PY" group-title="music",Los Angeles TV Radio
+https://stmv6.voxtvhd.com.br/losangeles/losangeles/playlist.m3u8
+#EXTINF:-1 tvg-id="NextHD.py" tvg-country="PY" group-title="movies",Next HD
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
+#EXTINF:-1 tvg-id="RadioColmenar925FM.py" tvg-country="PY" group-title="music",Radio Colmenar 92.5 FM
+https://tvdatta.com:3041/live/colmenarlive.m3u8
+#EXTINF:-1 tvg-id="RadioSanCristobal887FM.py" tvg-country="PY" group-title="music",Radio San Cristobal 88.7 FM
+https://video.wilohosting.com:19360/sancristobalfm/sancristobalfm.m3u8
+#EXTINF:-1 tvg-id="Tropicalia939FM.py" tvg-country="PY" group-title="music",Tropicalia 93.9 FM
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/67.m3u8
+#EXTINF:-1 tvg-id="VenusMedia.py" tvg-country="PY" group-title="music",Venus Media
+https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
+#EXTINF:-1 tvg-id="Karibena.pe" tvg-country="PE" group-title="music",Karibena
+https://iptv-pe-x-7-g3s-video.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="LaFabulosaTV.pe" tvg-country="PE" group-title="music",La Fabulosa Radio y TV
+https://eu1.servers10.com:8081/8004/index.m3u8
+#EXTINF:-1 tvg-id="MetropolitanadelCuzco.pe" tvg-country="PE" group-title="music",Metropolitana del Cuzco
+https://video1.earthcam.com/myearthcam/075ff02f78c35af55564cf3af3b3f750.flv/playlist.m3u8
+#EXTINF:-1 tvg-id="MielTV.pe" tvg-country="PE" group-title="music",Miel TV
+https://live-evg5.tv360.bitel.com.pe/bitel/mieltvSRT/playlist.m3u8
+#EXTINF:-1 tvg-id="Millenium109FM.pe" tvg-country="PE" group-title="music",Millenium 109 FM
+https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
+#EXTINF:-1 tvg-id="RadioMaster.pe" tvg-country="PE" group-title="music",Radio Master
+https://videoserver.tmcreativos.com:19360/radiomaster/radiomaster.m3u8
+#EXTINF:-1 tvg-id="RadioOndaDigital.pe" tvg-country="PE" group-title="music",Radio Onda Digital
+https://live.ondadigitaltv.com/RADIOODTV/index.m3u8
+#EXTINF:-1 tvg-id="RadioRumbaTV.pe" tvg-country="PE" group-title="music",Radio Rumba TV
+https://live-evg7.tv360.bitel.com.pe/bitel/rumba/playlist.m3u8
+#EXTINF:-1 tvg-id="RumbaMixTV.pe" tvg-country="PE" group-title="music",RumbaMix TV
+https://live-evg5.tv360.bitel.com.pe/bitel/mixtvSRT/playlist.m3u8
+#EXTINF:-1 tvg-id="SanjuaneraTV.pe" tvg-country="PE" group-title="music",SanjuaneraTV
+https://live.obslivestream.com/sanjuanera/index.m3u8
+#EXTINF:-1 tvg-id="TopLatinoTV.pe" tvg-country="PE" group-title="music",Top Latino TV
+http://38.87.224.20:2220/play/a02b/index.m3u8
+#EXTINF:-1 tvg-id="TurboMixRadioTV.pe" tvg-country="PE" group-title="music",Turbo Mix Radio TV
+https://live-evg11.tv360.bitel.com.pe/bitel/turbomixSRT/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPeruanisima.pe" tvg-country="PE" group-title="music",TV Peruanisima
+https://k20.usastreams.com:8081/tvperuanisima/index.m3u8
+#EXTINF:-1 tvg-id="TVUNO.pe" tvg-country="PE" group-title="music",TVUNO
+https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
+#EXTINF:-1 tvg-id="4FunDance.pl" tvg-country="PL" group-title="music",4 Fun Dance
+http://92.114.85.87:8018/play/a00k/index.m3u8
+#EXTINF:-1 tvg-id="DiscoPoloMusic.pl" tvg-country="PL" group-title="music",Disco Polo Music
+http://92.114.85.87:8014/play/a007/index.m3u8
+#EXTINF:-1 tvg-id="EskaRockTV.pl" tvg-country="PL" group-title="music",Eska Rock TV
+http://92.114.85.87:8016/play/a005/index.m3u8
+#EXTINF:-1 tvg-id="EskaTV.pl" tvg-country="PL" group-title="music",Eska TV
+http://92.114.85.87:8018/play/a00h/index.m3u8
+#EXTINF:-1 tvg-id="EskaTVExtra.pl" tvg-country="PL" group-title="music",Eska TV Extra
+http://92.114.85.87:8016/play/a008/index.m3u8
+#EXTINF:-1 tvg-id="MusicBoxPolska.pl" tvg-country="PL" group-title="music",Music Box Polska Ukraine
+http://777905.live.tvstitch.com/playlist.m3u8?master=57&source=aHR0cHM6Ly9obHMtY2RuMS5keXZ5YXBwLmNvbS9NdXNpYy1Cb3gvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4P3Rva2VuPWV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpqYUdGdWJtVnNYMmxrSWpvMU55d2lZMmhoYm01bGJGOXVZVzFsSWpvaVRYVnphV01nUW05NElpd2lhWEFpT2lJeE56Z3VNVE0yTGpReUxqSXlNQ0lzSW1OdmRXNTBjbmtpT2lKVmEzSmhhVzVsSWl3aWRYTmxjbDlwWkNJNk56UXdOeXdpZFhObGNsOXdhRzl1WlNJNklpc3pPREE1TXpBNU5qYzBNak1pTENKMWMyVnlYM0p2YkdWeklqcGJJbU5zYVdWdWRDSmRMQ0p3Y205bWFXeGxYMmxrSWpvMk5EY3hMQ0p6WlhOemFXOXVYMmxrSWpvaVpEQXdPVFppWmpndE1qTmxOUzAwWldVMkxXSmxNelV0Wmpnd09ETTVaV1k1WkRnMElpd2laVzUyYVhKdmJtMWxiblFpT2lKd2NtOWtkV04wYVc5dUlpd2ljR3hoZEdadmNtMGlPaUpFWlhOcmRHOXdJaXdpZFhObGNsOWhaMlZ1ZENJNklrMXZlbWxzYkdGY0x6VXVNQ0FvVjJsdVpHOTNjeUJPVkNBeE1DNHdPeUJYYVc0Mk5Ec2dlRFkwS1NCQmNIQnNaVmRsWWt0cGRGd3ZOVE0zTGpNMklDaExTRlJOVEN3Z2JHbHJaU0JIWldOcmJ5a2dRMmh5YjIxbFhDOHhOVEl1TUM0d0xqQWdVMkZtWVhKcFhDODFNemN1TXpZaUxDSmxlSEFpT2pFM09EZ3hPRFV4TmpkOS5nYUo1WGRxTjJ3djY2SnFxYldnX0dGUzY3V3lZVEVOc0JQa3VpcU1sNTVN
+#EXTINF:-1 tvg-id="PolsatMusic.pl" tvg-country="PL" group-title="music",Polsat Music
+http://92.114.85.87:8001/play/a00z/index.m3u8
+#EXTINF:-1 tvg-id="RADIOCLUBDJTV.pl" tvg-country="PL" group-title="music",RADIO CLUB DJ TV
+https://radioclubdj.pro/stream/tv.m3u8
+#EXTINF:-1 tvg-id="VOXMusicTV.pl" tvg-country="PL" group-title="music",VOX Music TV
+http://92.114.85.87:8016/play/a00a/index.m3u8
+#EXTINF:-1 tvg-id="KuriakosMusic.pt" tvg-country="PT" group-title="music",Kuriakos Music
+http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ONFM.pt" tvg-country="PT" group-title="music",ON FM
+https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="RFPtv.pt" tvg-country="PT" group-title="music",RFPtv
+https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8
+#EXTINF:-1 tvg-id="LaX.pr" tvg-country="PR" group-title="music",La-X
+https://stream.eleden.com/livelax/ngrp:livelax_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AtomicAcademyTV.ro" tvg-country="RO" group-title="music",Atomic Academy TV
+https://atomic.streamnet.ro/academia.m3u8
+#EXTINF:-1 tvg-id="AtomicTV.ro" tvg-country="RO" group-title="music",Atomic TV
+https://atomic.streamnet.ro/atomictv.m3u8
+#EXTINF:-1 tvg-id="BoomTV.ro" tvg-country="RO" group-title="music",Boom TV
+https://tvboom.ro/live-tv/live.m3u8
+#EXTINF:-1 tvg-id="EMITV.ro" tvg-country="RO" group-title="music",EMI TV
+https://hls01ns.antenaplay.ro/hls/emi-tv-sd/index.m3u8
+#EXTINF:-1 tvg-id="ImpactTV.ro" tvg-country="RO" group-title="music",Impact TV
+https://live.tvimpact.ro:8088/hevc/index.m3u8
+#EXTINF:-1 tvg-id="ImpactTV2.ro" tvg-country="RO" group-title="music",Impact TV 2
+https://online.tvimpact.live/hls/impact_tv2.m3u8
+#EXTINF:-1 tvg-id="ImpactTVDance.ro" tvg-country="RO" group-title="music",Impact TV Dance
+https://online.tvimpact.live/hls/dancetv.m3u8
+#EXTINF:-1 tvg-id="ImpactTVManele.ro" tvg-country="RO" group-title="music",Impact TV Manele
+https://online.tvimpact.live/hls/impact_tv.m3u8
+#EXTINF:-1 tvg-id="KissTV.ro" tvg-country="RO" group-title="music",Kiss TV
+https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
+#EXTINF:-1 tvg-id="MagicTV.ro" tvg-country="RO" group-title="music",Magic TV
+https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
+#EXTINF:-1 tvg-id="OrizontTV.ro" tvg-country="RO" group-title="music",Orizont TV
+https://hls01ns.antenaplay.ro/hls/orizont-tv-sd/index.m3u8
+#EXTINF:-1 tvg-id="PartyMix.ro" tvg-country="RO" group-title="music",Party Mix HD
+https://hls02ns.antenaplay.ro/hls/party-mix-hd/index.m3u8
+#EXTINF:-1 tvg-id="RadioFxNet.ro" tvg-country="RO" group-title="music",Radio Fx Net
+https://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioRomania3Net.ro" tvg-country="RO" group-title="music",Radio Romania 3Net
+https://media.3netmedia.ro/hls/stream.m3u8
+#EXTINF:-1 tvg-id="RadioRomaniaTarguMures.ro" tvg-country="RO" group-title="general",Radio Romania Targu Mures
+https://stream3.srr.ro/live/radio-muresr/chunklist_w1731505049.m3u8
+#EXTINF:-1 tvg-id="RadioZU.ro" tvg-country="RO" group-title="music",Radio ZU
+https://stream1.antenaplay.ro/zurtv/zurtv/chunklist.m3u8
+#EXTINF:-1 tvg-id="RockTV.ro" tvg-country="RO" group-title="music",Rock TV
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
+#EXTINF:-1 tvg-id="RomanticFM.ro" tvg-country="RO" group-title="music",Romantic FM
+https://stream1.antenaplay.ro/zurtv/rfmprem/chunklist.m3u8
+#EXTINF:-1 tvg-id="SmartRadio.ro" tvg-country="RO" group-title="music",Smart Radio
+https://streamw.m.ro/Regie/radio.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="SuperTV.ro" tvg-country="RO" group-title="music",Super TV
+http://iptv.supertv.ro:8000/play/a001/index.m3u8
+#EXTINF:-1 tvg-id="Tele7music.ro" tvg-country="RO" group-title="music",Tele7music
+https://live.tele7music.ro/hls/stream/index.m3u8
+#EXTINF:-1 tvg-id="TequilaMusicTV.ro" tvg-country="RO" group-title="music",Tequila Music TV
+https://stream.tequilamusic.net/hls/tequila_tv.m3u8
+#EXTINF:-1 tvg-id="TVAS.ro" tvg-country="RO" group-title="music",TV AS
+https://hls01ns.antenaplay.ro/hls/tv-as-sd/index.m3u8
+#EXTINF:-1 tvg-id="TVRFolclor.ro" tvg-country="RO" group-title="general",TVR Folclor
+https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="1HDMusicTelevision.ru" tvg-country="RU" group-title="music",1HD Music Television
+http://176.118.197.101/1HD/index.m3u8
+#EXTINF:-1 tvg-id="BabyTime.ru" tvg-country="RU" group-title="kids",Baby Time
+http://178.134.1.158:8081/babytime/index.m3u8
+#EXTINF:-1 tvg-id="BRIDGE.ru" tvg-country="RU" group-title="music",BRIDGE
+http://178.134.1.158:8081/BRIDGE/index.m3u8
+#EXTINF:-1 tvg-id="BRIDGERock.ru" tvg-country="RU" group-title="music",BRIDGE Rock
+http://178.134.1.158:8081/BRIDGEROCK/index.m3u8
+#EXTINF:-1 tvg-id="DanceHits80.ru" tvg-country="RU" group-title="music",DanceHits80
+http://dancehits80.denvs.ru:8080/index.m3u8
+#EXTINF:-1 tvg-id="EuropaPlusTV.ru" tvg-country="RU" group-title="music",Europa Plus TV Belarus
+http://46.53.200.153:7777/play/EuropaPlus/index.m3u8
+#EXTINF:-1 tvg-id="LiveMusicChannel.ru" tvg-country="RU" group-title="music",Live Music Channel HD
+http://46.53.200.153:7777/play/Live_music_channel/index.m3u8
+#EXTINF:-1 tvg-id="Maidan.ru" tvg-country="RU" group-title="music",Maidan
+https://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MuzSoyuz.ru" tvg-country="RU" group-title="music",Муз союз
+https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+#EXTINF:-1 tvg-id="MuzTV.ru" tvg-country="RU" group-title="music",Muz-TV
+https://stream8.cinerama.uz/1200/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MuzykaPervogo.ru" tvg-country="RU" group-title="music",Muzyka Pervogo
+https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="RUTV.ru" tvg-country="RU" group-title="music",RU.TV
+https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?e=2069285076&s=d-E-bxKy2v3EEJ94RQX9CA&scheme=https
+#EXTINF:-1 tvg-id="ShansonTV.ru" tvg-country="RU" group-title="music",Shanson TV
+http://46.53.200.153:7777/play/Shanson_TV/index.m3u8
+#EXTINF:-1 tvg-id="StranaFM.ru" tvg-country="RU" group-title="music",Страна ФМ
+https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="VIVARussia.ru" tvg-country="RU" group-title="music",VIVA Russia
+https://183.giatvcdn.com/ssh101/ssh101/vivarussia/playlist.m3u8
+#EXTINF:-1 tvg-id="AbdulmajeedAbdullah.sa" tvg-country="SA" group-title="music",Abdulmajeed Abdullah
+https://d2hng5r56zpsbw.cloudfront.net/out/v1/9c4c990f44bb4767bb46271f326dd574/index.m3u8
+#EXTINF:-1 tvg-id="Fairuz.sa" tvg-country="SA" group-title="music",Fairuz
+https://shd-amg-fast.edgenextcdn.net/tx029/playlist.m3u8
+#EXTINF:-1 tvg-id="JeddahRadio.sa" tvg-country="SA" group-title="music",Jeddah Radio
+https://live.kwikmotion.com/sbrksajeddahradiolive/srpksajeddahradio/chunks.m3u8
+#EXTINF:-1 tvg-id="MajidAlMohandis.sa" tvg-country="SA" group-title="music",Majid Al Mohandis
+https://shd-amg-fast.edgenextcdn.net/tx019/playlist.m3u8
+#EXTINF:-1 tvg-id="MBCLoud.sa" tvg-country="SA" group-title="music",MBC Loud
+https://radio-loud-fm.mbc.net/radio-loud-fm_1.m3u8
+#EXTINF:-1 tvg-id="MBCMood.sa" tvg-country="SA" group-title="music",MBC Mood
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-mood/78367bf48ccdba501d0d014a10c21031/index.m3u8
+#EXTINF:-1 tvg-id="MohammedAbdo.sa" tvg-country="SA" group-title="music",Mohammed Abdo
+https://d2ow8h651gs7dx.cloudfront.net/out/v1/371fb663da604e659a2fb99bf89d92d4/index.m3u8
+#EXTINF:-1 tvg-id="NidaeAlIslamRadio.sa" tvg-country="SA" group-title="music",Nidae AlIslam Radio
+https://live.kwikmotion.com/sbrksanedaradiolive/srpksanedaradio/playlist.m3u8
+#EXTINF:-1 tvg-id="PanoramaFM.sa" tvg-country="SA" group-title="music",Panorama FM
+https://d6izdil55uftn.cloudfront.net/out/v1/0a06d1d6377c47edbd48721ed724bd08/index.m3u8
+#EXTINF:-1 tvg-id="RabehSaqer.sa" tvg-country="SA" group-title="music",Rabeh Saqer
+https://shd-amg-fast.edgenextcdn.net/tx004/playlist.m3u8
+#EXTINF:-1 tvg-id="RashidAlMajed.sa" tvg-country="SA" group-title="music",Rashid AlMajed
+https://dphwv2ufgnfsq.cloudfront.net/out/v1/59cd80dfe93a479eb8b4d79bc6f225ca/index.m3u8
+#EXTINF:-1 tvg-id="RotanaMusic.sa" tvg-country="SA" group-title="music",Rotana Music
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rotana_music/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="Tarab.sa" tvg-country="SA" group-title="music",Tarab
+https://shd-amg-fast.edgenextcdn.net/tx002/playlist.m3u8
+#EXTINF:-1 tvg-id="DMSat.rs" tvg-country="RS" group-title="music",DM Sat
+http://85.14.32.26:8800/udp/239.100.10.40:5000
+#EXTINF:-1 tvg-id="IDJTV.rs" tvg-country="RS" group-title="music",IDJTV
+https://best-str.umn.cdn.united.cloud/stream?channel=idjhd&p=In$trum300na765ta&player=m3u8&sp=idjtv&stream=hp1400&u=idjtv
+#EXTINF:-1 tvg-id="RadioHitFMTV.rs" tvg-country="RS" group-title="music",Radio Hit FM TV
+https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a02-4f8c8677d565/0.m3u8
+#EXTINF:-1 tvg-id="RadioKarolinaTV.rs" tvg-country="RS" group-title="music",Radio Karolina TV
+https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/0.m3u8
+#EXTINF:-1 tvg-id="TDIRadioTV.rs" tvg-country="RS" group-title="music",TDI Radio TV
+https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/master.m3u8
+#EXTINF:-1 tvg-id="ZICOTV.rs" tvg-country="RS" group-title="music",ZICO TV
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/j3a-n14-2pf-g3s/index.m3u8
+#EXTINF:-1 tvg-id="981PearlFM.sx" tvg-country="SX" group-title="music",98.1 Pearl FM
+https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8
+#EXTINF:-1 tvg-id="FolxSlovenija.si" tvg-country="SI" group-title="music",Folx Slovenija
+https://folxsloapp.b-cdn.net/1080p/index.m3u8
+#EXTINF:-1 tvg-id="GugakTV.kr" tvg-country="KR" group-title="music",GugakTV 국악방송
+https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ActivaTV.es" tvg-country="ES" group-title="music",Activa TV
+https://streamtv.mediasector.es/hls/activatv/index.m3u8
+#EXTINF:-1 tvg-id="LiraTV.es" tvg-country="ES" group-title="music",LiraTV
+https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8
+#EXTINF:-1 tvg-id="Onda15TV.es" tvg-country="ES" group-title="music",Onda 15 TV
+https://cloudvideo.servers10.com:8081/8034/index.m3u8
+#EXTINF:-1 tvg-id="OndaValenciaTV.es" tvg-country="ES" group-title="music",Onda Valencia
+https://cloudvideo.servers10.com:8081/8116/index.m3u8
+#EXTINF:-1 tvg-id="POPWorldTV.es" tvg-country="ES" group-title="music",POP World TV
+https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
+#EXTINF:-1 tvg-id="RTVVida.es" tvg-country="ES" group-title="music",RTV Vida
+https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+#EXTINF:-1 tvg-id="SolMusica.es" tvg-country="ES" group-title="music",Sol Música
+https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
+#EXTINF:-1 tvg-id="SpektraTV.es" tvg-country="ES" group-title="music",SpektraTV
+https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="TVOMIX.es" tvg-country="ES" group-title="music",TVOMIX
+https://cloud.tvomix.com/TVOMIX/index.m3u8
+#EXTINF:-1 tvg-id="XPTV1.es" tvg-country="ES" group-title="music",XPTV1
+https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
+#EXTINF:-1 tvg-id="RADIODISCOuntTV.ch" tvg-country="CH" group-title="music",RADIO DISCOunt TV
+https://585b674743bbb.streamlock.net/9030/9030/playlist.m3u8
+#EXTINF:-1 tvg-id="ScorchTV.tt" tvg-country="TT" group-title="music",Scorch TV
+https://w6oy7x7jlxrg-hls-live.5centscdn.com/MandETV/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="SmashRadioTT.tt" tvg-country="TT" group-title="music",Smash Radio TT
+https://nginx.smashradiott.com/hls/program/master.m3u8
+#EXTINF:-1 tvg-id="MosaiqueFM.tn" tvg-country="TN" group-title="music",Mosaique FM
+https://webcam.mosaiquefm.net/mosatv/_definst_/studio/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="DreamTurk.tr" tvg-country="TR" group-title="music",Dream Türk
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+#EXTINF:-1 tvg-id="KralPopTV.tr" tvg-country="TR" group-title="music",KRAL Pop TV
+https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
+#EXTINF:-1 tvg-id="MedMuzik.tr" tvg-country="TR" group-title="music",Med Muzik
+http://54.36.110.140/live3/live3.m3u8
+#EXTINF:-1 tvg-id="Number1Ask.tr" tvg-country="TR" group-title="music",Number 1 Ask
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
+#EXTINF:-1 tvg-id="Number1Damar.tr" tvg-country="TR" group-title="music",Number 1 Damar
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
+#EXTINF:-1 tvg-id="Number1Dance.tr" tvg-country="TR" group-title="music",Number 1 Dance
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
+#EXTINF:-1 tvg-id="Number1TV.tr" tvg-country="TR" group-title="music",Number 1 TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PowerDance.tr" tvg-country="TR" group-title="music",Power Dance
+https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PowerLove.tr" tvg-country="TR" group-title="music",Power Love
+https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PowerTurkAkustik.tr" tvg-country="TR" group-title="music",Power Türk Akustik
+https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PowerTurkSlow.tr" tvg-country="TR" group-title="music",Power Türk Slow
+https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PowerTurkTaptaze.tr" tvg-country="TR" group-title="music",Power Türk Taptaze
+https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-country="TR" group-title="music",TRT Muzik
+https://stream8.cinerama.uz/1208/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ACWUGTV.ug" tvg-country="UG" group-title="general",ACW UG TV
+https://live.acwugtv.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="HappyRadioTV.ua" tvg-country="UA" group-title="music",Happy Radio TV
+https://tv.mediacp.eu:8081/happyradio/index.m3u8
+#EXTINF:-1 tvg-id="MegogoMusic.ua" tvg-country="UA" group-title="music",Megogo Music
+https://ext.cdn.nashnet.tv/228.0.2.214/index.m3u8
+#EXTINF:-1 tvg-id="Muzvar.ua" tvg-country="UA" group-title="music",Muzvar
+https://cdn15.live-tv.cloud/ua_infinitas_tv/muzvar-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="NASHEMusic.ua" tvg-country="UA" group-title="music",NASHE Music
+https://cdn15.live-tv.cloud/ua_infinitas_tv/nashemus-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="MBCFM.ae" tvg-country="AE" group-title="music",MBC FM
+https://dbbv9umqcd7cs.cloudfront.net/out/v1/db15b75c3cc0400c91961468d6a232ac/index.m3u8
+#EXTINF:-1 tvg-id="PMC.ae" tvg-country="AE" group-title="music",PMC
+https://pmchls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PMCRoyale.ae" tvg-country="AE" group-title="music",PMC Royale
+https://pmcrohls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="AfrobeatTVEntertainment.uk" tvg-country="UK" group-title="music",Afrobeats
+https://stream.ecable.tv/afrobeats/index.m3u8
+#EXTINF:-1 tvg-id="Now70s.uk" tvg-country="UK" group-title="music",NOW 70s
+https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="Now80s.uk" tvg-country="UK" group-title="music",NOW 80s
+https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="Now90s00s.uk" tvg-country="UK" group-title="music",NOW 90s00s
+https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
+#EXTINF:-1 tvg-id="NOWRock.uk" tvg-country="UK" group-title="music",NOW Rock
+https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="Thats70s.uk" tvg-country="UK" group-title="music",That's 70s
+https://jmp2.uk/plu-69ef53e12f4d2b4f9c582e76.m3u8
+#EXTINF:-1 tvg-id="Thats80s.uk" tvg-country="UK" group-title="music",That's 80s
+https://jmp2.uk/plu-69ef54f3c700cf0140272def.m3u8
+#EXTINF:-1 tvg-id="Totalmusic.uk" tvg-country="UK" group-title="music",Totalmusic
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="Totalmusic2000s.uk" tvg-country="UK" group-title="music",Totalmusic 2000s
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="Totalmusic80s.uk" tvg-country="UK" group-title="music",Totalmusic 80s
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="TotalmusicConcerts.uk" tvg-country="UK" group-title="music",Totalmusic Concerts
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="TotalmusicDance.uk" tvg-country="UK" group-title="music",Totalmusic Dance
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="TraceUK.uk" tvg-country="UK" group-title="music",Trace UK
+https://d2l4tng0wskzvn.cloudfront.net/Trace_GB.m3u8
+#EXTINF:-1 tvg-id="30AMusic.us" tvg-country="US" group-title="music",30A Music
+https://30a-tv.com/music.m3u8
+#EXTINF:-1 tvg-id="3ABNPraiseHimMusicNetwork.us" tvg-country="US" group-title="music",3ABN Praise Him Music Network
+https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ACECountryRadio.us" tvg-country="US" group-title="music",ACE Country Radio KPVM-LD
+https://2-fss-1.streamhoster.com/pl_122/206858-4412960-1/playlist.m3u8
+#EXTINF:-1 tvg-id="AvangTV.us" tvg-country="US" group-title="music",Avang TV
+https://hls.avang.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="AXSTV.us" tvg-country="US" group-title="music",AXS TV
+https://tvsen3.aynaott.com/P2fJzfsg/index.m3u8
+#EXTINF:-1 tvg-id="BotflixRadioo.us" tvg-country="US" group-title="music",Botflix Radioo
+https://hls.botflix.tv/radioo/index.m3u8
+#EXTINF:-1 tvg-id="BPXTVRadio.us" tvg-country="US" group-title="music",BPX TV Radio
+https://video1.getstreamhosting.com:1936/8212/8212/playlist.m3u8
+#EXTINF:-1 tvg-id="CaliforniaMusicChannel.us" tvg-country="US" group-title="music",California Music Channel
+https://cmc-cmctv-cineverse.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Classica.us" tvg-country="US" group-title="music",Classica
+https://jmp2.uk/plu-5f779951372da90007fd45e8.m3u8
+#EXTINF:-1 tvg-id="ClubbingTV.us" tvg-country="US" group-title="music",Clubbing TV UK
+https://a-cdn.klowdtv.com/live3/clubbingtv_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="CMCUSACountryMusicChannel.us" tvg-country="US" group-title="music",CMC-USA Country Music Channel
+https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8
+#EXTINF:-1 tvg-id="CMT.us" tvg-country="US" group-title="music",CMT
+http://23.237.104.106:8080/USA_CMT/index.m3u8
+#EXTINF:-1 tvg-id="CMTEqualPlay.us" tvg-country="US" group-title="music",CMT Equal Play
+https://jmp2.uk/plu-5f68f53eb1e5800007390bf8.m3u8
+#EXTINF:-1 tvg-id="ConcertChannel.us" tvg-country="US" group-title="music",Concert Channel
+http://45.167.1.138:8000/play/a04i
+#EXTINF:-1 tvg-id="EBSMusika.us" tvg-country="US" group-title="music",EBS Musika
+https://rpn.bozztv.com/ebstv/ebsmusika/index.m3u8
+#EXTINF:-1 tvg-id="HarmonyGospelMusicTV.us" tvg-country="US" group-title="religious",Harmony Gospel Music TV
+https://tgn.bozztv.com/watc57/watc57-harmony/watc57-harmony/index.m3u8
+#EXTINF:-1 tvg-id="HMIPROMZNEWS.us" tvg-country="US" group-title="music",HMI PROMZ NEWS
+https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8
+#EXTINF:-1 tvg-id="HTV.us" tvg-country="US" group-title="music",HTV Argentina
+http://45.134.141.161:2200/ARG/HTV/index.m3u8
+#EXTINF:-1 tvg-id="LIVExLIVE.us" tvg-country="US" group-title="music",LiveXLive
+https://livestream.liveone.com/lc1/p1.m3u8
+#EXTINF:-1 tvg-id="MBCAmerica.us" tvg-country="US" group-title="culture",MBC America
+https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/624ff8f9-db18-da92-4d42-896fa2ff3eb3/source/index.m3u8
+#EXTINF:-1 tvg-id="MetaleitorTV.us" tvg-country="US" group-title="music",Metaleitor TV
+https://vs20.live.opencaster.com/metaleitortv_423d3342/index.m3u8
+#EXTINF:-1 tvg-id="MiMusicaPopular.us" tvg-country="US" group-title="music",Mi Musica Popular
+http://45.226.205.96:48000/play/a0f8/index.m3u8
+#EXTINF:-1 tvg-id="MiMusicaReggaeton.us" tvg-country="US" group-title="music",Mi Musica Reggaeton
+http://181.78.12.119:16123/play/ch53/index.m3u8
+#EXTINF:-1 tvg-id="MiMusicaRomantica.us" tvg-country="US" group-title="music",Mi Musica Romantica
+http://181.78.12.119:16123/play/ch54/index.m3u8
+#EXTINF:-1 tvg-id="MiMusicaSalsa.us" tvg-country="US" group-title="music",Mi Musica Salsa
+http://38.134.250.110:8000/play/a02m/index.m3u8
+#EXTINF:-1 tvg-id="MTVBiggestPop.us" tvg-country="US" group-title="music",MTV Biggest Pop
+https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8
+#EXTINF:-1 tvg-id="MTVClassic.us" tvg-country="US" group-title="music",Pluto TV MTV Classic
+https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8
+#EXTINF:-1 tvg-id="MTVFlowLatino.us" tvg-country="US" group-title="music",MTV Flow Latino
+https://jmp2.uk/plu-62b218fc511d4b00070ddc0c.m3u8
+#EXTINF:-1 tvg-id="MTVSpankinNew.us" tvg-country="US" group-title="music",MTV Spankin’ New
+https://jmp2.uk/plu-6541010f770cf1000866be98.m3u8
+#EXTINF:-1 tvg-id="NEWKPOP.us" tvg-country="US" group-title="music",NEW KPOP
+https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB17000088V&channel_id=newid_086&tp=samsung_tvplus
+#EXTINF:-1 tvg-id="PlutoTVShowsporStingray.us" tvg-country="US" group-title="music",Pluto TV Shows por Stingray
+https://jmp2.uk/plu-604b91e0692f770007d9f33f.m3u8
+#EXTINF:-1 tvg-id="RJTV.us" tvg-country="US" group-title="music",Radio Javan TV
+https://rjtvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="StingrayGreatestHolidayHits.us" tvg-country="US" group-title="music",Stingray Greatest Holiday Hits
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/54947915-6504-4548-aaef-eabd451f8607/1.m3u8
+#EXTINF:-1 tvg-id="StrykTV.us" tvg-country="US" group-title="music",Stryk TV
+https://fffffff110156200.tvustream.com:8298/ryfy.m3u8
+#EXTINF:-1 tvg-id="TheCountryNetwork.us" tvg-country="US" group-title="music",The Country Network
+https://amg00600-amg00600c1-thecountrynetwork-us-5497.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSMusicNetwork.us" tvg-country="US" group-title="music",TVS Music Network
+https://rpn.bozztv.com/gusa/gusa-tvsmusic/index.m3u8
+#EXTINF:-1 tvg-id="Vevo70s.us" tvg-country="US" group-title="music",Vevo '70s
+https://jmp2.uk/plu-5f32f26bcd8aea00071240e5.m3u8
+#EXTINF:-1 tvg-id="Vevo80s.us" tvg-country="US" group-title="music",Vevo '80s
+https://jmp2.uk/plu-5fd7b8bf927e090007685853.m3u8
+#EXTINF:-1 tvg-id="Vevo90s.us" tvg-country="US" group-title="music",Vevo '90s
+https://jmp2.uk/plu-5fd7bb1f86d94a000796e2c2.m3u8
+#EXTINF:-1 tvg-id="Vevo2K.us" tvg-country="US" group-title="music",Vevo 2K
+https://jmp2.uk/plu-5fd7bca3e0a4ee0007a38e8c.m3u8
+#EXTINF:-1 tvg-id="VevoCountry.us" tvg-country="US" group-title="music",Vevo Country
+https://jmp2.uk/plu-5da0d75e84830900098a1ea0.m3u8
+#EXTINF:-1 tvg-id="VevoHipHop.us" tvg-country="US" group-title="music",Vevo Hip Hop
+https://d3vgs3ro3x6v8a.cloudfront.net/Vevo_Hip_Hop.m3u8
+#EXTINF:-1 tvg-id="VevoLatino.us" tvg-country="US" group-title="music",Vevo Latino
+https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="VevoPop.us" tvg-country="US" group-title="music",Vevo Pop
+https://amg00056-amg00056c9-rakuten-fr-3243.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopfr-rakutenfr/playlist.m3u8
+#EXTINF:-1 tvg-id="VevoRB.us" tvg-country="US" group-title="music",Vevo R&B
+https://jmp2.uk/plu-5da0d83f66c9700009b96d0e.m3u8
+#EXTINF:-1 tvg-id="VevoRetroRock.us" tvg-country="US" group-title="music",Vevo Retro Rock
+https://d2hdqrshyzxswl.cloudfront.net/Vevo_Retro_Rock.m3u8
+#EXTINF:-1 tvg-id="VevoTrueSchoolHipHop.us" tvg-country="US" group-title="music",Vevo True School Hip-Hop
+https://jmp2.uk/plu-61d4c2817a823d00070ba53e.m3u8
+#EXTINF:-1 tvg-id="VH1.us" tvg-country="US" group-title="music",VH1
+http://23.237.104.106:8080/USA_VH1/index.m3u8
+#EXTINF:-1 tvg-id="WOXTV.us" tvg-country="US" group-title="music",WOX TV
+https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
+#EXTINF:-1 tvg-id="WVCULP.us" tvg-country="US" group-title="music",WVCU-LP Concord University Radio The Cure 97.7
+https://video1.getstreamhosting.com:1936/8152/8152/playlist.m3u8
+#EXTINF:-1 tvg-id="XITE90sThrowback.us" tvg-country="US" group-title="music",XITE 90's Throwback
+https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8
+#EXTINF:-1 tvg-id="XITENuevoLatino.us" tvg-country="US" group-title="music",XITE Nuevo Latino
+https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8
+#EXTINF:-1 tvg-id="XITESiempreLatino.us" tvg-country="US" group-title="music",XITE Siempre Latino
+https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8
+#EXTINF:-1 tvg-id="YoMTV.us" tvg-country="US" group-title="music",Yo! MTV
+https://jmp2.uk/plu-654102ed770cf1000866c307.m3u8
+#EXTINF:-1 tvg-id="LaElegidaTelevision.uy" tvg-country="UY" group-title="music",La Elegida Television
+https://stmv.gmpro.top/laelegidatv/laelegidatv/playlist.m3u8
+#EXTINF:-1 tvg-id="BIZMusic.uz" tvg-country="UZ" group-title="music",BIZ Music
+https://stream8.cinerama.uz/1212/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="FTV.uz" tvg-country="UZ" group-title="music",FTV
+https://stream8.cinerama.uz/1018/playlist.m3u8
+#EXTINF:-1 tvg-id="MuzTVUzbekistan.uz" tvg-country="UZ" group-title="music",Muz TV Uzbekistan
+https://stream8.cinerama.uz/1063/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ZorTV.uz" tvg-country="UZ" group-title="entertainment",Zo'r TV
+https://stream8.cinerama.uz/1016/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BTATV.ve" tvg-country="VE" group-title="music",BTA TV
+https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
+#EXTINF:-1 tvg-id="ShowVenTV.ve" tvg-country="VE" group-title="culture",ShowVen TV
+https://cdnbarinas.tvzamora.com/showven/index.m3u8
+#EXTINF:-1 tvg-id="ONMusic.vn" tvg-country="VN" group-title="music",ON Music
+https://freem3u.xyz/api/live/play.m3u8?vid=185
+#EXTINF:-1 tvg-id="VinhLongTV5.vn" tvg-country="VN" group-title="culture",Vinh Long TV 5
+https://freem3u.xyz/api/live/play.m3u8?vid=91

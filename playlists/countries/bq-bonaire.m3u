@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Live99FM.bq" tvg-country="BQ" group-title="music",Live99FM
+https://media.streambrothers.com:1936/8014/8014/playlist.m3u8
+#EXTINF:-1 tvg-id="NosTVBonaire2.bq" tvg-country="BQ" group-title="general",NosTV Bonaire 2
+https://stream2.nostvbonaire.com/hls/0/stream.m3u8

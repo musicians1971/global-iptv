@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Kanal8.mk" tvg-country="MK" group-title="general",Kanal 8
+https://tv.kanal8.mk/live/kanal8.m3u8
+#EXTINF:-1 tvg-id="MNetHD.mk" tvg-country="MK" group-title="general",M-Net HD
+http://ares.mnet.mk/hls/mnet.m3u8
+#EXTINF:-1 tvg-id="MNetKids.mk" tvg-country="MK" group-title="kids",M-Net Kids
+http://ares.mnet.mk/hls/mnet-kids.m3u8
+#EXTINF:-1 tvg-id="MNetSport.mk" tvg-country="MK" group-title="sports",M-Net Sport
+http://ares.mnet.mk/hls/mnet-sport.m3u8
+#EXTINF:-1 tvg-id="Sitel.mk" tvg-country="MK",Sitel
+https://teve.mk/tvstanici/s1/playlist.m3u8
+#EXTINF:-1 tvg-id="TopEstradaTV.mk" tvg-country="MK" group-title="music",TopEstrada TV
+http://live.topestrada.com/live/topestrada/playlist.m3u8
+#EXTINF:-1 tvg-id="TVZdravkin.mk" tvg-country="MK" group-title="general",TV Zdravkin
+http://zdravkin.hugo.mk:1935/live/zdravkin/playlist.m3u8

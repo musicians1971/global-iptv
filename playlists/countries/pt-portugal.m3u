@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ADBTV.pt" tvg-country="PT" group-title="religious",ADB TV
+https://live-tv.waytv.pt/adbtv/adbtv/playlist.m3u8
+#EXTINF:-1 tvg-id="AXNMovies.pt" tvg-country="PT" group-title="movies",AXN Movies
+http://50.7.120.34:8080/AXN_BLACK/index.m3u8
+#EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-country="PT" group-title="news",CNN Portugal
+https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/cnnpt.m3u8
+#EXTINF:-1 tvg-id="FUELTV.pt" tvg-country="PT" group-title="sports",Fuel TV
+https://amg01074-fueltv-fueltvau-samsungau-g09kq.amagi.tv/playlist/amg01074-fueltv-fueltvau-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="KuriakosCine.pt" tvg-country="PT" group-title="movies",Kuriakos Cine
+https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KuriakosKids.pt" tvg-country="PT" group-title="animation",Kuriakos Kids
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KuriakosMusic.pt" tvg-country="PT" group-title="music",Kuriakos Music
+http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KuriakosTV.pt" tvg-country="PT" group-title="religious",Kuriakos TV
+https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ONFM.pt" tvg-country="PT" group-title="music",ON FM
+https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-country="PT" group-title="general",Porto Canal
+https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RFPtv.pt" tvg-country="PT" group-title="music",RFPtv
+https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPMundo.pt" tvg-country="PT" group-title="general",RTP Mundo
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/rtp_internacional/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMana1.pt" tvg-country="PT" group-title="religious",TV Maná 1
+https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMana2.pt" tvg-country="PT" group-title="religious",TV Maná 2
+https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVManaBrasil.pt" tvg-country="PT" group-title="religious",TV Maná Brasil
+https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVManaEnglish.pt" tvg-country="PT" group-title="religious",TV Maná English
+https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVManaEspanhol.pt" tvg-country="PT" group-title="religious",TV Maná Español
+https://w1.manasat.com/tvmana-espanol/smil:tvmana-espanol.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVManaRusskiy.pt" tvg-country="PT" group-title="religious",TV Maná Russkiy
+https://w1.manasat.com/tvmana-leste/smil:tvmana-leste.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVI.pt" tvg-country="PT" group-title="general",TVI
+https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvi.m3u8
+#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-country="PT" group-title="series",TVI Ficção
+https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvificcao.m3u8
+#EXTINF:-1 tvg-id="VPlusTVI.pt" tvg-country="PT" group-title="general",V+ TVI
+https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/vmaistvi.m3u8

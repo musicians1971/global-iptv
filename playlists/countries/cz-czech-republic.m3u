@@ -1,0 +1,161 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AnimalPlanet.cz" tvg-country="CZ",Animal Planet
+http://88.212.15.50/live/test_animal_planet_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="Ballcasterz.cz" tvg-country="CZ",Ballcasterz
+http://antik.streaming.tivio.studio/channels/yXDwkH0CbFfkhU7ZnHlT/index.m3u8
+#EXTINF:-1 tvg-id="BarrandovKrimi.cz" tvg-country="CZ" group-title="general",Barrandov Krimi
+https://dash4.antik.sk/live/test_barrandov_plus_atk_1200/playlist.m3u8
+#EXTINF:-1 tvg-id="Cinemax.cz" tvg-country="CZ" group-title="movies",Cinemax
+http://88.212.15.50/live/test_cinemax_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="Cinemax2.cz" tvg-country="CZ" group-title="movies",Cinemax 2
+http://88.212.15.50/live/test_cinemax2_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNPrimaNews.cz" tvg-country="CZ" group-title="news",CNN Prima News
+http://88.212.15.50/live/test_cnn_pirma_news/playlist.m3u8
+#EXTINF:-1 tvg-id="CTDecko.cz" tvg-country="CZ" group-title="kids",ČT:D/ČT art
+http://88.212.15.50/live/ct_art_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="CTSport.cz" tvg-country="CZ" group-title="sports",ČT Sport
+http://88.212.15.50/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="CT1.cz" tvg-country="CZ" group-title="general",ČT 1
+http://88.212.15.50/live/test_ct1_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="CT2.cz" tvg-country="CZ" group-title="documentary",ČT 2
+http://88.212.15.50/live/test_ct2_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="CT24.cz" tvg-country="CZ" group-title="news",ČT24
+http://88.212.15.50/live/test_ct24_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="CurrentTimeTV.cz" tvg-country="CZ" group-title="news",Настоящее Время
+https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.cz" tvg-country="CZ",Discovery Channel
+http://88.212.15.50/live/test_discovery_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.cz" tvg-country="CZ" group-title="kids",Disney Channel
+http://88.212.15.50/live/test_disney/playlist.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.cz" tvg-country="CZ" group-title="kids",Disney Junior
+http://88.212.15.50/live/test_disney_junior/playlist.m3u8
+#EXTINF:-1 tvg-id="DVTVExtra.cz" tvg-country="CZ",DVTV Extra
+https://antik.streaming.tivio.studio/channels/IxLi19VRasgu94bIaXbH/index.m3u8
+#EXTINF:-1 tvg-id="ElektrikaTV.cz" tvg-country="CZ",Elektrika TV
+https://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Eurosport4KCzechia.cz" tvg-country="CZ" group-title="sports",Eurosport 4K Czechia
+http://88.212.15.50/live/esp_4k_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmPlus.cz" tvg-country="CZ" group-title="movies",Film+
+http://88.212.15.50/live/test_film_plus_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="FoodNetwork.cz" tvg-country="CZ",Food Network
+http://88.212.15.50/live/test_food_network_atk_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="GolfChannel.cz" tvg-country="CZ" group-title="sports",Golf Channel
+https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8
+#EXTINF:-1 tvg-id="HBO.cz" tvg-country="CZ" group-title="movies",HBO
+http://88.212.15.50/live/test_hbo_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="HBO2.cz" tvg-country="CZ" group-title="movies",HBO 2
+http://88.212.15.50/live/test_hbo2_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="HBO3.cz" tvg-country="CZ" group-title="movies",HBO 3
+http://88.212.15.50/live/test_hbo3_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="HGTV.cz" tvg-country="CZ",HGTV
+http://88.212.15.50/live/test_hgtv_hevc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="History.cz" tvg-country="CZ" group-title="documentary",History
+http://88.212.15.50/live/test_history/playlist.m3u8
+#EXTINF:-1 tvg-id="History2.cz" tvg-country="CZ",History2
+http://88.212.15.50/live/test_h2/playlist.m3u8
+#EXTINF:-1 tvg-id="InvestigationDiscovery.cz" tvg-country="CZ",Investigation Discovery
+http://88.212.15.50/live/test_id_hevc_atktv/playlist.m3u8
+#EXTINF:-1 tvg-id="JC1.cz" tvg-country="CZ" group-title="general",JČ1
+https://stream.jc1.cz/hls/jc1.m3u8
+#EXTINF:-1 tvg-id="Jihoceskatelevize.cz" tvg-country="CZ" group-title="general",Jihočeská televize
+https://vysilani.zaktv.cz/broadcast/hls/jtv/index.m3u8
+#EXTINF:-1 tvg-id="KinoBarrandov.cz" tvg-country="CZ" group-title="movies",Kino Barrandov
+http://88.212.15.50/live/test_kino_barrandov_sd_hevc50/playlist.m3u8
+#EXTINF:-1 tvg-id="KVIFFTV.cz" tvg-country="CZ",KVIFF TV
+http://antik.streaming.tivio.studio/channels/HC7JIqyyvQMl0mnqbbnI/index.m3u8
+#EXTINF:-1 tvg-id="MinimaxCEE.cz" tvg-country="CZ" group-title="kids",Minimax (576p)
+http://88.212.15.50/live/test_minimax/playlist.m3u8
+#EXTINF:-1 tvg-id="MnauTV.cz" tvg-country="CZ",Mňau TV
+https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="MusicBoxClassic.cz" tvg-country="CZ" group-title="music",Music Box Classic
+http://88.212.15.50/live/mb_classic/index.m3u8
+#EXTINF:-1 tvg-id="MusicBoxDance.cz" tvg-country="CZ" group-title="music",Music Box Dance
+http://88.212.15.50/live/mb_dance/index.m3u8
+#EXTINF:-1 tvg-id="MusicBoxHits.cz" tvg-country="CZ" group-title="music",Music Box Hits
+http://88.212.15.50/live/mb_hits/index.m3u8
+#EXTINF:-1 tvg-id="MusicBoxSexy.cz" tvg-country="CZ" group-title="music",Music Box Sexy
+http://88.212.15.50/live/mb_sexy/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.cz" tvg-country="CZ" group-title="documentary",National Geographic
+http://88.212.15.50/live/test_ngc/playlist.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.cz" tvg-country="CZ" group-title="documentary",National Geographic Wild
+http://88.212.15.50/live/test_ngw/playlist.m3u8
+#EXTINF:-1 tvg-id="NickJr.cz" tvg-country="CZ" group-title="kids",Nick Jr.
+http://88.212.15.50/live/test_nick_jr/playlist.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.cz" tvg-country="CZ" group-title="kids",Nickelodeon
+http://88.212.15.50/live/test_nickelodeon_hevc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="Nicktoons.cz" tvg-country="CZ" group-title="kids",Nicktoons
+http://88.212.15.50/live/test_nicktoons/playlist.m3u8
+#EXTINF:-1 tvg-id="Ocko.cz" tvg-country="CZ" group-title="music",Óčko
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OckoBlack.cz" tvg-country="CZ" group-title="music",Ocko Black
+https://dash2.antik.sk/live/test_ocko_black/playlist.m3u8
+#EXTINF:-1 tvg-id="OckoExpres.cz" tvg-country="CZ" group-title="music",Óčko Expres
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
+#EXTINF:-1 tvg-id="OckoGold.cz" tvg-country="CZ" group-title="music",Óčko Gold
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
+#EXTINF:-1 tvg-id="OckoStar.cz" tvg-country="CZ" group-title="music",Ocko Star
+https://dash4.antik.sk/live/test_ocko_star/playlist.m3u8
+#EXTINF:-1 tvg-id="PlzenTV.cz" tvg-country="CZ" group-title="general",Plzeň TV
+https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8
+#EXTINF:-1 tvg-id="PolarTV.cz" tvg-country="CZ" group-title="general",Polar TV
+https://stream.polar.cz/polar/polarlive-1/playlist.m3u8
+#EXTINF:-1 tvg-id="Prima.cz" tvg-country="CZ",Prima
+http://88.212.15.50/live/prima_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="PrimaCool.cz" tvg-country="CZ",Prima Cool
+http://88.212.15.50/live/prima_cool_cz_avc/index.m3u8
+#EXTINF:-1 tvg-id="PrimaKrimi.cz" tvg-country="CZ",Prima Krimi
+http://88.212.15.50/live/test_prima_krimi_cz/playlist.m3u8
+#EXTINF:-1 tvg-id="PrimaLove.cz" tvg-country="CZ",Prima Love
+http://88.212.15.50/live/prima_love_cz_avc/index.m3u8
+#EXTINF:-1 tvg-id="PrimaMax.cz" tvg-country="CZ",Prima Max
+http://88.212.15.50/live/test_prima_max_cz/playlist.m3u8
+#EXTINF:-1 tvg-id="PrimaShow.cz" tvg-country="CZ",Prima Show
+http://88.212.15.50/live/test_prima_show_hevc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="PrimaSportCzechia.cz" tvg-country="CZ" group-title="sports",Prima Sport Czechia
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/prima_sport/live_mq?offsetSeconds=0
+#EXTINF:-1 tvg-id="PrimaStar.cz" tvg-country="CZ",Prima Star
+http://88.212.15.50/live/test_prima_star_hevc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="PrimaZoom.cz" tvg-country="CZ",Prima Zoom
+http://88.212.15.50/live/prima_zoom_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="RetroMusicTV.cz" tvg-country="CZ" group-title="music",Retro Music Television
+https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-id="SlagerMuzika.cz" tvg-country="CZ" group-title="music",Slager Muzika
+https://stream-23.mazana.tv/slagrmuzika.m3u8s
+#EXTINF:-1 tvg-id="SlagerOriginal.cz" tvg-country="CZ" group-title="music",Slager Original
+https://stream-13.mazana.tv/slagroriginal.m3u8s
+#EXTINF:-1 tvg-id="Spektrum.cz" tvg-country="CZ" group-title="documentary",Spektrum
+http://88.212.15.50/live/test_spektrum/playlist.m3u8
+#EXTINF:-1 tvg-id="SpektrumHome.cz" tvg-country="CZ" group-title="entertainment",Spektrum Home
+http://88.212.15.50/live/test_home_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="Sport1.cz" tvg-country="CZ" group-title="sports",Sport1 HD
+http://88.212.7.14/live/sport1_cz_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="Sport2.cz" tvg-country="CZ" group-title="sports",Sport2 HD
+http://88.212.7.14/live/sport2_cz_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="TelevizeSeznam.cz" tvg-country="CZ",Televize Seznam
+http://88.212.15.50/live/test_seznam_hevc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="TLC.cz" tvg-country="CZ",TLC
+http://88.212.15.50/live/test_tlc_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="TravelChannel.cz" tvg-country="CZ",Travel Channel
+http://88.212.15.50/live/test_travel_channel_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBarrandov.cz" tvg-country="CZ",TV Barrandov
+http://88.212.15.50/live/test_barrandov/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBrno1.cz" tvg-country="CZ" group-title="general",TV Brno 1
+https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPaprika.cz" tvg-country="CZ" group-title="lifestyle",TV Paprika
+http://88.212.15.50/live/test_parpika_tv_sd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="UpNetwork.cz" tvg-country="CZ",Up Network
+https://dash.antik.sk/live/test_upnetwork/playlist.m3u8
+#EXTINF:-1 tvg-id="UTV.cz" tvg-country="CZ",ÚTV
+https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8
+#EXTINF:-1 tvg-id="ViasatExplore.cz" tvg-country="CZ" group-title="documentary",Viasat Explore
+http://88.212.15.50/live/test_viasat_explore_atk_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ViasatHistory.cz" tvg-country="CZ" group-title="documentary",Viasat History
+http://88.212.15.50/live/test_viasat_history_atk_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ViasatNature.cz" tvg-country="CZ" group-title="documentary",Viasat Nature
+http://88.212.15.50/live/test_viasat_nature_atk_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="VychodoceskaTV.cz" tvg-country="CZ",Východočeská TV
+https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
+#EXTINF:-1 tvg-id="WarnerTV.cz" tvg-country="CZ" group-title="movies",Warner TV
+http://88.212.15.50/live/warner_tv/index.m3u8
+#EXTINF:-1 tvg-id="YachtingTV.cz" tvg-country="CZ" group-title="lifestyle",Yachting TV
+https://streams2.sofast.tv/vglive-sk-461164/index.m3u8

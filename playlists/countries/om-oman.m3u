@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AlistiqamaTV.om" tvg-country="OM" group-title="religious",Alistiqama TV
+https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
+#EXTINF:-1 tvg-id="OmanTV.om" tvg-country="OM" group-title="general",Oman TV
+https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="OmanTVCultural.om" tvg-country="OM" group-title="culture",Oman Althakafia
+https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="OmanTVMubashir.om" tvg-country="OM" group-title="news",Oman Mubashir
+https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8

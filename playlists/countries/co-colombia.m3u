@@ -1,0 +1,183 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ANCTelevision.co" tvg-country="CO" group-title="entertainment",ANC Television
+https://live.amelbatv.co:81/anctvlive/index.m3u8
+#EXTINF:-1 tvg-id="AupurTelevision.co" tvg-country="CO" group-title="general",Aupur Television
+https://canal.aupurtv.co/live/stream/index.m3u8
+#EXTINF:-1 tvg-id="BendicionChannel.co" tvg-country="CO" group-title="religious",Bendicion Channel
+https://s.emisoras.tv:8081/bendicionchannel/index.m3u8
+#EXTINF:-1 tvg-id="BethelColombia.co" tvg-country="CO" group-title="religious",Bethel Colombia
+http://138.121.15.230:9002/BETHEL/index.m3u8
+#EXTINF:-1 tvg-id="BluRadio.co" tvg-country="CO" group-title="general",Blu Radio
+https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8
+#EXTINF:-1 tvg-id="BuenisimaRadioTV.co" tvg-country="CO" group-title="music",Buenisima Radio TV
+https://canal.mediaserver.com.co/live/buenisimatv.m3u8
+#EXTINF:-1 tvg-id="Cablenoticias.co" tvg-country="CO" group-title="news",Cablenoticias
+http://181.78.211.244:8005/play/a09u/index.m3u8
+#EXTINF:-1 tvg-id="CaliTV.co" tvg-country="CO" group-title="general",CaliTV
+https://tdcdigital-streams.github.io/iptv/CaliTV.m3u8
+#EXTINF:-1 tvg-id="Canal1.co" tvg-country="CO" group-title="general",Canal 1
+http://190.109.2.92:8000/play/a010/index.m3u8
+#EXTINF:-1 tvg-id="Canal12Valledupar.co" tvg-country="CO" group-title="general",Canal 12 Valledupar
+http://181.78.8.199:8000/play/a0e4/index.m3u8
+#EXTINF:-1 tvg-id="Canal8Sincelejo.co" tvg-country="CO" group-title="general",Canal 8 Sincelejo
+http://181.78.21.38:8000/play/a0df/index.m3u8
+#EXTINF:-1 tvg-id="Canal8TVPlus.co" tvg-country="CO" group-title="general",Canal 8 TV+
+https://movil.ejeserver.com/live/canal8tv.m3u8
+#EXTINF:-1 tvg-id="Canal9Cosespu.co" tvg-country="CO" group-title="general",Canal 9 Cosespu
+https://video2.lhdserver.es/canal9cosespu/live.m3u8
+#EXTINF:-1 tvg-id="CanalCapital.co" tvg-country="CO" group-title="general",Canal Capital
+http://138.121.15.230:9002/CANAL-CAPITAL/index.m3u8
+#EXTINF:-1 tvg-id="CanalCHD.co" tvg-country="CO" group-title="general",Canal CHD
+https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8
+#EXTINF:-1 tvg-id="CanalCineDios.co" tvg-country="CO" group-title="movies",Canal Cine Dios
+https://canal.mediaserver.com.co/live/cinedios.m3u8
+#EXTINF:-1 tvg-id="CanalCongreso.co" tvg-country="CO" group-title="legislative",Canal Congreso
+http://138.121.15.230:9002/CANAL-CONGRESO/index.m3u8
+#EXTINF:-1 tvg-id="CanalDos.co" tvg-country="CO" group-title="general",Canal Dos
+https://stream2.micanal2.tv/hls/canal2.m3u8
+#EXTINF:-1 tvg-id="CanalInstitucional.co" tvg-country="CO" group-title="general",Canal Institucional
+http://190.61.47.54:8000/play/a00v/index.m3u8
+#EXTINF:-1 tvg-id="CanalMasTelevision.co" tvg-country="CO" group-title="general",Canal Más Televisión
+https://movil.ejeserver.com/live/teledoradahd.m3u8
+#EXTINF:-1 tvg-id="CanalOracionConSon.co" tvg-country="CO" group-title="religious",Canal Oración Con Son
+https://canal.mediaserver.com.co/live/oracionconson.m3u8
+#EXTINF:-1 tvg-id="CanalRCN.co" tvg-country="CO" group-title="general",Canal RCN
+http://38.134.250.110:8000/play/a00i/index.m3u8
+#EXTINF:-1 tvg-id="CanalTelesantiago.co" tvg-country="CO" group-title="religious",Canal Telesantiago
+https://stream.canaltelesantiago.com:8000/play/TELESANTIAGO/index.m3u8
+#EXTINF:-1 tvg-id="CanalTRO.co" tvg-country="CO" group-title="general",Canal TRO
+http://181.78.82.130:8000/play/a0o1/index.m3u8
+#EXTINF:-1 tvg-id="CanalWomtv.co" tvg-country="CO" group-title="entertainment",Canal Womtv
+https://live.amelbatv.co:81/womtvlive/index.m3u8
+#EXTINF:-1 tvg-id="CanicaTV.co" tvg-country="CO" group-title="entertainment",Canica TV
+https://stmv4.voxtvhd.com.br/canicatv/canicatv/playlist.m3u8
+#EXTINF:-1 tvg-id="CaracolHD2.co" tvg-country="CO" group-title="general",Caracol HD2
+http://181.78.14.26:4000/play/a00d/index.m3u8
+#EXTINF:-1 tvg-id="CaracolInternacional.co" tvg-country="CO" group-title="general",Caracol Internacional
+http://45.5.117.57:8200/play/a0e9/index.m3u8
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-country="CO" group-title="general",Caracol TV
+http://38.211.118.56:50002/play/a0gq/index.m3u8
+#EXTINF:-1 tvg-id="CitytvBogota.co" tvg-country="CO" group-title="general",Citytv Bogota
+http://138.121.15.230:9002/CITY-TV/index.m3u8
+#EXTINF:-1 tvg-id="ClaroMusicaTV.co" tvg-country="CO" group-title="music",Claro Musica TV
+http://45.171.64.30:6060/play/a010
+#EXTINF:-1 tvg-id="CMBTelevision.co" tvg-country="CO" group-title="religious",CMB Television
+https://cdn1.cmbcolombia.tv/bethesda/video.m3u8
+#EXTINF:-1 tvg-id="CNCBugavision.co" tvg-country="CO" group-title="general",CNC Bugavisión
+https://movil.ejeserver.com/live/cncbuga.m3u8
+#EXTINF:-1 tvg-id="CNCPereira.co" tvg-country="CO" group-title="general",CNC Pereira
+https://cloudvideo.servers10.com:8081/latinchaneltv/index.m3u8
+#EXTINF:-1 tvg-id="CNCSantanderdeQuilichao.co" tvg-country="CO" group-title="general",CNC Santander de Quilichao
+https://movil.ejeserver.com/live/cncsantander.m3u8
+#EXTINF:-1 tvg-id="CNCTulua.co" tvg-country="CO" group-title="general",CNC Tulua
+https://live.amelbatv.co:81/cnctulualive/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="Cristovision.co" tvg-country="CO" group-title="religious",Cristovision
+https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u8
+#EXTINF:-1 tvg-id="Eduvision.co" tvg-country="CO" group-title="education",Eduvision
+https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8
+#EXTINF:-1 tvg-id="ElMundodelCampo.co" tvg-country="CO" group-title="outdoor",El Mundo del Campo
+http://181.78.21.38:8000/play/a040/index.m3u8
+#EXTINF:-1 tvg-id="EnlaceTelevision.co" tvg-country="CO" group-title="general",Enlace Television
+http://181.78.12.119:16123/play/ch33/index.m3u8
+#EXTINF:-1 tvg-id="FiestaTV.co" tvg-country="CO" group-title="music",Fiesta TV
+https://panelvideo1.intermediahost.co:3286/live/ruzfpkqklive.m3u8
+#EXTINF:-1 tvg-id="FrecuenciaFTV.co" tvg-country="CO" group-title="religious",Frecuencia F TV
+https://tv.frecuenciaf.com/live/envivo_1080p4000kbs/index.m3u8
+#EXTINF:-1 tvg-id="HogarTV.co" tvg-country="CO" group-title="lifestyle",Hogar TV
+http://181.78.211.244:8005/play/a06w/index.m3u8
+#EXTINF:-1 tvg-id="HuilaTV.co" tvg-country="CO" group-title="general",Huila TV
+https://server.asilivehd.com:3333/live/huilatvlive.m3u8
+#EXTINF:-1 tvg-id="KaluTV.co" tvg-country="CO" group-title="general",Kalu TV
+https://tv.kaludecolombia.com/memfs/d71c0104-4752-4690-bdbf-19aa849da6c4.m3u8
+#EXTINF:-1 tvg-id="LaKalle.co" tvg-country="CO" group-title="music",La Kalle
+https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
+#EXTINF:-1 tvg-id="LaMoradaRadioTV.co" tvg-country="CO" group-title="music",La Morada Radio TV
+https://movil.ejeserver.com/live/lamoradatv.m3u8
+#EXTINF:-1 tvg-id="MarsellaTV.co" tvg-country="CO" group-title="general",Marsella TV
+https://stmv2.voxtvhd.com.br/marsella/marsella/playlist.m3u8
+#EXTINF:-1 tvg-id="MasMusicaFM.co" tvg-country="CO" group-title="music",MasMusica FM
+https://movil.ejeserver.com/live/masmusica.m3u8
+#EXTINF:-1 tvg-id="MCITelevision.co" tvg-country="CO" group-title="movies",MCI Televisión
+https://video.ejeserver.com/live/mcitelevision.m3u8
+#EXTINF:-1 tvg-id="Momento24.co" tvg-country="CO" group-title="news",Momento24
+https://backupmaxmedia.hvmultiplay.com/hls/stream2/momento24.m3u8
+#EXTINF:-1 tvg-id="NoticiasRCN.co" tvg-country="CO" group-title="news",RCN Noticias
+https://jmp2.uk/plu-67d9b0ebc290c9499046e88f.m3u8
+#EXTINF:-1 tvg-id="Noticiero90Minutos.co" tvg-country="CO" group-title="news",Noticiero 90 Minutos
+https://play.cdn.enetres.net/621B146D29C541AFB1507809F038F471021/021/playlist.m3u8
+#EXTINF:-1 tvg-id="NSTV.co" tvg-country="CO" group-title="general",NSTV
+https://sistemastr.tropicalmoonmedia.com/live/2C7CA6CECC9B8F8C3A07315FDA110936/21.m3u8
+#EXTINF:-1 tvg-id="NTN24.co" tvg-country="CO" group-title="news",NTN24
+https://stream1.bitred.cl/ntn24/index.m3u8
+#EXTINF:-1 tvg-id="NuestraTeleInternacional.co" tvg-country="CO" group-title="general",Nuestra Tele Internacional
+http://45.173.231.22:8000/play/a0cr/index.m3u8
+#EXTINF:-1 tvg-id="PancheTelevision.co" tvg-country="CO" group-title="general",Panche Television
+https://vs20.live.opencaster.com/panche_3c70d368/index.m3u8
+#EXTINF:-1 tvg-id="ParrandaVallenata.co" tvg-country="CO" group-title="music",Parranda Vallenata
+https://backupmaxmedia.hvmultiplay.com/hls/stream3/parrandavallenata.m3u8
+#EXTINF:-1 tvg-id="RadiolaTV.co" tvg-country="CO" group-title="music",Radiola TV
+http://158.172.217.18:8000/play/a01k/index.m3u8
+#EXTINF:-1 tvg-id="RanchenatoTV.co" tvg-country="CO" group-title="music",Ranchenato TV
+http://181.78.12.119:16123/play/ch15/index.m3u8
+#EXTINF:-1 tvg-id="RCNHD2.co" tvg-country="CO" group-title="general",RCN HD2
+http://181.78.14.26:4000/play/a07m/index.m3u8
+#EXTINF:-1 tvg-id="RCNMas.co" tvg-country="CO" group-title="entertainment",RCN Mas
+http://45.224.96.220:18000/play/a098/index.m3u8
+#EXTINF:-1 tvg-id="RCNNovelas.co" tvg-country="CO" group-title="entertainment",RCN Novelas
+https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8
+#EXTINF:-1 tvg-id="RedPlus.co" tvg-country="CO" group-title="general",Red+
+https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
+#EXTINF:-1 tvg-id="Reyali.co" tvg-country="CO" group-title="music",Reyali
+https://eu1.servers10.com:8081/8090/index.m3u8
+#EXTINF:-1 tvg-id="RumbaTV.co" tvg-country="CO" group-title="music",Rumba TV
+http://38.134.250.110:8000/play/a01p/index.m3u8
+#EXTINF:-1 tvg-id="SalsaGordaTelevision.co" tvg-country="CO" group-title="music",Salsa Gorda Television
+https://stmv1.voxtvhd.com.br/salsagorda/salsagorda/playlist.m3u8
+#EXTINF:-1 tvg-id="SantelTV.co" tvg-country="CO" group-title="religious",Santel TV
+https://tv3.bitstreaming.net:3540/live/santeltvlive.m3u8
+#EXTINF:-1 tvg-id="SenalColombia.co" tvg-country="CO" group-title="general",Senal Colombia
+http://138.121.15.230:9002/SENAL-COLOMBIA/index.m3u8
+#EXTINF:-1 tvg-id="SoonaTV.co" tvg-country="CO" group-title="general",Soona TV
+https://vs20.live.opencaster.com/soonatv_a1a564a9/index.m3u8
+#EXTINF:-1 tvg-id="StarChannel.co" tvg-country="CO" group-title="movies",Star Channel
+http://190.61.47.54:8000/play/a035/index.m3u8
+#EXTINF:-1 tvg-id="StreamForce360.co" tvg-country="CO" group-title="general",StreamForce 360
+https://sistemastr.tropicalmoonmedia.com/live/9E495C5FDA503D7F71037F2D2C5D3FA3/16.m3u8
+#EXTINF:-1 tvg-id="SupermusicaTV.co" tvg-country="CO" group-title="music",Supermúsica TV
+https://backupmaxmedia.hvmultiplay.com/hls/stream4/supermusica.m3u8
+#EXTINF:-1 tvg-id="SuramTV.co" tvg-country="CO" group-title="general",Suram TV
+https://us.streaminghd.cl/suramtv/index.m3u8
+#EXTINF:-1 tvg-id="TeleMocoaCanal10.co" tvg-country="CO" group-title="general",Tele Mocoa Canal 10
+https://live.amelbatv.co:81/telemocoalive/index.m3u8
+#EXTINF:-1 tvg-id="Teleantioquia.co" tvg-country="CO" group-title="general",Teleantioquia
+http://138.121.15.230:9002/TELEANTIOQUIA/index.m3u8
+#EXTINF:-1 tvg-id="Telecafe.co" tvg-country="CO" group-title="general",Telecafe
+http://138.121.15.230:9002/TELECAFE/index.m3u8
+#EXTINF:-1 tvg-id="Telecaribe.co" tvg-country="CO" group-title="general",Telecaribe
+http://138.121.15.230:9002/TELECARIBE/index.m3u8
+#EXTINF:-1 tvg-id="Teleislas.co" tvg-country="CO" group-title="general",Teleislas
+http://190.61.47.54:8000/play/a015/index.m3u8
+#EXTINF:-1 tvg-id="Telemedellin.co" tvg-country="CO" group-title="general",Telemedellin
+http://181.78.82.130:8000/play/a0ru/index.m3u8
+#EXTINF:-1 tvg-id="TeleNostalgia.co" tvg-country="CO" group-title="classic",TeleNostalgia
+http://38.134.250.110:8000/play/a01q/index.m3u8
+#EXTINF:-1 tvg-id="Telepacifico.co" tvg-country="CO" group-title="general",Telepacifico
+http://138.121.15.230:9002/TELEPACIFICO/index.m3u8
+#EXTINF:-1 tvg-id="Trece.co" tvg-country="CO" group-title="general",Trece
+http://190.60.46.228:8888/play/a030/index.m3u8
+#EXTINF:-1 tvg-id="TuUniversoTV.co" tvg-country="CO" group-title="religious",Tu Universo TV
+https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
+#EXTINF:-1 tvg-id="TVGolfoUraba.co" tvg-country="CO" group-title="entertainment",TV Golfo Uraba
+https://stmv7.voxtvhd.com.br/golfo/golfo/playlist.m3u8
+#EXTINF:-1 tvg-id="TV3LaPlata.co" tvg-country="CO" group-title="general",TV3 La Plata
+https://live.amelbatv.co:81/teleopita/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="TVAgro.co" tvg-country="CO" group-title="outdoor",TVAgro
+http://190.61.47.54:8000/play/a01k/index.m3u8
+#EXTINF:-1 tvg-id="UMCTV.co" tvg-country="CO" group-title="outdoor",UMC TV
+https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8
+#EXTINF:-1 tvg-id="WinSports.co" tvg-country="CO" group-title="sports",Win Sports
+http://138.121.15.230:9002/WIN-SPORT/index.m3u8
+#EXTINF:-1 tvg-id="WinPlusFutbol.co" tvg-country="CO" group-title="sports",Win+ Futbol
+http://181.78.12.119:16123/play/ch19/index.m3u8
+#EXTINF:-1 tvg-id="Zoom.co" tvg-country="CO" group-title="education",Zoom
+http://138.121.15.230:9002/ZOOM/index.m3u8
