@@ -11,6 +11,8 @@ https://kinowalk.hopto.org/skladfilm_live
 https://kinowalk.hopto.org/cmexye4ku_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk",Мир Ехо
 https://kinowalk.hopto.org/mirdobro_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk",Мультфильмы VHS
+https://kinowalk.hopto.org/myvhs_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk",Мы из 90-х
 https://kinowalk.hopto.org/miiz90x_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk",Назад в СССР
@@ -27,12 +29,12 @@ https://kinowalk.hopto.org/ddator_live
 https://kinowalk.hopto.org/filmscope_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk",Х-TV
 https://kinowalk.hopto.org/durkalive_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk",Эквилибриум
+https://kinowalk.hopto.org/equilibrium_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk",Эра VHS
 https://kinowalk.hopto.org/vhs90s_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk",1st_witch
 https://kinowalk.hopto.org/witch_live
-#EXTINF:-1 group-title="Кинозалы Kinowalk",Alex.Films
-https://kinowalk.hopto.org/alex.films_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk",Baragozz
 https://kinowalk.hopto.org/baragozz_tv_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk",Blockbusters Time
@@ -65,6 +67,8 @@ https://kinowalk.hopto.org/kinowalk_live
 https://kinowalk.hopto.org/kycman_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk",LampoTV
 https://kinowalk.hopto.org/lampotv_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk",MAX
+https://kinowalk.hopto.org/maximum_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk",MovieToper
 https://kinowalk.hopto.org/movietoper_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk",NEZABUDKA
@@ -93,8 +97,6 @@ https://kinowalk.hopto.org/topmoment_live
 https://kinowalk.hopto.org/topmomentlive_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk",VHS Forever
 https://kinowalk.hopto.org/vhs-forever_live
-#EXTINF:-1 group-title="Кинозалы Kinowalk",Video Channel
-https://kinowalk.hopto.org/video_channel_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk",Video_Prokat
 https://kinowalk.hopto.org/video_prokat_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk",VideoArsenal

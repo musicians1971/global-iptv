@@ -17,6 +17,8 @@ http://online.hiphop.by:9000/8000
 http://radio.gubernia.com:8000/radio4
 #EXTINF:-1 group-title="Радио",Monte Carlo (Монте Карло)
 http://montecarlo.hostingradio.ru/montecarlo96.aacp
+#EXTINF:-1 group-title="Радио",Revolution (Санкт-Петербург)
+http://revolutionradio.ru:8000/live.mp3
 #EXTINF:-1 group-title="Радио",Sfera Music (Украина)
 http://radio.radioshansonplus.com:8000/radio
 #EXTINF:-1 group-title="Радио",Авторадио
@@ -245,8 +247,6 @@ http://listen6.myradio24.com:9000/50904
 http://radio.mediacdn.ru/fm_na_donu.mp3
 #EXTINF:-1 group-title="Радио",Хит
 http://hitfm.hostingradio.ru/hitfm128.mp3
-#EXTINF:-1 group-title="Радио",Хорошего Настроения (Хабаровск)
-http://188.93.129.110:8000/fm1018
 #EXTINF:-1 group-title="Радио",Центр
 https://centrfm.dc.beltelecom.by/centrfm/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Радио",Чипльдук

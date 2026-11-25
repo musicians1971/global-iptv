@@ -7,8 +7,6 @@ https://r.eu.cdn-redge.media/livehls/oeu/mt/live/chasse_et_peche/live.livx/playl
 http://213.91.179.28:8000/play/a05y
 #EXTINF:-1 tvg-id="Eurosport2.fr" tvg-country="FR" group-title="Спорт",Eurosport 2
 http://213.91.179.28:8000/play/a04b
-#EXTINF:-1 tvg-id="Eurosport4K.fr" tvg-country="FR" group-title="Спорт",Eurosport 4K
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5449.m3u8
 #EXTINF:-1 tvg-id="MyZenTV.fr" tvg-country="FR" group-title="Отдых",MyZen TV
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/myzen_tv/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceSportStars.fr" tvg-country="FR" group-title="Спорт",Trace Sport Stars

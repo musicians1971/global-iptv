@@ -56,7 +56,7 @@ http://176.118.197.101/Illuzion+/index.m3u8
 #EXTINF:-1 tvg-id="IndiyskoyeKino.ru" tvg-country="RU" group-title="Кино",Индийское кино
 https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Kino1.ru" tvg-country="RU" group-title="Кино",Кино 1
-https://autopilot.catcast.tv/content/38617/index.m3u8
+http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 tvg-id="KinoTV.ru" tvg-country="RU" group-title="Кино",Кино ТВ
 http://176.118.197.101/KinoTvHD/playlist.m3u8
 #EXTINF:-1 tvg-id="KinoTV.ru" tvg-country="RU" group-title="Кино",Кино ТВ
@@ -114,7 +114,7 @@ http://176.118.197.101/Bollywood_HD/index.m3u8
 #EXTINF:-1 tvg-id="Cinema.ru" tvg-country="RU" group-title="Кино",Cinema
 https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="StarCinema.ru" tvg-country="RU" group-title="Кино",Star Cinema
-https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
+http://s7.merlive.am/starsinema/index.m3u8
 #EXTINF:-1 tvg-id="StarFamily.ru" tvg-country="RU" group-title="Кино",Star Family
 https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="STARTAir.ru" tvg-country="RU" group-title="Кино",START Air

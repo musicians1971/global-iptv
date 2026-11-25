@@ -15,9 +15,9 @@ http://45.11.139.43:8555/8kanal/index.m3u8
 http://live-11cinema.cdnvideo.net/11cinemanet/11cinemanet/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel8Novosibirsk.ru" tvg-country="RU" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0" group-title="Общие",8 канал Новосибирск
 https://live-8knsk.cdnvideo.ru/8knsk/stream1/playlist.m3u8
-#EXTINF:-1 tvg-id="BRIDGEVostok.ru@SD" tvg-country="RU" group-title="Музыка",BRIDGE Восток
+#EXTINF:-1 tvg-id="BRIDGEVostok.ru" tvg-country="RU" group-title="Музыка",BRIDGE Восток
 https://bridgemedia-hls.cdnvideo.ru/hls/live/6aff1b6881d78600017e02c5/720p.m3u8
-#EXTINF:-1 tvg-id="BRIDGESymphony.ru@SD" tvg-country="RU" group-title="Музыка",BRIDGE Симфония
+#EXTINF:-1 tvg-id="BRIDGESymphony.ru" tvg-country="RU" group-title="Музыка",BRIDGE Симфония
 https://bridgemedia-hls.cdnvideo.ru/hls/live/6aff0d2a81d78600017e02c2/720p.m3u8
 #EXTINF:-1 tvg-id="Domashniy.ru" tvg-country="RU" group-title="Образ жизни",Dомашний
 http://31.148.5.241/kanal_14/index.m3u8
@@ -61,7 +61,7 @@ http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 http://bst.bratsk.ru/hls/bst2/index.m3u8
 #EXTINF:-1 tvg-id="Vgostyakhuskazki.ru" tvg-country="RU" group-title="Детские",В гостях у сказки
 https://stream8.cinerama.uz/1270/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Verba.ru@SD" tvg-country="RU" group-title="Музыка",Верба
+#EXTINF:-1 tvg-id="Verba.ru" tvg-country="RU" group-title="Музыка",Верба
 https://bridgemedia-hls.cdnvideo.ru/hls/live/6aff0d0f81d78600017e02c1/720p.m3u8
 #EXTINF:-1 tvg-id="VestiFM.ru" tvg-country="RU" group-title="Новости",Вести FM
 https://stream.smotrim.ru/hls2/vesti_fm/playlist_4.m3u8
@@ -75,8 +75,6 @@ http://178.134.1.158:8081/vkus/index.m3u8
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Volga.ru" tvg-country="RU",Волга
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
-#EXTINF:-1 tvg-id="Volleyball.ru" tvg-country="RU" group-title="Спорт",Волейбол
-https://fonbet.mediacdn.ru/live/volleyball/playlist.m3u8
 #EXTINF:-1 tvg-id="Vostok24.ru" tvg-country="RU" http-user-agent="WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer" group-title="Общие",Восток 24
 http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
 #EXTINF:-1 tvg-id="Vremya.ru" tvg-country="RU" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",Время
@@ -150,7 +148,7 @@ http://185.37.150.46/Karusel/index.m3u8
 #EXTINF:-1 tvg-id="KVNTV.ru" tvg-country="RU" group-title="Комедии",КВН ТВ
 https://fs.uplink.kz/kvn_tv/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Kino1.ru" tvg-country="RU" group-title="Кино",Кино 1
-https://autopilot.catcast.tv/content/38617/index.m3u8
+http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 tvg-id="KinoTV.ru" tvg-country="RU" group-title="Кино",Кино ТВ
 http://176.118.197.101/KinoTvHD/playlist.m3u8
 #EXTINF:-1 tvg-id="KinoTV.ru" tvg-country="RU" group-title="Кино",Кино ТВ
@@ -170,7 +168,7 @@ https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Komedia.ru" tvg-country="RU" group-title="Комедии",Комедия
 http://176.118.197.101/Komediya/index.m3u8
 #EXTINF:-1 tvg-id="KongressTV.ru" tvg-country="RU" group-title="Общие",Конгресс ТВ
-https://live-3.otcnet.ru/congresstv/index.m3u8
+https://stitch.teletarget.ru/api/v1/hls/504/158/index.m3u8
 #EXTINF:-1 tvg-id="RedLine.ru" tvg-country="RU",Красная линия
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
 #EXTINF:-1 tvg-id="KrikTV.ru" tvg-country="RU" group-title="Новости",Крик-ТВ
@@ -199,7 +197,7 @@ https://stream8.cinerama.uz/1244/tracks-v1a1/mono.m3u8
 http://185.23.80.23:8080/MATCH_PREMIER/index.m3u8
 #EXTINF:-1 tvg-id="MatchUltra.ru" tvg-country="RU" group-title="Спорт",Матч! Ультра
 http://31.148.5.241/kanal_3/index.m3u8
-#EXTINF:-1 tvg-id="MiniDisco.ru@SD" tvg-country="RU" group-title="Детские",Мини Диско
+#EXTINF:-1 tvg-id="MiniDisco.ru" tvg-country="RU" group-title="Детские",Мини Диско
 https://bridgemedia-hls.cdnvideo.ru/hls/live/6aff1c3190affe00013a80ac/720p.m3u8
 #EXTINF:-1 tvg-id="Ministerstvoidey.ru" tvg-country="RU" group-title="Культура",Министерство идей
 https://live-minidey.cdnvideo.ru/minidey-srt/minidey/playlist.m3u8
@@ -228,7 +226,7 @@ https://stream8.cinerama.uz/1200/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MuzTV.ru" tvg-country="RU" http-referrer="https://televizor24tochka.ru/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Музыка",Муз-ТВ
 https://streaming.televizor-24-tochka.ru/live/20.m3u8
 #EXTINF:-1 tvg-id="Muzyka1.ru" tvg-country="RU" group-title="Музыка",Музыка 1
-https://kino-1.catcast.tv/content/37742/index.m3u8
+https://kino-1.catcast.tv/content/37745/index.m3u8
 #EXTINF:-1 tvg-id="MuzykaKino.ru@International" tvg-country="RU" group-title="Музыка",Музыка Кино
 https://kino-1.catcast.tv/content/37739/index.m3u8
 #EXTINF:-1 tvg-id="1HDMusicTelevision.ru" tvg-country="RU" group-title="Музыка",Музыка Первого
@@ -251,6 +249,10 @@ http://46.53.200.153:7777/play/SRT_Nash_kinopokaz/index.m3u8
 https://fonbet.mediacdn.ru/live/nashatema/playlist.m3u8
 #EXTINF:-1 tvg-id="NasheNovoeKino.ru" tvg-country="RU" group-title="Кино",Наше новое кино
 https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NVKSakha.ru" tvg-country="RU" group-title="Общие",НВК Саха
+https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
+#EXTINF:-1 tvg-id="Nevskiy.ru" tvg-country="RU" group-title="Сериалы",Невский
+https://cdn-dvr.ntv.ru/Nevskiy/index.m3u8
 #EXTINF:-1 tvg-id="UnknownRussia.ru" tvg-country="RU",Неизвестная Россия
 http://185.23.80.23:8080/NeizvestnayaRossia/index.m3u8
 #EXTINF:-1 tvg-id="NizhniyNovgorod24.ru" tvg-country="RU" group-title="Общие",Нижний Новгород 24
@@ -313,8 +315,6 @@ http://88.212.15.50/live/test_poehali/playlist.m3u8
 https://stream8.cinerama.uz/1420/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Prima.ru" tvg-country="RU",Прима
 https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
-#EXTINF:-1 tvg-id="ProBusiness.ru" tvg-country="RU" group-title="Бизнес",Про Бизнес
-https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Prodvizhenie.ru" tvg-country="RU",Продвижение
 https://streaming.astrakhan.ru/proastrakhanhd/index.m3u8
 #EXTINF:-1 tvg-id="Prosveshchenie.ru" tvg-country="RU",Просвещение
@@ -327,8 +327,6 @@ https://cdn4.skygo.mn/live/disk1/Channel_5/HLSv3-FTA/Channel_5.m3u8
 http://31.148.5.241/kanal_5/index.m3u8
 #EXTINF:-1 tvg-id="Channel5.ru" tvg-country="RU" http-referrer="https://televizor24tochka.ru/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Общие",Пятый канал
 https://streaming.televizor-24-tochka.ru/live/8.m3u8
-#EXTINF:-1 tvg-id="5minuttishiny.ru" tvg-country="RU" group-title="Сериалы",Пять минут тишины
-https://cdn-dvr.ntv.ru/5_minut_tishiny/index.m3u8
 #EXTINF:-1 tvg-id="Radio1.ru" tvg-country="RU" group-title="Общие",Радио 1
 https://stream.radio1.ru/memfs/49dee7fe-77ba-4e6b-8cdc-fa840535b242.m3u8
 #EXTINF:-1 tvg-id="RadioRossii.ru" tvg-country="RU" group-title="Общие",Радио России
@@ -413,8 +411,6 @@ https://cityeden.catcast.tv/content/47519/index.m3u8
 https://cityeden.catcast.tv/content/47516/index.m3u8
 #EXTINF:-1 tvg-id="CityEdenSirtakiTV.ru@HD" tvg-country="RU" group-title="Музыка",Сити Эдем Сиртаки ТВ
 https://cityeden.catcast.tv/content/46421/index.m3u8
-#EXTINF:-1 tvg-id="CityEdenTeleNovella.ru@HD" tvg-country="RU" group-title="Сериалы",Сити Эдем ТелеНовелла
-https://cityeden.catcast.tv/content/46209/index.m3u8
 #EXTINF:-1 tvg-id="Skorayapomoshch.ru" tvg-country="RU" group-title="Сериалы",Скорая помощь
 https://cdn-dvr.ntv.ru/Skoraja_pomosh/index.m3u8
 #EXTINF:-1 tvg-id="SmileTV.ru" tvg-country="RU" group-title="Детские",Смайл ТВ
@@ -509,6 +505,8 @@ https://streaming.televizor-24-tochka.ru/live/23.m3u8
 http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Tonus.ru" tvg-country="RU",Тонус
 http://194.143.148.28:8080/Mir24/index.m3u8
+#EXTINF:-1 tvg-id="Tooku.ru" tvg-country="RU" group-title="Мультфильмы",Тооку
+http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
 #EXTINF:-1 tvg-id="Tochkaotryva.ru" tvg-country="RU",Точка отрыва
 https://stream8.cinerama.uz/1031/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="3ABNRussia.ru" tvg-country="RU" group-title="Религиозные",Три Ангела
@@ -523,8 +521,12 @@ https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
 https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?e=2070278263&s=is_mLq_kjPYLsOJ4qj85tw&scheme=https
 #EXTINF:-1 tvg-id="Che.ru" tvg-country="RU" http-user-agent="WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer" group-title="Развлечения",Че!
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
+#EXTINF:-1 tvg-id="Channel4.ru" tvg-country="RU" group-title="Общие",Четвёртый канал
+https://river-3-370.rtbcdn.ru/stream/genetta-316.m9.rutube.ru/60Ro5OWl7WWOswbVMQlqFw/1795975765/c6f66b644424c117f41e48062719ceed/576p_stream.m3u8
 #EXTINF:-1 tvg-id="ShansonTV.ru" tvg-country="RU" group-title="Музыка",Шансон ТВ
 http://46.53.200.153:7777/play/Shanson_TV/index.m3u8
+#EXTINF:-1 tvg-id="Shef.ru" tvg-country="RU" group-title="Сериалы",Шеф
+https://cdn-dvr.ntv.ru/Shef/index.m3u8
 #EXTINF:-1 tvg-id="ShchyolkovskoeTV.ru@SD" tvg-country="RU" group-title="Russia",Щёлковское ТВ
 http://stream0.tv41.ru/live.m3u8
 #EXTINF:-1 tvg-id="U.ru" tvg-country="RU" group-title="Развлечения",Ю
@@ -547,9 +549,9 @@ http://178.134.1.158:8081/babytime/index.m3u8
 http://176.118.197.101/Bollywood_HD/index.m3u8
 #EXTINF:-1 tvg-id="BRIDGE.ru" tvg-country="RU" group-title="Музыка",BRIDGE
 http://178.134.1.158:8081/BRIDGE/index.m3u8
-#EXTINF:-1 tvg-id="BRIDGEDance.ru@SD" tvg-country="RU" group-title="Музыка",BRIDGE Dance
+#EXTINF:-1 tvg-id="BRIDGEDance.ru" tvg-country="RU" group-title="Музыка",BRIDGE Dance
 https://bridgemedia-hls.cdnvideo.ru/hls/live/6aff09f290affe00013a80a9/720p.m3u8
-#EXTINF:-1 tvg-id="BRIDGEJazz.ru@SD" tvg-country="RU" group-title="Музыка",BRIDGE Jazz
+#EXTINF:-1 tvg-id="BRIDGEJazz.ru" tvg-country="RU" group-title="Музыка",BRIDGE Jazz
 https://bridgemedia-hls.cdnvideo.ru/hls/live/6aff0a0390affe00013a80aa/720p.m3u8
 #EXTINF:-1 tvg-id="BRIDGERock.ru" tvg-country="RU" group-title="Музыка",BRIDGE Rock
 http://178.134.1.158:8081/BRIDGEROCK/index.m3u8
@@ -564,7 +566,7 @@ http://dancehits80.denvs.ru:8080/index.m3u8
 #EXTINF:-1 tvg-id="EuropaPlusTV.ru" tvg-country="RU" group-title="Музыка",Europa Plus TV
 http://46.53.200.153:7777/play/EuropaPlus/index.m3u8
 #EXTINF:-1 tvg-id="FONTV.ru" tvg-country="RU" group-title="Спорт",FON TV
-https://fonstreams.mediacdn.ru/stream/fontvclear/playlist.m3u8
+https://fontvlive.mediacdn.ru/stream/fontv/playlist.m3u8
 #EXTINF:-1 tvg-id="GulliGirl.ru" tvg-country="RU" group-title="Детские",Gulli Girl
 https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Home4K.ru" tvg-country="RU" group-title="Отдых",Home 4K
@@ -581,8 +583,8 @@ https://stream8.cinerama.uz/1501/playlist.m3u8
 https://stream8.cinerama.uz/1502/playlist.m3u8
 #EXTINF:-1 tvg-id="Oplot2.ru" tvg-country="RU" group-title="Без категории",Oplot 2
 http://91.224.16.9:7779/Oplot_2/index.m3u8
-#EXTINF:-1 tvg-id="RT.ru@HD" tvg-country="RU" group-title="Новости",RT
-https://wisewatchoott.wiseplayout.com/RT/master.m3u8
+#EXTINF:-1 tvg-id="RT.ru@SD" tvg-country="RU" group-title="Новости",RT
+http://212.5.144.156:8080/rt/index.m3u8
 #EXTINF:-1 tvg-id="RTBalkan.ru" tvg-country="RU" group-title="Новости",RT Balkan
 https://rt-srb.rttv.com/dvr/rtbalkan/playlist.m3u8
 #EXTINF:-1 tvg-id="RTenEspanol.ru@SD" tvg-country="RU" group-title="Новости",RT en Espanol
@@ -602,7 +604,7 @@ http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 #EXTINF:-1 tvg-id="SONGTVRussia.ru" tvg-country="RU" group-title="Музыка",SONGTV Russia
 https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
 #EXTINF:-1 tvg-id="StarCinema.ru" tvg-country="RU" group-title="Кино",Star Cinema
-https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
+http://s7.merlive.am/starsinema/index.m3u8
 #EXTINF:-1 tvg-id="StarFamily.ru" tvg-country="RU" group-title="Кино",Star Family
 https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="STARTAir.ru" tvg-country="RU" group-title="Кино",START Air

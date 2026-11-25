@@ -217,8 +217,6 @@ https://s14131.cdn.ngenix.net/hls/CH_R41_KAMCHATKA/variant.m3u8
 https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_KASKAD/variant.m3u8
 #EXTINF:-1 group-title="Региональные",Катунь 24 | Алтайский край
 https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_KATUN24/variant.m3u8
-#EXTINF:-1 group-title="Региональные",Кварц | Подольск
-http://109.94.1.3/25/index.m3u8
 #EXTINF:-1 group-title="Региональные",Колыма Плюс (2) | Магаданская область
 https://tw2ywfm7jbp.a.trbcdn.net/livemaster/w91n1qa6dh_kolymaplus_live/playlist.m3u8
 #EXTINF:-1 group-title="Региональные",Колыма Плюс | Магаданская область
@@ -343,8 +341,6 @@ http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_1GORODSKOY/vari
 https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/index.m3u8
 #EXTINF:-1 group-title="Региональные",Первый областной | Орловская область
 https://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R01_PERVOBL/variant.m3u8
-#EXTINF:-1 group-title="Региональные",Первый Псковский | Псковская область
-https://live-3.otcnet.ru/pskov/index.m3u8
 #EXTINF:-1 group-title="Региональные",Первый Ростовский | Ростов-на-Дону
 https://rost.mediacdn.ru/cdn/rostov1/index.m3u8
 #EXTINF:-1 group-title="Региональные",Первый Тульский (2) | Тульская область
@@ -449,6 +445,8 @@ http://air.tvk6.ru/tvk24/index.m3u8
 http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_TVK24/variant.m3u8
 #EXTINF:-1 group-title="Региональные",Телемикс | Приморский край
 https://s91030.cdn.ngenix.net/hls/CH_R25_TMX/variant.m3u8
+#EXTINF:-1 group-title="Региональные",Тивиком (2) | Бурятия
+https://stream.trafjam.ru/tvcom/studio/index.m3u8
 #EXTINF:-1 group-title="Региональные",Тивиком | Бурятия
 https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_TIVICOM/variant.m3u8
 #EXTINF:-1 group-title="Региональные",ТКР | Рязань
@@ -501,8 +499,12 @@ https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_URAL_SUR/variant.m
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_TRAVEL/variant.m3u8
 #EXTINF:-1 group-title="Региональные",Юрган | Коми
 https://rt-nw-komi-htlive.cdn.ngenix.net/hls/CH_R01_YURGAN/variant.m3u8
+#EXTINF:-1 group-title="Региональные",ЮТВ (2) | Чувашия
+https://utv.iptv2022.com/index.m3u8
 #EXTINF:-1 group-title="Региональные",ЮТВ | Чувашия
 https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_UTV/variant.m3u8
+#EXTINF:-1 group-title="Региональные",Якутия 24 (2) | Якутия
+https://live-saha.cdnvideo.ru/saha/yak24rtmp/playlist.m3u8
 #EXTINF:-1 group-title="Региональные",Якутия 24 | Якутия
 https://s34351.cdn.ngenix.net/hls/CH_R14_YKT/variant.m3u8
 #EXTINF:-1 group-title="Региональные",Ямал 1 | Ямало-Ненецкий АО

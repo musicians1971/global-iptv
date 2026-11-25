@@ -1,18 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="MirSeriala.ru" tvg-country="RU" group-title="Сериалы",Мир Сериала
 http://176.118.197.101/MirSeriala/index.m3u8
+#EXTINF:-1 tvg-id="Nevskiy.ru" tvg-country="RU" group-title="Сериалы",Невский
+https://cdn-dvr.ntv.ru/Nevskiy/index.m3u8
 #EXTINF:-1 tvg-id="NTVHit.ru" tvg-country="RU" group-title="Сериалы",НТВ-Хит
 http://178.134.1.158:8081/ntvhit/index.m3u8
 #EXTINF:-1 tvg-id="Perviyotdel.ru" tvg-country="RU" group-title="Сериалы",Первый отдел
 https://cdn-dvr.ntv.ru/Perviy_otdel/index.m3u8
-#EXTINF:-1 tvg-id="5minuttishiny.ru" tvg-country="RU" group-title="Сериалы",Пять минут тишины
-https://cdn-dvr.ntv.ru/5_minut_tishiny/index.m3u8
 #EXTINF:-1 tvg-id="Saphire.ru" tvg-country="RU" group-title="Сериалы",Сапфир
 http://46.53.200.153:7777/play/Sapfir_HD/index.m3u8
 #EXTINF:-1 tvg-id="CityEdenKinoDok.ru@HD" tvg-country="RU" group-title="Документальные",Сити Эдем КиноДок
 https://cityeden.catcast.tv/content/38354/index.m3u8
-#EXTINF:-1 tvg-id="CityEdenTeleNovella.ru@HD" tvg-country="RU" group-title="Сериалы",Сити Эдем ТелеНовелла
-https://cityeden.catcast.tv/content/46209/index.m3u8
 #EXTINF:-1 tvg-id="Skorayapomoshch.ru" tvg-country="RU" group-title="Сериалы",Скорая помощь
 https://cdn-dvr.ntv.ru/Skoraja_pomosh/index.m3u8
 #EXTINF:-1 tvg-id="Smotrim100Lyubov.ru" tvg-country="RU" group-title="Сериалы",Смотрим 100% Любовь
@@ -21,6 +19,8 @@ https://stream.smotrim.ru/hls2/fasttv01/playlist_2.m3u8
 https://stream.smotrim.ru/hls2/fasttv02/playlist_3.m3u8
 #EXTINF:-1 tvg-id="SmotrimChestnyyDetektiv.ru" tvg-country="RU" group-title="Сериалы",Смотрим Честный Детектив
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Shef.ru" tvg-country="RU" group-title="Сериалы",Шеф
+https://cdn-dvr.ntv.ru/Shef/index.m3u8
 #EXTINF:-1 tvg-id="vijuTV1000romantica.ru" tvg-country="RU" group-title="Сериалы",viju TV1000 romantica
 http://46.53.200.153:7777/play/Viju_Drama/index.m3u8
 #EXTINF:-1 tvg-id="vijuPlusSerial.ru" tvg-country="RU" group-title="Сериалы",viju+ Serial

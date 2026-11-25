@@ -72,7 +72,7 @@ https://istoki.tv/live/stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel16.ru" tvg-country="RU" group-title="Общие",Канал-16
 http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
 #EXTINF:-1 tvg-id="KongressTV.ru" tvg-country="RU" group-title="Общие",Конгресс ТВ
-https://live-3.otcnet.ru/congresstv/index.m3u8
+https://stitch.teletarget.ru/api/v1/hls/504/158/index.m3u8
 #EXTINF:-1 tvg-id="Kuban24.ru@MaikopskoyeTelevidenie" tvg-country="RU" group-title="Общие",Кубань 24
 http://dmi3y-tv.online/hls/zabava/region/MAYK/CH_MAYKOP.m3u8
 #EXTINF:-1 tvg-id="KurajTV.ru" tvg-country="RU" group-title="Общие",Курай-ТВ
@@ -87,6 +87,8 @@ https://stream.smotrim.ru/hls/givc8/playlist.m3u8?entity=channel&id=798&sign=378
 https://stream.smotrim.ru/hls2/doverie/playlist_3.m3u8
 #EXTINF:-1 tvg-id="MTVVolgograd.ru@SD" tvg-country="RU" group-title="Общие",МТВ
 http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="NVKSakha.ru" tvg-country="RU" group-title="Общие",НВК Саха
+https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
 #EXTINF:-1 tvg-id="NizhniyNovgorod24.ru" tvg-country="RU" group-title="Общие",Нижний Новгород 24
 https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
 #EXTINF:-1 tvg-id="NikaTV.ru" tvg-country="RU" group-title="Общие",Ника TV
@@ -141,6 +143,8 @@ https://streaming.televizor-24-tochka.ru/live/24.m3u8
 https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="555.ru" tvg-country="RU" group-title="Общие",Телерадиокомания 555
 http://trk555.tv:8888/live
+#EXTINF:-1 tvg-id="Channel4.ru" tvg-country="RU" group-title="Общие",Четвёртый канал
+https://river-3-370.rtbcdn.ru/stream/genetta-316.m9.rutube.ru/60Ro5OWl7WWOswbVMQlqFw/1795975765/c6f66b644424c117f41e48062719ceed/576p_stream.m3u8
 #EXTINF:-1 tvg-id="YaPervyy.ru" tvg-country="RU" group-title="Общие",ЯПервый
 https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8
 #EXTINF:-1 tvg-id="360.ru" tvg-country="RU" group-title="Общие",360°
@@ -153,8 +157,6 @@ https://shift03.isp.bg/RTVi/index.m3u8
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBRICSRussian.ru" tvg-country="RU" group-title="Общие",TV BRICS Russian
 http://185.23.80.23:8080/TVBRICS/index.m3u8
-#EXTINF:-1 tvg-id="DasturxonTV.uz" tvg-country="UZ" group-title="Общие",Dasturxon TV
-https://stream8.cinerama.uz/1206/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="Ozbekiston.uz" tvg-country="UZ" group-title="Общие",O'zbekiston
 https://stream8.cinerama.uz/1001/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="TaraqqiyotTV.uz" tvg-country="UZ" group-title="Общие",Taraqqiyot TV

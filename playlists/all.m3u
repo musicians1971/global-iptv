@@ -145,6 +145,8 @@ https://s45177.cdn.ngenix.net/hls/CH_R01_NEXTTV/variant.m3u8
 https://stream8.cinerama.uz/1431/index.m3u8
 #EXTINF:-1 group-title="Региональные",Qazaqstan | Казахстан
 https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
+#EXTINF:-1 group-title="Радио",Revolution (Санкт-Петербург)
+http://revolutionradio.ru:8000/live.mp3
 #EXTINF:-1 tvg-id="ru-tv" group-title="Музыкальные",RU.TV РУ.ТВ (2)
 https://stream8.cinerama.uz/1202/index.m3u8
 #EXTINF:-1 group-title="Радио",Sfera Music (Украина)
@@ -367,14 +369,14 @@ https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_VOLGA/variant.m3u8
 https://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R06_OTT_STH_VGRAD_VOLGOGRAD1/variant.m3u8
 #EXTINF:-1 group-title="Региональные",Волгоград 24 | Волгоградская область
 https://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_VGRAD_VOLGOGRAD24/variant.m3u8
+#EXTINF:-1 group-title="Спорт",Волейбол
+https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=5eCXZGvblic9uGykEPvBYw&e=2082370462&scheme=https
 #EXTINF:-1 group-title="Региональные",Волжский+ | Волгоградская область
 http://flussonic.powernet.com.ru:8080/volplus/index.fmp4.m3u8
 #EXTINF:-1 group-title="Мультфильмы",Волк и семеро козлят
 https://mults.info/mp4/volk_i_semero_kozljat.mp4
 #EXTINF:-1 group-title="Мультфильмы",Волк и семеро козлят на новый лад
 https://mults.info/mp4/7_kozlyat.mp4
-#EXTINF:-1 group-title="Мультфильмы",Волк и теленок
-https://mults.info/mp4/volk_i_telenok.mp4
 #EXTINF:-1 group-title="Мультфильмы",Волшебное кольцо
 https://mults.info/mp4/volshebnoe_kolzo.mp4
 #EXTINF:-1 group-title="Познавательные",Вопросы и ответы
@@ -439,8 +441,6 @@ https://mults.info/mp4/gusi_lebedi.mp4
 http://radio05.ru:8000/radio_dagestan_128
 #EXTINF:-1 group-title="Мультфильмы",два - дружно!
 https://mults.info/mp4/raz_dva_druzhno.mp4
-#EXTINF:-1 group-title="Мультфильмы",Два богатыря
-https://mults.info/mp4/dva_bogatyrja.mp4
 #EXTINF:-1 group-title="Мультфильмы",Два веселых гуся
 https://mults.info/mp4/dva_veselyh_gusja.mp4
 #EXTINF:-1 group-title="Мультфильмы",Две сказки
@@ -571,8 +571,6 @@ https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_RTKZAB/variant.m3u8
 https://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R02_IOT/variant.m3u8
 #EXTINF:-1 group-title="Мультфильмы",Иванушко
 https://mults.info/mp4/ivanushko.mp4
-#EXTINF:-1 group-title="Мультфильмы",Ивашка из Дворца Пионеров
-https://mults.info/mp4/ivashka_iz_dvortsa_pionerov.mp4
 #EXTINF:-1 group-title="Региональные",Известия | Воронеж
 https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_IZVESTIYA/variant.m3u8
 #EXTINF:-1 group-title="Региональные",Известия Приосколья | Белгородская область
@@ -615,14 +613,10 @@ https://mults.info/mp4/kak_obezyanki_obedali.mp4
 https://mults.info/mp4/kak_pan_konem_byl.mp4
 #EXTINF:-1 group-title="Мультфильмы",Как Петя Пяточкин слоников считал
 https://mults.info/mp4/kak_petya_pyatochkin_slonikov_schital.mp4
-#EXTINF:-1 group-title="Мультфильмы",Как прекрасно светит сегодня Луна
-https://mults.info/mp4/kak_prekrasno_svetit_segodnja_luna.mp4
 #EXTINF:-1 group-title="Радио",Калина Красная
 http://icecast-studio21.cdnvideo.ru/KalynaK_1a
 #EXTINF:-1 group-title="Региональные",Камчатка 1 | Камчатский край
 https://s14131.cdn.ngenix.net/hls/CH_R41_KAMCHATKA/variant.m3u8
-#EXTINF:-1 group-title="Мультфильмы",Каникулы Бонифация
-https://mults.info/mp4/kanikuli_bonifatsia.mp4
 #EXTINF:-1 group-title="Мультфильмы",Каникулы в Простоквашино
 https://mults.info/mp4/kanikuly_v_prostokvashino.mp4
 #EXTINF:-1 group-title="Мультфильмы",Капитошка
@@ -651,8 +645,6 @@ http://radio.rikt.ru:8000/trk-kvant
 https://mults.info/mp4/kvartet_dlya_dvuh_solistov.mp4
 #EXTINF:-1 group-title="Мультфильмы",Квартира из сыра
 https://mults.info/mp4/kvartira_iz_syra.mp4
-#EXTINF:-1 group-title="Региональные",Кварц | Подольск
-http://109.94.1.3/25/index.m3u8
 #EXTINF:-1 group-title="Радио",Кекс
 http://listen6.myradio24.com:9000/5390
 #EXTINF:-1 group-title="Мультфильмы",Келе
@@ -713,8 +705,6 @@ http://kpradio.hostingradio.ru:8000/128
 http://live-3.otcnet.ru/congresstv/index.m3u8
 #EXTINF:-1 group-title="Мультфильмы",Конек-Горбунок
 https://mults.info/mp4/konek_gorbunok.mp4
-#EXTINF:-1 group-title="Мультфильмы",Кораблик
-https://mults.info/mp4/korablik.mp4
 #EXTINF:-1 group-title="Мультфильмы",Кострома
 https://mults.info/mp4/kostroma.mp4
 #EXTINF:-1 group-title="Мультфильмы",Кот в сапогах
@@ -729,12 +719,8 @@ https://mults.info/mp4/kot_kotory_umel_pet.mp4
 https://mults.info/mp4/kot_kotoryi_guljal_sam_po_sebe.mp4
 #EXTINF:-1 group-title="Мультфильмы",Кот-рыболов
 https://mults.info/mp4/kot_rybolov.mp4
-#EXTINF:-1 group-title="Мультфильмы",Котенок с улицы Лизюкова
-https://mults.info/mp4/kotenok_s_ulitsy_lizjukova.mp4
 #EXTINF:-1 group-title="Мультфильмы",который боялся прививок
 https://mults.info/mp4/pro_begemota_kotoryj_boyalsya_privivok.mp4
-#EXTINF:-1 group-title="Мультфильмы",Кошка, которая гуляла сама по себе
-https://mults.info/mp4/koshka_kotoraya_gulyala_sama_po_sebe.mp4
 #EXTINF:-1 group-title="Мультфильмы",Кошкин дом
 https://mults.info/mp4/koshkin_dom_ris.mp4
 #EXTINF:-1 group-title="Региональные",Краснодар (2) | Краснодарский край
@@ -757,8 +743,6 @@ https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R01_KTVLUCH/variant.m3u8
 https://mults.info/mp4/kto_zh_takie_ptichki.mp4
 #EXTINF:-1 group-title="Мультфильмы",Кто пасется на лугу
 https://mults.info/mp4/chernih.mp4
-#EXTINF:-1 group-title="Мультфильмы",Кто получит приз
-https://mults.info/mp4/kto_poluchit_priz.mp4
 #EXTINF:-1 group-title="Региональные",Кубань 24 (2) | Краснодарский край
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_OTT_STH_KRDAR_KUBAN24-T/variant.m3u8
 #EXTINF:-1 group-title="Региональные",Кубань 24 | Краснодарский край
@@ -817,8 +801,6 @@ https://s1.tv-nano.com/Magnat/index.m3u8
 https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R05_MAIDAN/variant.m3u8
 #EXTINF:-1 group-title="Радио",Максимум
 http://maximum.hostingradio.ru/maximum128.mp3
-#EXTINF:-1 group-title="Мультфильмы",Маленькая колдунья
-https://mults.info/mp4/malenkaya_koldunya.mp4
 #EXTINF:-1 group-title="Мультфильмы",Малыш и Карлсон
 https://mults.info/mp4/malysh_i_karlson.mp4
 #EXTINF:-1 group-title="Мультфильмы",Мальчик и лягушонок
@@ -879,8 +861,6 @@ https://kinowalk.hopto.org/mirdobro_live
 https://mults.info/mp4/marija_mirabela_v_tranzistorii.mp4
 #EXTINF:-1 group-title="Мультфильмы",Мисс Новый Год
 https://mults.info/mp4/miss_novy_god.mp4
-#EXTINF:-1 group-title="Мультфильмы",Миссия пришельцев
-https://mults.info/mp4/missiya_prishelcev.mp4
 #EXTINF:-1 group-title="Мультфильмы",Мистер Пронька
 https://mults.info/mp4/pronka.mp4
 #EXTINF:-1 group-title="Радио",Модель для сборки
@@ -923,14 +903,16 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
 https://kinowalk.hopto.org/muzcoverradio_live
 #EXTINF:-1 group-title="Религиозные",МузСоюз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные",Музыка 1 International
-https://kino-1.catcast.tv/content/37745/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",Музыка 2 International
+https://kino-1.catcast.tv/content/37742/index.m3u8
 #EXTINF:-1 group-title="Музыкальные",Музыка Live
 https://stream8.cinerama.uz/1238/index.m3u8
 #EXTINF:-1 group-title="Мультфильмы",Музыкальный магазинчик
 https://mults.info/mp4/muzykaljny_magazinchik_1989.mp4
 #EXTINF:-1 group-title="Мультфильмы",Мук-скороход
 https://mults.info/mp4/muk_skorohod.mp4
+#EXTINF:-1 group-title="Кинозалы Kinowalk",Мультфильмы VHS
+https://kinowalk.hopto.org/myvhs_live
 #EXTINF:-1 group-title="Региональные",Муравленко 24 | Ямало-Ненецкий АО
 https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_MURAVLENKO_24/variant.m3u8
 #EXTINF:-1 group-title="Региональные",Муром | Владимирская область
@@ -977,10 +959,6 @@ http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8
 https://mults.info/mp4/38_nenaglyadnoe_posobie.mp4
 #EXTINF:-1 group-title="Мультфильмы",Необыкновенный матч
 https://mults.info/mp4/neobyknovennyi_match.mp4
-#EXTINF:-1 group-title="Мультфильмы",Непослушный медвежонок
-https://mults.info/mp4/neposlushny_medvezhonok.mp4
-#EXTINF:-1 group-title="Мультфильмы",Неслыханная
-https://mults.info/mp4/nevidannaya_neslyhannaya.mp4
 #EXTINF:-1 group-title="Радио",Нестандарт
 http://listen.radionestandart.ru:8200/128.mp3
 #EXTINF:-1 group-title="Мультфильмы",Нехочуха
@@ -1053,8 +1031,6 @@ https://mults.info/mp4/obratnaya_storona_luny.mp4
 https://mults.info/mp4/ognevushka_poskakushka.mp4
 #EXTINF:-1 group-title="Мультфильмы",Ограбление по…
 https://mults.info/mp4/ograblenie_po.mp4
-#EXTINF:-1 group-title="Мультфильмы",Ой-ой-ой!
-https://mults.info/mp4/pif_paf_oi_oi_oi.mp4
 #EXTINF:-1 group-title="Радио",Олимп (Челябинск)
 http://online.olimpfm.ru:8000/olimp_mp3
 #EXTINF:-1 group-title="Радио",Омега (Тольятти)
@@ -1063,8 +1039,6 @@ http://online.106i9fm.ru:8000/106i9_mp3
 https://bl.rutube.ru/livestream/9927a61345cbec5aac6558f6c5454d61/index.m3u8?s=9LljursQaAxFdR0mnennUQ&e=2070623518&scheme=https
 #EXTINF:-1 group-title="Региональные",Омск ТВ | Омск
 http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OMSKTV/variant.m3u8
-#EXTINF:-1 group-title="Мультфильмы",Опять двойка
-https://mults.info/mp4/opjat_dvoyka.mp4
 #EXTINF:-1 group-title="Региональные",ОРТ Планета | Оренбург
 https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R03_ORTPLANET/variant.m3u8
 #EXTINF:-1 group-title="Радио",Орфей
@@ -1145,8 +1119,6 @@ https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/index.m
 https://stream8.cinerama.uz/1415/index.m3u8
 #EXTINF:-1 group-title="Региональные",Первый областной | Орловская область
 https://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R01_PERVOBL/variant.m3u8
-#EXTINF:-1 group-title="Региональные",Первый Псковский | Псковская область
-https://live-3.otcnet.ru/pskov/index.m3u8
 #EXTINF:-1 group-title="Региональные",Первый Ростовский | Ростов-на-Дону
 https://rost.mediacdn.ru/cdn/rostov1/index.m3u8
 #EXTINF:-1 group-title="Региональные",Первый Тульский (2) | Тульская область
@@ -1165,8 +1137,6 @@ https://mults.info/mp4/petr_i_petrusha.mp4
 https://mults.info/mp4/petuh_i_kraski.mp4
 #EXTINF:-1 group-title="Мультфильмы",Петушок - золотой гребешок
 https://mults.info/mp4/petushok_zolotoyi_grebeshok.mp4
-#EXTINF:-1 group-title="Мультфильмы",Петя и Красная Шапочка
-https://mults.info/mp4/petja_i_krasnaja_shapochka.mp4
 #EXTINF:-1 group-title="Радио",Пи
 http://cdn.pifm.ru/mp3
 #EXTINF:-1 group-title="Радио",Пика
@@ -1183,8 +1153,6 @@ https://mults.info/mp4/plaistilinovaja_vorona.mp4
 https://mults.info/mp4/tigrenok1.mp4
 #EXTINF:-1 group-title="Мультфильмы",По лунной дороге
 https://mults.info/mp4/po_lunnoy_doroge.mp4
-#EXTINF:-1 group-title="Мультфильмы",По следам Бамбра
-https://mults.info/mp4/po_sledam_bambra.mp4
 #EXTINF:-1 group-title="Мультфильмы",По следам бременских музыкантов
 https://mults.info/mp4/po_sledam_bremenskih_muzykantov.mp4
 #EXTINF:-1 group-title="Мультфильмы",Подарок для слона
@@ -1207,8 +1175,6 @@ https://mults.info/mp4/poslednaja_nevesta_zmeja_gorynycha.mp4
 https://mults.info/mp4/poteryalas_ptitsa_v_nebe.mp4
 #EXTINF:-1 group-title="Радио",Православное (Санкт-Петербург)
 http://radio-spb.rusk.ru:8000/stream
-#EXTINF:-1 group-title="Мультфильмы",Праздник новогодней ёлки
-https://mults.info/mp4/prazdnik_novogodnej_elki.mp4
 #EXTINF:-1 group-title="Мультфильмы",Привет мартышке
 https://mults.info/mp4/38_privet_martyshke.mp4
 #EXTINF:-1 group-title="Мультфильмы",Приключения капитана Врунгеля
@@ -1275,8 +1241,6 @@ https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_RYBINSK40/variant.m3u8
 http://icecast.vgtrk.cdnvideo.ru/moscowtalk128
 #EXTINF:-1 group-title="Радио",Радонеж
 https://icecast-radonezh.cdnvideo.ru/rad128
-#EXTINF:-1 group-title="Мультфильмы",Разные колеса
-https://mults.info/mp4/raznye_kolesa.mp4
 #EXTINF:-1 group-title="Радио",Рация (Беларусь)
 http://air.racyja.com:8000/racja320
 #EXTINF:-1 group-title="Новости",РБК (3)
@@ -1435,22 +1399,14 @@ https://mults.info/mp4/skazka_o_soldate.mp4
 https://mults.info/mp4/lisenok_skazka_o_starom_eho.mp4
 #EXTINF:-1 group-title="Мультфильмы",Сказка о царе Салтане
 https://mults.info/mp4/skazka_o_tsare_saltane.mp4
-#EXTINF:-1 group-title="Мультфильмы",Сказка про лень
-https://mults.info/mp4/skazka_pro_len.mp4
 #EXTINF:-1 group-title="Мультфильмы",Сказки для больших и маленьких
 https://mults.info/mp4/skazki_dlya_bolshih_i_malenkih.mp4
-#EXTINF:-1 group-title="Документальные",Следствие вели...
-https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 group-title="Мультфильмы",Случай с бегемотом
 https://mults.info/mp4/sluchaj_s_begemotom.mp4
 #EXTINF:-1 group-title="Детские",Смайл
 https://stream8.cinerama.uz/1425/index.m3u8
 #EXTINF:-1 group-title="Мультфильмы",Смех и горе у Бела моря
 https://mults.info/mp4/smeh_i_gore_u_bela_morya.mp4
-#EXTINF:-1 group-title="Мультфильмы",Снеговик-почтовик
-https://mults.info/mp4/snegovik_pochtovik.mp4
-#EXTINF:-1 group-title="Мультфильмы",Снежные дорожки
-https://mults.info/mp4/shezhnye_dorozhki.mp4
 #EXTINF:-1 group-title="Кино",Советское кино
 http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
 #EXTINF:-1 group-title="Мультфильмы",Солдат и чёрт
@@ -1495,8 +1451,6 @@ http://staroeradio.ru:8000/ices128
 http://195.91.237.50:8000/detskoe128
 #EXTINF:-1 group-title="Радио",Старое - Музыка
 http://195.91.237.50:8000/music128
-#EXTINF:-1 group-title="Мультфильмы",Старые знакомые
-https://mults.info/mp4/starye_znakomye.mp4
 #EXTINF:-1 group-title="Мультфильмы",Стереотипы
 https://mults.info/mp4/stereotipi.mp4
 #EXTINF:-1 group-title="Мультфильмы",Стрекоза и муравей
@@ -1531,16 +1485,12 @@ https://mults.info/mp4/taina_tretey_planety.mp4
 https://mults.info/mp4/tak_soidet.mp4
 #EXTINF:-1 group-title="Региональные",Такт 24 | Курская область
 https://rt-ct-kursk-htlive.cdn.ngenix.net/hls/CH_R01_TAKT/variant.m3u8
-#EXTINF:-1 group-title="Мультфильмы",Талант и поклонники
-https://mults.info/mp4/talant_i_poklonniki.mp4
 #EXTINF:-1 group-title="Региональные",Тамыр (2) | Башкортостан
 https://bsttv.bonus-tv.ru/cdn/tamyr/index.m3u8
 #EXTINF:-1 group-title="Региональные",Тамыр | Башкортостан
 https://s45177.cdn.ngenix.net/hls/CH_R03_TAMYRTV/variant.m3u8
 #EXTINF:-1 group-title="Мультфильмы",Таракан
 https://mults.info/mp4/tarakan.mp4
-#EXTINF:-1 group-title="Мультфильмы",Тараканище
-https://mults.info/mp4/tarakanishe.mp4
 #EXTINF:-1 group-title="Новости",ТАСС
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
 #EXTINF:-1 group-title="Региональные",Татарстан 24
@@ -1585,6 +1535,8 @@ https://mults.info/mp4/terem_teremok.mp4
 https://mults.info/mp4/teremok.mp4
 #EXTINF:-1 group-title="Кино",Техно 24 Т24
 https://stream8.cinerama.uz/1037/index.m3u8
+#EXTINF:-1 group-title="Региональные",Тивиком (2) | Бурятия
+https://stream.trafjam.ru/tvcom/studio/index.m3u8
 #EXTINF:-1 group-title="Региональные",Тивиком | Бурятия
 https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_TIVICOM/variant.m3u8
 #EXTINF:-1 group-title="Мультфильмы",Тимка и Димка
@@ -1641,8 +1593,6 @@ http://s93498.cdn.ngenix.net/hls/CH_R01_TUVA24/variant.m3u8
 https://stream8.cinerama.uz/1261/index.m3u8
 #EXTINF:-1 group-title="Региональные",Туган Тел | Башкортостан
 https://s45177.cdn.ngenix.net/hls/CH_R01_TUGANTEL/variant.m3u8
-#EXTINF:-1 group-title="Развлекательные",Ты супер!
-https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 group-title="Региональные",Тюменское время (2) | Тюмень
 https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo001/playlist.m3u8
 #EXTINF:-1 group-title="Региональные",Тюменское время | Тюмень
@@ -1671,8 +1621,6 @@ http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_URAL1/variant.m3u8
 https://mults.info/mp4/armenfilm_uh_ty_govorjaschaja_ryba.mp4
 #EXTINF:-1 group-title="Региональные",Учалы | Башкортостан
 https://s45177.cdn.ngenix.net/hls/CH_R02_UCHALYTV/variant.m3u8
-#EXTINF:-1 group-title="Мультфильмы",Федорино горе
-https://mults.info/mp4/fedorino_gore.mp4
 #EXTINF:-1 group-title="Мультфильмы",Федя Зайцев
 https://mults.info/mp4/fedya_zaycev.mp4
 #EXTINF:-1 group-title="Мультфильмы",Фильм! Фильм! Фильм!
@@ -1681,8 +1629,6 @@ https://mults.info/mp4/filmfilmfilm.mp4
 https://kinowalk.hopto.org/filmscope_live
 #EXTINF:-1 group-title="Радио",ФМ-на Дону (Ростов-на-Дону)
 http://radio.mediacdn.ru/fm_na_donu.mp3
-#EXTINF:-1 group-title="Мультфильмы",Футбольные звезды
-https://mults.info/mp4/futbolnye_zvezdy.mp4
 #EXTINF:-1 group-title="Кинозалы Kinowalk",Х-TV
 https://kinowalk.hopto.org/durkalive_live
 #EXTINF:-1 group-title="Региональные",Хабар 24 | Казахстан
@@ -1695,16 +1641,10 @@ https://mults.info/mp4/hash.mp4
 https://mults.info/mp4/khvosti.mp4
 #EXTINF:-1 group-title="Радио",Хит
 http://hitfm.hostingradio.ru/hitfm128.mp3
-#EXTINF:-1 group-title="Радио",Хорошего Настроения (Хабаровск)
-http://188.93.129.110:8000/fm1018
 #EXTINF:-1 group-title="Мультфильмы",Храбрый заяц
 https://mults.info/mp4/hrabry_zayac.mp4
-#EXTINF:-1 group-title="Мультфильмы",Царевна-Лягушка
-https://mults.info/mp4/tsarevna_lyagushka.mp4
 #EXTINF:-1 group-title="Мультфильмы",Царь и ткач
 https://mults.info/mp4/tsar_i_tkach.mp4
-#EXTINF:-1 group-title="Мультфильмы",Цветик-семицветик
-https://mults.info/mp4/cvetik_semicvetik.mp4
 #EXTINF:-1 group-title="Мультфильмы",Цель
 https://mults.info/mp4/cel.mp4
 #EXTINF:-1 group-title="Радио",Центр
@@ -1733,8 +1673,6 @@ http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 http://radio.4duk.ru/4duk256.mp3
 #EXTINF:-1 group-title="Мультфильмы",Чиполлино
 https://mults.info/mp4/chipollino.mp4
-#EXTINF:-1 group-title="Мультфильмы",Что в кузнице не было гвоздя
-https://mults.info/mp4/ottogo_chto_v_kuznice_ne_bylo_gvozdja.mp4
 #EXTINF:-1 group-title="Мультфильмы",Что такое хорошо и что такое плохо
 https://mults.info/mp4/chto_takoe_horosho.mp4
 #EXTINF:-1 group-title="Мультфильмы",Что там под маской
@@ -1775,6 +1713,8 @@ http://193.254.227.55:8000/Radio-LineIn
 https://mults.info/mp4/shutki.mp4
 #EXTINF:-1 group-title="Мультфильмы",Щелкунчик
 https://mults.info/mp4/schelkunchik.mp4
+#EXTINF:-1 group-title="Кинозалы Kinowalk",Эквилибриум
+https://kinowalk.hopto.org/equilibrium_live
 #EXTINF:-1 group-title="Мультфильмы",Эксперимент
 https://mults.info/mp4/eksperiment.mp4
 #EXTINF:-1 group-title="Региональные",Экспресс (2) | Пенза
@@ -1817,10 +1757,14 @@ http://online.uniton.ru:8300/RadioUniton192
 http://icecast.vgtrk.cdnvideo.ru/unost
 #EXTINF:-1 group-title="Региональные",Юрган | Коми
 https://rt-nw-komi-htlive.cdn.ngenix.net/hls/CH_R01_YURGAN/variant.m3u8
+#EXTINF:-1 group-title="Региональные",ЮТВ (2) | Чувашия
+https://utv.iptv2022.com/index.m3u8
 #EXTINF:-1 group-title="Региональные",ЮТВ | Чувашия
 https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_UTV/variant.m3u8
 #EXTINF:-1 group-title="Мультфильмы",Яблочный пирог
 https://mults.info/mp4/yablochny_pirog.mp4
+#EXTINF:-1 group-title="Региональные",Якутия 24 (2) | Якутия
+https://live-saha.cdnvideo.ru/saha/yak24rtmp/playlist.m3u8
 #EXTINF:-1 group-title="Региональные",Якутия 24 | Якутия
 https://s34351.cdn.ngenix.net/hls/CH_R14_YKT/variant.m3u8
 #EXTINF:-1 group-title="Региональные",Ямал 1 | Ямало-Ненецкий АО
@@ -1853,8 +1797,6 @@ https://v4.proofix.ru/7tv-live/index.m3u8
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные",Afrobeats
 https://stream.ecable.tv/afrobeats/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Kinowalk",Alex.Films
-https://kinowalk.hopto.org/alex.films_live
 #EXTINF:-1 group-title="Природа и животные",Animal Planet
 https://stream8.cinerama.uz/1043/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Kinowalk",Baragozz
@@ -2001,6 +1943,8 @@ https://s1.tv-nano.com/Luxury_rec/video.m3u8
 https://bss1.neterra.tv/magictv/magictv.m3u8
 #EXTINF:-1 group-title="Музыкальные",Makon
 https://stream8.cinerama.uz/1497/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Kinowalk",MAX
+https://kinowalk.hopto.org/maximum_live
 #EXTINF:-1 group-title="Радио",Maximum
 http://maximum.hostingradio.ru/maximum96.aacp
 #EXTINF:-1 group-title="Музыкальные",Meditation Music
@@ -2163,8 +2107,6 @@ https://kinowalk.hopto.org/vbrusdancepops80_live
 https://amagicloud-medialive-common016.s3.amazonaws.com/vevo_reggaeton-localnow/playlist.m3u8
 #EXTINF:-1 group-title="Кинозалы Kinowalk",VHS Forever
 https://kinowalk.hopto.org/vhs-forever_live
-#EXTINF:-1 group-title="Кинозалы Kinowalk",Video Channel
-https://kinowalk.hopto.org/video_channel_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk",Video_Prokat
 https://kinowalk.hopto.org/video_prokat_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk",VideoArsenal
@@ -2205,9 +2147,9 @@ http://45.11.139.43:8555/8kanal/index.m3u8
 http://live-11cinema.cdnvideo.net/11cinemanet/11cinemanet/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel8Novosibirsk.ru" tvg-country="RU" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0" group-title="Общие",8 канал Новосибирск
 https://live-8knsk.cdnvideo.ru/8knsk/stream1/playlist.m3u8
-#EXTINF:-1 tvg-id="BRIDGEVostok.ru@SD" tvg-country="RU" group-title="Музыка",BRIDGE Восток
+#EXTINF:-1 tvg-id="BRIDGEVostok.ru" tvg-country="RU" group-title="Музыка",BRIDGE Восток
 https://bridgemedia-hls.cdnvideo.ru/hls/live/6aff1b6881d78600017e02c5/720p.m3u8
-#EXTINF:-1 tvg-id="BRIDGESymphony.ru@SD" tvg-country="RU" group-title="Музыка",BRIDGE Симфония
+#EXTINF:-1 tvg-id="BRIDGESymphony.ru" tvg-country="RU" group-title="Музыка",BRIDGE Симфония
 https://bridgemedia-hls.cdnvideo.ru/hls/live/6aff0d2a81d78600017e02c2/720p.m3u8
 #EXTINF:-1 tvg-id="Domashniy.ru" tvg-country="RU" group-title="Образ жизни",Dомашний
 http://31.148.5.241/kanal_14/index.m3u8
@@ -2251,7 +2193,7 @@ http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 http://bst.bratsk.ru/hls/bst2/index.m3u8
 #EXTINF:-1 tvg-id="Vgostyakhuskazki.ru" tvg-country="RU" group-title="Детские",В гостях у сказки
 https://stream8.cinerama.uz/1270/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Verba.ru@SD" tvg-country="RU" group-title="Музыка",Верба
+#EXTINF:-1 tvg-id="Verba.ru" tvg-country="RU" group-title="Музыка",Верба
 https://bridgemedia-hls.cdnvideo.ru/hls/live/6aff0d0f81d78600017e02c1/720p.m3u8
 #EXTINF:-1 tvg-id="VestiFM.ru" tvg-country="RU" group-title="Новости",Вести FM
 https://stream.smotrim.ru/hls2/vesti_fm/playlist_4.m3u8
@@ -2265,8 +2207,6 @@ http://178.134.1.158:8081/vkus/index.m3u8
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Volga.ru" tvg-country="RU",Волга
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
-#EXTINF:-1 tvg-id="Volleyball.ru" tvg-country="RU" group-title="Спорт",Волейбол
-https://fonbet.mediacdn.ru/live/volleyball/playlist.m3u8
 #EXTINF:-1 tvg-id="Vostok24.ru" tvg-country="RU" http-user-agent="WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer" group-title="Общие",Восток 24
 http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
 #EXTINF:-1 tvg-id="Vremya.ru" tvg-country="RU" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",Время
@@ -2340,7 +2280,7 @@ http://185.37.150.46/Karusel/index.m3u8
 #EXTINF:-1 tvg-id="KVNTV.ru" tvg-country="RU" group-title="Комедии",КВН ТВ
 https://fs.uplink.kz/kvn_tv/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Kino1.ru" tvg-country="RU" group-title="Кино",Кино 1
-https://autopilot.catcast.tv/content/38617/index.m3u8
+http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 tvg-id="KinoTV.ru" tvg-country="RU" group-title="Кино",Кино ТВ
 http://176.118.197.101/KinoTvHD/playlist.m3u8
 #EXTINF:-1 tvg-id="KinoTV.ru" tvg-country="RU" group-title="Кино",Кино ТВ
@@ -2360,7 +2300,7 @@ https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Komedia.ru" tvg-country="RU" group-title="Комедии",Комедия
 http://176.118.197.101/Komediya/index.m3u8
 #EXTINF:-1 tvg-id="KongressTV.ru" tvg-country="RU" group-title="Общие",Конгресс ТВ
-https://live-3.otcnet.ru/congresstv/index.m3u8
+https://stitch.teletarget.ru/api/v1/hls/504/158/index.m3u8
 #EXTINF:-1 tvg-id="RedLine.ru" tvg-country="RU",Красная линия
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
 #EXTINF:-1 tvg-id="KrikTV.ru" tvg-country="RU" group-title="Новости",Крик-ТВ
@@ -2389,7 +2329,7 @@ https://stream8.cinerama.uz/1244/tracks-v1a1/mono.m3u8
 http://185.23.80.23:8080/MATCH_PREMIER/index.m3u8
 #EXTINF:-1 tvg-id="MatchUltra.ru" tvg-country="RU" group-title="Спорт",Матч! Ультра
 http://31.148.5.241/kanal_3/index.m3u8
-#EXTINF:-1 tvg-id="MiniDisco.ru@SD" tvg-country="RU" group-title="Детские",Мини Диско
+#EXTINF:-1 tvg-id="MiniDisco.ru" tvg-country="RU" group-title="Детские",Мини Диско
 https://bridgemedia-hls.cdnvideo.ru/hls/live/6aff1c3190affe00013a80ac/720p.m3u8
 #EXTINF:-1 tvg-id="Ministerstvoidey.ru" tvg-country="RU" group-title="Культура",Министерство идей
 https://live-minidey.cdnvideo.ru/minidey-srt/minidey/playlist.m3u8
@@ -2418,7 +2358,7 @@ https://stream8.cinerama.uz/1200/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MuzTV.ru" tvg-country="RU" http-referrer="https://televizor24tochka.ru/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Музыка",Муз-ТВ
 https://streaming.televizor-24-tochka.ru/live/20.m3u8
 #EXTINF:-1 tvg-id="Muzyka1.ru" tvg-country="RU" group-title="Музыка",Музыка 1
-https://kino-1.catcast.tv/content/37742/index.m3u8
+https://kino-1.catcast.tv/content/37745/index.m3u8
 #EXTINF:-1 tvg-id="MuzykaKino.ru@International" tvg-country="RU" group-title="Музыка",Музыка Кино
 https://kino-1.catcast.tv/content/37739/index.m3u8
 #EXTINF:-1 tvg-id="1HDMusicTelevision.ru" tvg-country="RU" group-title="Музыка",Музыка Первого
@@ -2441,6 +2381,10 @@ http://46.53.200.153:7777/play/SRT_Nash_kinopokaz/index.m3u8
 https://fonbet.mediacdn.ru/live/nashatema/playlist.m3u8
 #EXTINF:-1 tvg-id="NasheNovoeKino.ru" tvg-country="RU" group-title="Кино",Наше новое кино
 https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NVKSakha.ru" tvg-country="RU" group-title="Общие",НВК Саха
+https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
+#EXTINF:-1 tvg-id="Nevskiy.ru" tvg-country="RU" group-title="Сериалы",Невский
+https://cdn-dvr.ntv.ru/Nevskiy/index.m3u8
 #EXTINF:-1 tvg-id="UnknownRussia.ru" tvg-country="RU",Неизвестная Россия
 http://185.23.80.23:8080/NeizvestnayaRossia/index.m3u8
 #EXTINF:-1 tvg-id="NizhniyNovgorod24.ru" tvg-country="RU" group-title="Общие",Нижний Новгород 24
@@ -2503,8 +2447,6 @@ http://88.212.15.50/live/test_poehali/playlist.m3u8
 https://stream8.cinerama.uz/1420/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Prima.ru" tvg-country="RU",Прима
 https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
-#EXTINF:-1 tvg-id="ProBusiness.ru" tvg-country="RU" group-title="Бизнес",Про Бизнес
-https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Prodvizhenie.ru" tvg-country="RU",Продвижение
 https://streaming.astrakhan.ru/proastrakhanhd/index.m3u8
 #EXTINF:-1 tvg-id="Prosveshchenie.ru" tvg-country="RU",Просвещение
@@ -2517,8 +2459,6 @@ https://cdn4.skygo.mn/live/disk1/Channel_5/HLSv3-FTA/Channel_5.m3u8
 http://31.148.5.241/kanal_5/index.m3u8
 #EXTINF:-1 tvg-id="Channel5.ru" tvg-country="RU" http-referrer="https://televizor24tochka.ru/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Общие",Пятый канал
 https://streaming.televizor-24-tochka.ru/live/8.m3u8
-#EXTINF:-1 tvg-id="5minuttishiny.ru" tvg-country="RU" group-title="Сериалы",Пять минут тишины
-https://cdn-dvr.ntv.ru/5_minut_tishiny/index.m3u8
 #EXTINF:-1 tvg-id="Radio1.ru" tvg-country="RU" group-title="Общие",Радио 1
 https://stream.radio1.ru/memfs/49dee7fe-77ba-4e6b-8cdc-fa840535b242.m3u8
 #EXTINF:-1 tvg-id="RadioRossii.ru" tvg-country="RU" group-title="Общие",Радио России
@@ -2603,8 +2543,6 @@ https://cityeden.catcast.tv/content/47519/index.m3u8
 https://cityeden.catcast.tv/content/47516/index.m3u8
 #EXTINF:-1 tvg-id="CityEdenSirtakiTV.ru@HD" tvg-country="RU" group-title="Музыка",Сити Эдем Сиртаки ТВ
 https://cityeden.catcast.tv/content/46421/index.m3u8
-#EXTINF:-1 tvg-id="CityEdenTeleNovella.ru@HD" tvg-country="RU" group-title="Сериалы",Сити Эдем ТелеНовелла
-https://cityeden.catcast.tv/content/46209/index.m3u8
 #EXTINF:-1 tvg-id="Skorayapomoshch.ru" tvg-country="RU" group-title="Сериалы",Скорая помощь
 https://cdn-dvr.ntv.ru/Skoraja_pomosh/index.m3u8
 #EXTINF:-1 tvg-id="SmileTV.ru" tvg-country="RU" group-title="Детские",Смайл ТВ
@@ -2699,6 +2637,8 @@ https://streaming.televizor-24-tochka.ru/live/23.m3u8
 http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Tonus.ru" tvg-country="RU",Тонус
 http://194.143.148.28:8080/Mir24/index.m3u8
+#EXTINF:-1 tvg-id="Tooku.ru" tvg-country="RU" group-title="Мультфильмы",Тооку
+http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
 #EXTINF:-1 tvg-id="Tochkaotryva.ru" tvg-country="RU",Точка отрыва
 https://stream8.cinerama.uz/1031/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="3ABNRussia.ru" tvg-country="RU" group-title="Религиозные",Три Ангела
@@ -2713,8 +2653,12 @@ https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
 https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?e=2070278263&s=is_mLq_kjPYLsOJ4qj85tw&scheme=https
 #EXTINF:-1 tvg-id="Che.ru" tvg-country="RU" http-user-agent="WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer" group-title="Развлечения",Че!
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
+#EXTINF:-1 tvg-id="Channel4.ru" tvg-country="RU" group-title="Общие",Четвёртый канал
+https://river-3-370.rtbcdn.ru/stream/genetta-316.m9.rutube.ru/60Ro5OWl7WWOswbVMQlqFw/1795975765/c6f66b644424c117f41e48062719ceed/576p_stream.m3u8
 #EXTINF:-1 tvg-id="ShansonTV.ru" tvg-country="RU" group-title="Музыка",Шансон ТВ
 http://46.53.200.153:7777/play/Shanson_TV/index.m3u8
+#EXTINF:-1 tvg-id="Shef.ru" tvg-country="RU" group-title="Сериалы",Шеф
+https://cdn-dvr.ntv.ru/Shef/index.m3u8
 #EXTINF:-1 tvg-id="ShchyolkovskoeTV.ru@SD" tvg-country="RU" group-title="Russia",Щёлковское ТВ
 http://stream0.tv41.ru/live.m3u8
 #EXTINF:-1 tvg-id="U.ru" tvg-country="RU" group-title="Развлечения",Ю
@@ -2737,9 +2681,9 @@ http://178.134.1.158:8081/babytime/index.m3u8
 http://176.118.197.101/Bollywood_HD/index.m3u8
 #EXTINF:-1 tvg-id="BRIDGE.ru" tvg-country="RU" group-title="Музыка",BRIDGE
 http://178.134.1.158:8081/BRIDGE/index.m3u8
-#EXTINF:-1 tvg-id="BRIDGEDance.ru@SD" tvg-country="RU" group-title="Музыка",BRIDGE Dance
+#EXTINF:-1 tvg-id="BRIDGEDance.ru" tvg-country="RU" group-title="Музыка",BRIDGE Dance
 https://bridgemedia-hls.cdnvideo.ru/hls/live/6aff09f290affe00013a80a9/720p.m3u8
-#EXTINF:-1 tvg-id="BRIDGEJazz.ru@SD" tvg-country="RU" group-title="Музыка",BRIDGE Jazz
+#EXTINF:-1 tvg-id="BRIDGEJazz.ru" tvg-country="RU" group-title="Музыка",BRIDGE Jazz
 https://bridgemedia-hls.cdnvideo.ru/hls/live/6aff0a0390affe00013a80aa/720p.m3u8
 #EXTINF:-1 tvg-id="BRIDGERock.ru" tvg-country="RU" group-title="Музыка",BRIDGE Rock
 http://178.134.1.158:8081/BRIDGEROCK/index.m3u8
@@ -2754,7 +2698,7 @@ http://dancehits80.denvs.ru:8080/index.m3u8
 #EXTINF:-1 tvg-id="EuropaPlusTV.ru" tvg-country="RU" group-title="Музыка",Europa Plus TV
 http://46.53.200.153:7777/play/EuropaPlus/index.m3u8
 #EXTINF:-1 tvg-id="FONTV.ru" tvg-country="RU" group-title="Спорт",FON TV
-https://fonstreams.mediacdn.ru/stream/fontvclear/playlist.m3u8
+https://fontvlive.mediacdn.ru/stream/fontv/playlist.m3u8
 #EXTINF:-1 tvg-id="GulliGirl.ru" tvg-country="RU" group-title="Детские",Gulli Girl
 https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Home4K.ru" tvg-country="RU" group-title="Отдых",Home 4K
@@ -2771,8 +2715,8 @@ https://stream8.cinerama.uz/1501/playlist.m3u8
 https://stream8.cinerama.uz/1502/playlist.m3u8
 #EXTINF:-1 tvg-id="Oplot2.ru" tvg-country="RU" group-title="Без категории",Oplot 2
 http://91.224.16.9:7779/Oplot_2/index.m3u8
-#EXTINF:-1 tvg-id="RT.ru@HD" tvg-country="RU" group-title="Новости",RT
-https://wisewatchoott.wiseplayout.com/RT/master.m3u8
+#EXTINF:-1 tvg-id="RT.ru@SD" tvg-country="RU" group-title="Новости",RT
+http://212.5.144.156:8080/rt/index.m3u8
 #EXTINF:-1 tvg-id="RTBalkan.ru" tvg-country="RU" group-title="Новости",RT Balkan
 https://rt-srb.rttv.com/dvr/rtbalkan/playlist.m3u8
 #EXTINF:-1 tvg-id="RTenEspanol.ru@SD" tvg-country="RU" group-title="Новости",RT en Espanol
@@ -2792,7 +2736,7 @@ http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 #EXTINF:-1 tvg-id="SONGTVRussia.ru" tvg-country="RU" group-title="Музыка",SONGTV Russia
 https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
 #EXTINF:-1 tvg-id="StarCinema.ru" tvg-country="RU" group-title="Кино",Star Cinema
-https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
+http://s7.merlive.am/starsinema/index.m3u8
 #EXTINF:-1 tvg-id="StarFamily.ru" tvg-country="RU" group-title="Кино",Star Family
 https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="STARTAir.ru" tvg-country="RU" group-title="Кино",START Air
@@ -2839,8 +2783,6 @@ https://183.giatvcdn.com/ssh101/ssh101/vivarussia/playlist.m3u8
 https://cdn.wfc.tv/cdn/stream-eng.m3u8
 #EXTINF:-1 tvg-id="Aqlvoy.uz" tvg-country="UZ" group-title="Детские",Aqlvoy
 https://stream8.cinerama.uz/1205/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="DasturxonTV.uz" tvg-country="UZ" group-title="Общие",Dasturxon TV
-https://stream8.cinerama.uz/1206/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="MakonTV.uz" tvg-country="UZ" group-title="Развлечения",Makon TV
 https://stream8.cinerama.uz/1497/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Ozbekiston.uz" tvg-country="UZ" group-title="Общие",O'zbekiston
@@ -2861,16 +2803,12 @@ https://cdn15.live-tv.cloud/ua_infinitas_tv/rada-abr/playlist.m3u8
 https://dash2.antik.sk/live/test_dacha_tv_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="Lugansk24.ua" tvg-country="UA" group-title="Общие",Луганск 24
 https://streaming.televizor-24-tochka.ru/live/29.m3u8
-#EXTINF:-1 tvg-id="ObshchestvennoeNezavisimoeTelevidenie.ua" tvg-country="UA" group-title="Новости",Общественное Независимое Телевидение
-http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
 #EXTINF:-1 tvg-id="PervyygorodskoyOdessa.ua" tvg-country="UA" group-title="Общие",Первый городской канал
 http://91.194.79.46:8081/stream2/channel2/playlist.m3u8
 #EXTINF:-1 tvg-id="BlackSeaTV.ua" tvg-country="UA" http-user-agent="curl/8.16.0" group-title="Общие",Чорноморська телерадіокомпанія
 https://ext.cdn.nashnet.tv/228.0.0.136/index.m3u8
 #EXTINF:-1 tvg-id="InterPlus.ua" tvg-country="UA" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36" group-title="Общие",Інтер+
 https://op-flashcon-digdayahd-1.dens.tv/h/h305/stream.m3u8
-#EXTINF:-1 tvg-id="100NEWS.ua" tvg-country="UA" group-title="Новости",100% NEWS
-http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 #EXTINF:-1 tvg-id="FilmUADrama.ua" tvg-country="UA" group-title="Кино",FilmUADrama
 https://dash2.antik.sk/live/test_film_drama_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="RAZ3International.ua" tvg-country="UA",RAZ 3 International
@@ -2911,8 +2849,6 @@ https://r.eu.cdn-redge.media/livehls/oeu/mt/live/chasse_et_peche/live.livx/playl
 http://213.91.179.28:8000/play/a05y
 #EXTINF:-1 tvg-id="Eurosport2.fr" tvg-country="FR" group-title="Спорт",Eurosport 2
 http://213.91.179.28:8000/play/a04b
-#EXTINF:-1 tvg-id="Eurosport4K.fr" tvg-country="FR" group-title="Спорт",Eurosport 4K
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5449.m3u8
 #EXTINF:-1 tvg-id="MyZenTV.fr" tvg-country="FR" group-title="Отдых",MyZen TV
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/myzen_tv/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceSportStars.fr" tvg-country="FR" group-title="Спорт",Trace Sport Stars
