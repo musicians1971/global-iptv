@@ -17,8 +17,6 @@ http://online.hiphop.by:9000/8000
 http://radio.gubernia.com:8000/radio4
 #EXTINF:-1 group-title="Радио",Monte Carlo (Монте Карло)
 http://montecarlo.hostingradio.ru/montecarlo96.aacp
-#EXTINF:-1 group-title="Радио",Revolution (Санкт-Петербург)
-http://revolutionradio.ru:8000/live.mp3
 #EXTINF:-1 group-title="Радио",Sfera Music (Украина)
 http://radio.radioshansonplus.com:8000/radio
 #EXTINF:-1 group-title="Радио",Авторадио
@@ -97,6 +95,8 @@ http://kommersant77.hostingradio.ru:8016/kommersant128.mp3
 http://s4.radioheart.ru:8023/nonstop
 #EXTINF:-1 group-title="Радио",Комсомольская Правда
 http://kpradio.hostingradio.ru:8000/128
+#EXTINF:-1 group-title="Радио",Краснодар
+https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar2/tvkrasnodarradio/playlist.m3u8
 #EXTINF:-1 group-title="Радио",Кузбасс (Кемерово)
 http://212.75.194.94:8000/KuzbassFM
 #EXTINF:-1 group-title="Радио",Кунел (Татарстан)
@@ -135,8 +135,6 @@ http://radio.dline-media.com/gold
 http://radio.dline-media.com/myata_hits
 #EXTINF:-1 group-title="Радио",На семи холмах
 http://emgregion.hostingradio.ru:8064/moscow.radio7.mp3
-#EXTINF:-1 group-title="Радио",Наше радио
-http://nashe1.hostingradio.ru/nashespb128.mp3
 #EXTINF:-1 group-title="Радио",НВ (Украина)
 http://91.218.212.84:8000/radionv.mp3
 #EXTINF:-1 group-title="Радио",Нестандарт
@@ -209,6 +207,8 @@ http://23.105.238.4/gpm-romantika495.aacp
 http://rusradio.hostingradio.ru/rusradio96.aacp
 #EXTINF:-1 group-title="Радио",Самарское Губернское (Самара)
 http://46.20.71.66:8000/fm
+#EXTINF:-1 group-title="Радио",Седьмое небо (Псков)
+http://91.201.117.219:8000/stream
 #EXTINF:-1 group-title="Радио",Сектор - 90s
 http://89.223.45.5:8000/next-160
 #EXTINF:-1 group-title="Радио",Сектор - Progressive

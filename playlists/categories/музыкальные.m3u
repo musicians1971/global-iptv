@@ -11,8 +11,8 @@ https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R05_MAIDAN/variant.m3u8
 https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
 #EXTINF:-1 group-title="Музыкальные",МузCOVERрадио
 https://kinowalk.hopto.org/muzcoverradio_live
-#EXTINF:-1 group-title="Музыкальные",Музыка 2 International
-https://kino-1.catcast.tv/content/37742/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",Музыка 1 International
+https://kino-1.catcast.tv/content/37745/index.m3u8
 #EXTINF:-1 group-title="Музыкальные",Музыка Live
 https://stream8.cinerama.uz/1238/index.m3u8
 #EXTINF:-1 group-title="Музыкальные",Новое Радио

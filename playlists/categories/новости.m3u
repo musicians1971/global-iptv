@@ -39,8 +39,6 @@ http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8
 https://streaming.televizor-24-tochka.ru/live/28.m3u8
 #EXTINF:-1 tvg-id="Mir24.ru" tvg-country="RU" group-title="Новости",Мир 24
 https://stream8.cinerama.uz/1219/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="NovorossiyaTV.ru" tvg-country="RU" group-title="Новости",Новороссия ТВ
-http://31.131.139.253:9002/novoros/index.m3u8
 #EXTINF:-1 tvg-id="OplotTV.ru" tvg-country="RU" group-title="Новости",Оплот ТВ
 http://31.131.141.195:8000/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="PervyyRespublikanskiy.ru" tvg-country="RU" group-title="Новости",Первый Республиканский
@@ -61,6 +59,10 @@ http://168.196.127.137:6001/play/a0a9/index.m3u8
 https://stream8.cinerama.uz/1015/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="FREEDOM.ua" tvg-country="UA" group-title="Новости",FREEДOM
 https://dash2.antik.sk/live/test_uatv/playlist.m3u8
+#EXTINF:-1 tvg-id="ObshchestvennoeNezavisimoeTelevidenie.ua" tvg-country="UA" group-title="Новости",Общественное Независимое Телевидение
+http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
+#EXTINF:-1 tvg-id="100NEWS.ua" tvg-country="UA" group-title="Новости",100% NEWS
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 #EXTINF:-1 tvg-id="CGTNRussian.cn" tvg-country="CN" group-title="Новости",CGTN Pусский
 https://russian-liveali.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 #EXTINF:-1 tvg-id="CurrentTimeTV.cz" tvg-country="CZ" group-title="Новости",Настоящее Время

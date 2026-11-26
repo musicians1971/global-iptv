@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="NickelodeonCIS.kz" tvg-country="KZ" group-title="Детские",Nickelodeon CIS
 https://stream8.cinerama.uz/1500/playlist.m3u8
+#EXTINF:-1 group-title="Детские",Детский мир
+https://s7.merlive.am/DetskiMir/index.m3u8
 #EXTINF:-1 group-title="Детские",Смайл
 https://stream8.cinerama.uz/1425/index.m3u8
 #EXTINF:-1 tvg-id="solnce-pl2" group-title="Детские",Солнце +2
@@ -11,6 +13,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
 #EXTINF:-1 group-title="Детские",Союзмультфильмы
 http://194.26.229.213/souzmultfilm/index.m3u8
+#EXTINF:-1 group-title="Детские",СТС Kids
+https://stream8.cinerama.uz/1437/index.m3u8
 #EXTINF:-1 group-title="Детские",Уникум
 https://stream8.cinerama.uz/1033/index.m3u8
 #EXTINF:-1 group-title="Детские",Чип и Дейл
@@ -43,14 +47,10 @@ https://stream8.cinerama.uz/1406/tracks-v1a1/mono.m3u8
 http://185.37.150.46/Karusel/index.m3u8
 #EXTINF:-1 tvg-id="Mama.ru" tvg-country="RU" group-title="Детские",Мама
 https://stream8.cinerama.uz/1244/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="MiniDisco.ru" tvg-country="RU" group-title="Детские",Мини Диско
-https://bridgemedia-hls.cdnvideo.ru/hls/live/6aff1c3190affe00013a80ac/720p.m3u8
 #EXTINF:-1 tvg-id="Mult.ru" tvg-country="RU" group-title="Детские",Мульт
 https://stream8.cinerama.uz/1246/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Multilandia.ru" tvg-country="RU" group-title="Детские",Мультиландия
 https://stream8.cinerama.uz/1440/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="O.ru" tvg-country="RU" group-title="Детские",О!
-http://88.212.15.50/live/test_telekanal_o/playlist.m3u8
 #EXTINF:-1 tvg-id="RadostMoya.ru" tvg-country="RU" group-title="Детские",Радость Моя
 https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTINF:-1 tvg-id="Ryzhiy.ru" tvg-country="RU" group-title="Детские",Рыжий
@@ -79,8 +79,6 @@ https://stream8.cinerama.uz/1501/playlist.m3u8
 https://stream8.cinerama.uz/1502/playlist.m3u8
 #EXTINF:-1 tvg-id="TiJi.ru" tvg-country="RU" group-title="Детские",TiJi
 https://stream8.cinerama.uz/1441/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Aqlvoy.uz" tvg-country="UZ" group-title="Детские",Aqlvoy
-https://stream8.cinerama.uz/1205/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkCEE.uk" tvg-country="UK" group-title="Мультфильмы",Cartoon Network CEE
 http://213.91.179.28:8000/play/a08g
 #EXTINF:-1 tvg-id="CartoonitoCEE.uk" tvg-country="UK" group-title="Детские",Cartoonito CEE

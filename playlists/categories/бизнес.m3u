@@ -1,3 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ProBusiness.ru" tvg-country="RU" group-title="Бизнес",Про Бизнес
+https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="RBKTV.ru" tvg-country="RU" group-title="Бизнес",РБК-ТВ
 http://176.118.197.101/RBK/index.m3u8
+#EXTINF:-1 tvg-id="100NEWS.ua" tvg-country="UA" group-title="Новости",100% NEWS
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8

@@ -7,8 +7,6 @@ http://45.11.139.43:8555/8kanal/index.m3u8
 http://176.118.197.101/2x2/index.m3u8
 #EXTINF:-1 tvg-id="OTVPrim.ru" tvg-country="RU" group-title="Развлечения",ОТВ-Прим
 https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Poehali.ru" tvg-country="RU" group-title="Развлечения",Поехали!
-http://88.212.15.50/live/test_poehali/playlist.m3u8
 #EXTINF:-1 tvg-id="Friday.ru" tvg-country="RU" group-title="Развлечения",Пятница!
 http://31.148.5.241/kanal_16/index.m3u8
 #EXTINF:-1 tvg-id="Smotrim100k1.ru" tvg-country="RU" group-title="Развлечения",Смотрим 100% к 1

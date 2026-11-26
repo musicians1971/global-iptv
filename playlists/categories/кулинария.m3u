@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="Кулинария",Food Network
+https://s7.merlive.am/FoodNetwork/index.m3u8
 #EXTINF:-1 group-title="Кулинария",Joy Cook
 https://stitch.teletarget.ru/peerstv/joycook/index.m3u8
 #EXTINF:-1 group-title="Кулинария",Kulinar

@@ -5,12 +5,12 @@ https://stream8.cinerama.uz/1247/index.m3u8
 http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8
 #EXTINF:-1 group-title="Путешествия",Полет
 http://stitch.teletarget.ru/vintera/flighttv/index.m3u8
-#EXTINF:-1 group-title="Путешествия",Точка.РФ (2)
-https://stream8.cinerama.uz/1222/index.m3u8
 #EXTINF:-1 group-title="Путешествия",Dunyo bo'ylab
 https://stream8.cinerama.uz/1006/index.m3u8
 #EXTINF:-1 group-title="Путешествия",Terra Incognita
 https://stitch.teletarget.ru/vintera/terra/index.m3u8
+#EXTINF:-1 tvg-id="viasat-explore" group-title="Путешествия",Viju Explore (2)
+https://flussonic.mkpnet.ru/tv-7c57a4c3f9a896ea/video.m3u8
 #EXTINF:-1 tvg-id="Vkus.ru" tvg-country="RU" group-title="Путешествия",Вкус
 http://178.134.1.158:8081/vkus/index.m3u8
 #EXTINF:-1 tvg-id="GlazamiTurista.ru" tvg-country="RU" group-title="Путешествия",Глазами Туриста
@@ -19,7 +19,5 @@ https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8
 https://fonbet.mediacdn.ru/live/nashatema/playlist.m3u8
 #EXTINF:-1 tvg-id="RTGint.ru@SD" tvg-country="RU" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Путешествия",RTG int.
 http://213.91.179.28:8000/play/a0bw
-#EXTINF:-1 tvg-id="RTGTV.ru" tvg-country="RU" group-title="Путешествия",RTG TV
-http://46.53.200.153:7777/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="Travelxp.in" tvg-country="IN" group-title="Путешествия",Travelxp
 http://88.212.7.14/live/travel_xp_4k/index.m3u8
