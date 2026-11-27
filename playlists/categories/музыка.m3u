@@ -5,6 +5,8 @@ http://hz1.teleport.cc/HLS/SD.m3u8
 http://rtmp.one.by:2200
 #EXTINF:-1 tvg-id="HitFM.md" tvg-country="MD" group-title="Музыка",Hit FM
 https://hitfm.nfthost.net/hls/hitfm/live_all/playlist.m3u8
+#EXTINF:-1 tvg-id="A1.ru" tvg-country="RU" group-title="Музыка",А1
+http://s7.merlive.am/Amedia1/index.m3u8
 #EXTINF:-1 tvg-id="Maidan.ru" tvg-country="RU" group-title="Музыка",Майдан
 https://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MuzSoyuz.ru" tvg-country="RU" group-title="Музыка",Муз Союз
@@ -21,6 +23,8 @@ https://kino-1.catcast.tv/content/37739/index.m3u8
 http://176.118.197.101/1HD/index.m3u8
 #EXTINF:-1 tvg-id="MuzykaPervogo.ru" tvg-country="RU" group-title="Музыка",Музыка Первого
 https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="o2tv.ru" tvg-country="RU" group-title="Музыка",о2тв
+http://s7.merlive.am/o2tv/index.m3u8
 #EXTINF:-1 tvg-id="RUTV.ru" tvg-country="RU" group-title="Музыка",РУ.ТВ
 https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?e=2069285076&s=d-E-bxKy2v3EEJ94RQX9CA&scheme=https
 #EXTINF:-1 tvg-id="CityEdenPlay.ru@HD" tvg-country="RU" group-title="Музыка",Сити Эдем Play
@@ -33,16 +37,22 @@ https://cityeden.catcast.tv/content/47400/index.m3u8
 https://cityeden.catcast.tv/content/46421/index.m3u8
 #EXTINF:-1 tvg-id="StranaFM.ru" tvg-country="RU" group-title="Музыка",Страна FM
 https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="FONMusic.ru" tvg-country="RU" group-title="Музыка",ТНТ Music
+http://s7.merlive.am/TNTMusic/index.m3u8
 #EXTINF:-1 tvg-id="ShansonTV.ru" tvg-country="RU" group-title="Музыка",Шансон ТВ
 http://catchup.videoline.ru/shanson/index.m3u8
 #EXTINF:-1 tvg-id="BabyTime.ru" tvg-country="RU" group-title="Детские",Baby Time
 http://178.134.1.158:8081/babytime/index.m3u8
 #EXTINF:-1 tvg-id="BRIDGE.ru" tvg-country="RU" group-title="Музыка",BRIDGE
 http://178.134.1.158:8081/BRIDGE/index.m3u8
+#EXTINF:-1 tvg-id="BRIDGEHits.ru" tvg-country="RU" group-title="Музыка",BRIDGE Hits
+http://s7.merlive.am/BRIDGETV/index.m3u8
 #EXTINF:-1 tvg-id="BRIDGERock.ru" tvg-country="RU" group-title="Музыка",BRIDGE Rock
 http://178.134.1.158:8081/BRIDGEROCK/index.m3u8
 #EXTINF:-1 tvg-id="DanceHits80.ru" tvg-country="RU" group-title="Музыка",DanceHits80
 http://dancehits80.denvs.ru:8080/index.m3u8
+#EXTINF:-1 tvg-id="MCMTop.ru@SD" tvg-country="RU" group-title="Музыка",MCM Top
+http://s7.merlive.am/vipserial/index.m3u8
 #EXTINF:-1 tvg-id="SONGTVRussia.ru" tvg-country="RU" group-title="Музыка",SONGTV Russia
 https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
 #EXTINF:-1 tvg-id="VIVARussia.ru" tvg-country="RU" group-title="Музыка",VIVA Russia

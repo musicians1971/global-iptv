@@ -17,6 +17,8 @@ http://online.hiphop.by:9000/8000
 http://radio.gubernia.com:8000/radio4
 #EXTINF:-1 group-title="Радио",Monte Carlo (Монте Карло)
 http://montecarlo.hostingradio.ru/montecarlo96.aacp
+#EXTINF:-1 group-title="Радио",Revolution (Санкт-Петербург)
+http://revolutionradio.ru:8000/live.mp3
 #EXTINF:-1 group-title="Радио",Sfera Music (Украина)
 http://radio.radioshansonplus.com:8000/radio
 #EXTINF:-1 group-title="Радио",Авторадио
@@ -135,6 +137,8 @@ http://radio.dline-media.com/gold
 http://radio.dline-media.com/myata_hits
 #EXTINF:-1 group-title="Радио",На семи холмах
 http://emgregion.hostingradio.ru:8064/moscow.radio7.mp3
+#EXTINF:-1 group-title="Радио",Наше радио
+http://nashe1.hostingradio.ru/nashespb128.mp3
 #EXTINF:-1 group-title="Радио",НВ (Украина)
 http://91.218.212.84:8000/radionv.mp3
 #EXTINF:-1 group-title="Радио",Нестандарт

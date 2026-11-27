@@ -5,10 +5,14 @@ http://live-3.otcnet.ru/congresstv/index.m3u8
 https://stream8.cinerama.uz/1039/index.m3u8
 #EXTINF:-1 tvg-id="365daysTV.ru" tvg-country="RU" group-title="Документальные",365 дней ТВ
 https://stream8.cinerama.uz/1242/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.ru" tvg-country="RU" group-title="Документальные",National Geographic Россия
+http://s7.merlive.am/NationalGeographic/index.m3u8
 #EXTINF:-1 tvg-id="RTDocumentary.ru" tvg-country="RU" group-title="Документальные",RTД
 https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
 #EXTINF:-1 tvg-id="Arsenal.ru" tvg-country="RU" group-title="Документальные",Арсенал
 https://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Istoriya.ru" tvg-country="RU" group-title="Документальные",История
+http://s7.merlive.am/History2/index.m3u8
 #EXTINF:-1 tvg-id="Nano.ru" tvg-country="RU" group-title="Документальные",Нано
 http://185.23.80.23:8080/NANO_HD/index.m3u8
 #EXTINF:-1 tvg-id="Nauka.ru" tvg-country="RU" group-title="Документальные",Наука
@@ -17,6 +21,14 @@ https://vod.tuva.ru/nauka2/index.m3u8
 https://cityeden.catcast.tv/content/38354/index.m3u8
 #EXTINF:-1 tvg-id="Smotrim100Fakty.ru" tvg-country="RU" group-title="Документальные",Смотрим 100% Факты
 https://stream.smotrim.ru/hls2/fasttv06/playlist_3.m3u8
+#EXTINF:-1 tvg-id="TopSecret.ru" tvg-country="RU" group-title="Документальные",Совершенно секретно
+http://s7.merlive.am/sovershennosekretno/index.m3u8
+#EXTINF:-1 tvg-id="TaynyGalaktiki.ru" tvg-country="RU" group-title="Документальные",Тайны Галактики
+http://s7.merlive.am/tainigalaktiki/index.m3u8
+#EXTINF:-1 tvg-id="Tochkarf.ru" tvg-country="RU" group-title="Документальные",Точка РФ
+http://s7.merlive.am/HDLife/index.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.ru" tvg-country="RU" group-title="Документальные",Animal Planet
+http://s7.merlive.am/animalplanet/index.m3u8
 #EXTINF:-1 tvg-id="TheExplorers.ru" tvg-country="RU" group-title="Документальные",The Explorers
 https://sofast-yupptv.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4804aca3-dd54-43d1-8caa-0b836a76d9e9/manifest.m3u8
 #EXTINF:-1 tvg-id="vijuNature.ru" tvg-country="RU" group-title="Документальные",viju Nature

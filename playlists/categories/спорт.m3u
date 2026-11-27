@@ -3,6 +3,8 @@
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1 group-title="Спорт",КХЛ KHL
 https://stream8.cinerama.uz/1422/index.m3u8
+#EXTINF:-1 group-title="Спорт",КХЛ KHL Prime (2)
+https://fs.uplink.kz/khl_prime/index.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="Спорт",Матч! Планета
 https://stream8.cinerama.uz/1243/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 3
@@ -21,16 +23,22 @@ https://stream8.cinerama.uz/1264/index.m3u8
 https://jmp2.uk/rok-ac0caef9123a35df3b884b139340a597.m3u8
 #EXTINF:-1 tvg-id="AstrahanRuSport.ru" tvg-country="RU" group-title="Спорт",Астрахань спорт
 https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
+#EXTINF:-1 tvg-id="BoksTV.ru" tvg-country="RU" group-title="Спорт",Бокс ТВ
+http://s7.merlive.am/BoxTV/index.m3u8
 #EXTINF:-1 tvg-id="Volleyball.ru" tvg-country="RU" group-title="Спорт",Волейбол
 https://fonbet.mediacdn.ru/live/volleyball/playlist.m3u8
 #EXTINF:-1 tvg-id="KHL.ru" tvg-country="RU" group-title="Спорт",КХЛ
 http://176.118.197.101/KHL/index.m3u8
 #EXTINF:-1 tvg-id="MatchPremier.ru" tvg-country="RU" group-title="Спорт",Матч! Премьер
 http://185.23.80.23:8080/MATCH_PREMIER/index.m3u8
+#EXTINF:-1 tvg-id="MatchStrana.ru" tvg-country="RU" group-title="Спорт",Матч! Страна
+http://s7.merlive.am/matchstrana/index.m3u8
 #EXTINF:-1 tvg-id="MatchUltra.ru" tvg-country="RU" group-title="Спорт",Матч! Ультра
 http://31.148.5.241/kanal_3/index.m3u8
+#EXTINF:-1 tvg-id="Sportivnyy.ru" tvg-country="RU" group-title="Спорт",Спортивный
+https://live-3.otcnet.ru/sportivny/index.m3u8
 #EXTINF:-1 tvg-id="FONTV.ru" tvg-country="RU" group-title="Спорт",FON TV
-https://fonstreams.mediacdn.ru/stream/fontvclear/playlist.m3u8
+https://fontvlive.mediacdn.ru/stream/fontv/playlist.m3u8
 #EXTINF:-1 tvg-id="MMATVcom.ru" tvg-country="RU" group-title="Спорт",MMA-TV.com
 https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="vijuPlusSport.ru" tvg-country="RU" group-title="Спорт",viju+ Sport

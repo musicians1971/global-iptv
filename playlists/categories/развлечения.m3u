@@ -5,6 +5,8 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
 http://45.11.139.43:8555/8kanal/index.m3u8
 #EXTINF:-1 tvg-id="2x2.ru" tvg-country="RU" group-title="Развлечения",Дважды два
 http://176.118.197.101/2x2/index.m3u8
+#EXTINF:-1 tvg-id="KlukvaTV.ru" tvg-country="RU" group-title="Развлечения",Клюква ТВ
+https://klukva.mediacdn.ru/cdn/klukva/playlist.m3u8
 #EXTINF:-1 tvg-id="OTVPrim.ru" tvg-country="RU" group-title="Развлечения",ОТВ-Прим
 https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Friday.ru" tvg-country="RU" group-title="Развлечения",Пятница!
@@ -27,8 +29,8 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 http://31.148.5.241/kanal_19/index.m3u8
 #EXTINF:-1 tvg-id="TNT.ru" tvg-country="RU" http-referrer="https://televizor24tochka.ru/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Развлечения",ТНТ
 https://streaming.televizor-24-tochka.ru/live/23.m3u8
-#EXTINF:-1 tvg-id="Che.ru" tvg-country="RU" http-user-agent="WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer" group-title="Развлечения",Че!
-https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
+#EXTINF:-1 tvg-id="Che.ru" tvg-country="RU" group-title="Развлечения",Че!
+http://s7.merlive.am/Che/index.m3u8
 #EXTINF:-1 tvg-id="U.ru" tvg-country="RU" group-title="Развлечения",Ю
 https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?e=2066519758&s=9cPc1rCGu6M932eqrifRhQ&scheme=https
 #EXTINF:-1 tvg-id="red.ru" tvg-country="RU" group-title="Развлечения",.red

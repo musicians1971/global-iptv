@@ -28,7 +28,7 @@ https://lifetv.bitflip.ee/live/stream1.m3u8
 #EXTINF:-1 tvg-id="TBNBaltia.ee" tvg-country="EE" group-title="Религиозные",TBN Baltia
 http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8
 #EXTINF:-1 tvg-id="AngelTV.in" tvg-country="IN" group-title="Религиозные",Angel TV
-https://cdn.pishow.tv/ott/live/453/master.m3u8
+http://janya-digimix.akamaized.net/vglive-sk-394914/india/ngrp:angelindia_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AngelTV.in" tvg-country="IN" group-title="Религиозные",Angel TV
 https://janya-digimix.akamaized.net/vglive-sk-904559/africa/ngrp:angelafrica_all/playlist.m3u8
 #EXTINF:-1 tvg-id="ManaTserkovOnlayn.pt@SD" tvg-country="PT" group-title="Религиозные",Мана Церковь Онлайн

@@ -3,8 +3,6 @@
 https://stream8.cinerama.uz/1416/index.m3u8
 #EXTINF:-1 tvg-id="nst" group-title="Развлекательные",НСТ
 http://176.118.197.101/HCT/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",Сарафан
-https://stream8.cinerama.uz/1249/index.m3u8
 #EXTINF:-1 tvg-id="sts-love-pl2" group-title="Развлекательные",СТС Love +2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/variant.m3u8
 #EXTINF:-1 tvg-id="sts-love-pl4" group-title="Развлекательные",СТС Love +4
@@ -27,6 +25,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/variant.m3u8
 #EXTINF:-1 tvg-id="tnt4-pl7" group-title="Развлекательные",ТНТ4 +7
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8
+#EXTINF:-1 group-title="Развлекательные",Ты супер!
+https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 tvg-id="che-pl2" group-title="Развлекательные",Че +2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_2/variant.m3u8
 #EXTINF:-1 tvg-id="che-pl4" group-title="Развлекательные",Че +4

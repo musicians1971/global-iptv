@@ -73,8 +73,6 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 https://59ec5453559f0.streamlock.net/energytvDJ/smil:VIVALIVETV/index.m3u8
 #EXTINF:-1 group-title="Музыкальные",Energy TV Music
 https://59ec5453559f0.streamlock.net/energytvmusic/smil:VIVALIVETV/index.m3u8
-#EXTINF:-1 group-title="Музыкальные",FON Music
-https://tntm.mediacdn.ru/cdn/tntmusic/index.m3u8
 #EXTINF:-1 group-title="Музыкальные",Fun Radio
 https://edge15.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
 #EXTINF:-1 group-title="Музыкальные",Galaxy
@@ -127,8 +125,6 @@ http://streamcdnm5-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhd
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные",RetroMusic
 https://kinowalk.hopto.org/retromus_live
-#EXTINF:-1 group-title="Музыкальные",SANSEY_RU
-https://kinowalk.hopto.org/sansey_ru_live
 #EXTINF:-1 group-title="Музыкальные",Spirit
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 #EXTINF:-1 group-title="Музыкальные",Stingray Classic Rock

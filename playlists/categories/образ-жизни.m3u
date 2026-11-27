@@ -9,9 +9,13 @@ http://178.134.1.158:8081/doktor/index.m3u8
 https://stream8.cinerama.uz/1426/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ZdorovoeTV.ru" tvg-country="RU" group-title="Образ жизни",Здоровое ТВ
 https://stream8.cinerama.uz/1428/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NTVStilzhizn.ru" tvg-country="RU" group-title="Образ жизни",НТВ Стиль жизни
+http://s7.merlive.am/ntvstil/index.m3u8
 #EXTINF:-1 tvg-id="OtkritiymirZdorove.ru" tvg-country="RU" group-title="Образ жизни",Открытый мир. Здоровье
 https://v4.proofix.ru/0mir/index.m3u8
 #EXTINF:-1 tvg-id="CityEdenMedZdrav.ru@HD" tvg-country="RU" group-title="Образ жизни",Сити Эдем МедЗдрав
 https://cityeden.catcast.tv/content/47519/index.m3u8
+#EXTINF:-1 tvg-id="TLC.ru" tvg-country="RU" group-title="Образ жизни",TLC
+http://s7.merlive.am/tlc/index.m3u8
 #EXTINF:-1 tvg-id="WorldFashionChannel.ru" tvg-country="RU" group-title="Образ жизни",World Fashion Channel
 https://cdn.wfc.tv/cdn/stream-eng.m3u8

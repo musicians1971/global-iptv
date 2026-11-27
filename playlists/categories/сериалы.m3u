@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Balabol.ru" tvg-country="RU" group-title="Сериалы",Балабол
+https://cdn-dvr.ntv.ru/Balabol/index.m3u8
 #EXTINF:-1 tvg-id="MirSeriala.ru" tvg-country="RU" group-title="Сериалы",Мир Сериала
 http://176.118.197.101/MirSeriala/index.m3u8
 #EXTINF:-1 tvg-id="Nevskiy.ru" tvg-country="RU" group-title="Сериалы",Невский
@@ -9,6 +11,8 @@ http://178.134.1.158:8081/ntvhit/index.m3u8
 https://cdn-dvr.ntv.ru/Perviy_otdel/index.m3u8
 #EXTINF:-1 tvg-id="Pes.ru" tvg-country="RU" group-title="Сериалы",Пёс
 https://cdn-dvr.ntv.ru/Pes/index.m3u8
+#EXTINF:-1 tvg-id="5minuttishiny.ru" tvg-country="RU" group-title="Сериалы",Пять минут тишины
+https://cdn-dvr.ntv.ru/5_minut_tishiny/index.m3u8
 #EXTINF:-1 tvg-id="CityEdenKinoDok.ru@HD" tvg-country="RU" group-title="Документальные",Сити Эдем КиноДок
 https://cityeden.catcast.tv/content/38354/index.m3u8
 #EXTINF:-1 tvg-id="CityEdenTeleNovella.ru@HD" tvg-country="RU" group-title="Сериалы",Сити Эдем ТелеНовелла
@@ -21,8 +25,6 @@ https://stream.smotrim.ru/hls2/fasttv01/playlist_2.m3u8
 https://stream.smotrim.ru/hls2/fasttv02/playlist_3.m3u8
 #EXTINF:-1 tvg-id="SmotrimChestnyyDetektiv.ru" tvg-country="RU" group-title="Сериалы",Смотрим Честный Детектив
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Shef.ru" tvg-country="RU" group-title="Сериалы",Шеф
-https://cdn-dvr.ntv.ru/Shef/index.m3u8
 #EXTINF:-1 tvg-id="FilmUADrama.ua" tvg-country="UA" group-title="Кино",FilmUADrama
 https://dash2.antik.sk/live/test_film_drama_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="ViasatSerial.ua" tvg-country="UA" http-referrer="http://live.tvstitch.com/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36" group-title="Кино",Viasat Serial

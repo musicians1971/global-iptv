@@ -29,10 +29,14 @@ https://tsv.md/stream/hls/tsv-online/index.m3u8
 https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/master.m3u8
 #EXTINF:-1 tvg-id="Moldova2.md" tvg-country="MD" group-title="Общие",Moldova 2
 https://v0.trm.md/static/streaming-playlists/hls/d5fafab0-9c37-4746-9e7a-b2d6c0427015/master.m3u8
+#EXTINF:-1 tvg-id="KTOKUDA.ru" tvg-country="RU" group-title="Общие",#КтоКуда
+http://s7.merlive.am/ktokuda/index.m3u8
 #EXTINF:-1 tvg-id="Channel10.ru" tvg-country="RU" group-title="Общие",10 канал
 https://bl.rutube.ru/livestream/c9e26bf5c003fd8d477200065ca1a05f/index.m3u8?e=2072611029&s=eqlTXebDP9wSWTZgre6BwQ&scheme=https
 #EXTINF:-1 tvg-id="Channel12.ru" tvg-country="RU" group-title="Общие",12 канал
 https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
+#EXTINF:-1 tvg-id="6TVGorlovka.ru" tvg-country="RU" group-title="Общие",6 ТВ Горловка
+http://91.214.48.158:4022/udp/224.2.2.4:10000
 #EXTINF:-1 tvg-id="Channel8International.ru" tvg-country="RU" http-referrer="http://live-11cinema.cdnvideo.net/11cinemanet/11cinemanet/playlist.m3u8" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0" group-title="Общие",8 канал International
 http://live-11cinema.cdnvideo.net/11cinemanet/11cinemanet/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel8Novosibirsk.ru" tvg-country="RU" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0" group-title="Общие",8 канал Новосибирск

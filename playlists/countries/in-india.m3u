@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="AngelTV.in" tvg-country="IN" group-title="Религиозные",Angel TV
-https://cdn.pishow.tv/ott/live/453/master.m3u8
+http://janya-digimix.akamaized.net/vglive-sk-394914/india/ngrp:angelindia_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AngelTV.in" tvg-country="IN" group-title="Религиозные",Angel TV
 https://janya-digimix.akamaized.net/vglive-sk-904559/africa/ngrp:angelafrica_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Travelxp.in" tvg-country="IN" group-title="Путешествия",Travelxp

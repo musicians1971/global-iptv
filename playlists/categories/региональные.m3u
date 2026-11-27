@@ -49,6 +49,8 @@ https://s45177.cdn.ngenix.net/hls/CH_R01_NEXTTV/variant.m3u8
 https://stream8.cinerama.uz/1431/index.m3u8
 #EXTINF:-1 group-title="Региональные",Qazaqstan | Казахстан
 https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",QazSport (3) | Казахстан
+https://fs.uplink.kz/qazsport_hd/index.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="Региональные",TMTV | Татарстан
 https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R03_TMTV/variant.m3u8
 #EXTINF:-1 group-title="Региональные",TV Губерния (2) | Воронеж
@@ -113,6 +115,8 @@ https://s1.gtrkrb.ru/540/b24-540.m3u8
 https://s45177.cdn.ngenix.net/hls/CH_R02_BASHKORTOSTAN24/variant.m3u8
 #EXTINF:-1 group-title="Региональные",Беларусь 4 | Беларусь
 http://46.56.85.151:8080/0.m3u8
+#EXTINF:-1 group-title="Региональные",Беларусь 5 | Беларусь
+https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/index.m3u8
 #EXTINF:-1 group-title="Региональные",Белгород 24 (2) | Белгородская область
 https://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R02_BELGOROD24/variant.m3u8
 #EXTINF:-1 group-title="Региональные",Брянская Губерния (2) | Брянск
@@ -271,16 +275,12 @@ http://85.234.33.63/stream/c11.m3u8
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NGOR_URAL_SUR/variant.m3u8
 #EXTINF:-1 group-title="Региональные",НВК Саха (2) | Якутия
 https://s34351.cdn.ngenix.net/hls/CH_R03_NVC_OTT/variant.m3u8
-#EXTINF:-1 group-title="Региональные",Нижний новгород 24 | Нижний Новгород
-https://live-vestinn.cdnvideo.ru/vestinn/nn24/playlist.m3u8
 #EXTINF:-1 group-title="Региональные",Ника | Калужская область
 https://rt-ct-kaluga-htlive.cdn.ngenix.net/hls/CH_R01_NIKA/variant.m3u8
 #EXTINF:-1 group-title="Региональные",ННТВ | Нижегородская область
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
 #EXTINF:-1 group-title="Региональные",Новгородское областное телевидение | Новгородская область
 http://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8
-#EXTINF:-1 group-title="Региональные",Новое | Казахстан
-https://serv25.vintera.tv/novoetv/nov_tv/playlist.m3u8
 #EXTINF:-1 group-title="Региональные",Новое время | ХМАО-Югра
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_RADUZNYI/variant.m3u8
 #EXTINF:-1 group-title="Региональные",Новый век | Тамбов
@@ -339,8 +339,6 @@ http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_1GORODSKOY/vari
 https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/index.m3u8
 #EXTINF:-1 group-title="Региональные",Первый областной | Орловская область
 https://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R01_PERVOBL/variant.m3u8
-#EXTINF:-1 group-title="Региональные",Первый Псковский | Псковская область
-https://live-3.otcnet.ru/pskov/index.m3u8
 #EXTINF:-1 group-title="Региональные",Первый Ростовский | Ростов-на-Дону
 https://rost.mediacdn.ru/cdn/rostov1/index.m3u8
 #EXTINF:-1 group-title="Региональные",Первый Тульский (2) | Тульская область
@@ -349,8 +347,6 @@ http://5.164.24.83/tula/1tv_hi/index.m3u8
 http://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_PERV_TUL/variant.m3u8
 #EXTINF:-1 group-title="Региональные",Прима | Красноярск
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_STS/variant.m3u8
-#EXTINF:-1 group-title="Региональные",Про жизнь (2) | Кемеровская область
-https://27trk.iptv2022.com/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Региональные",Про жизнь | Кемеровская область
 https://rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R01_PROJIZN/variant.m3u8
 #EXTINF:-1 group-title="Региональные",Продвижение | Астрахань
