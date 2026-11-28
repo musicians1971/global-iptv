@@ -17,8 +17,6 @@ http://s7.merlive.am/History2/index.m3u8
 http://185.23.80.23:8080/NANO_HD/index.m3u8
 #EXTINF:-1 tvg-id="Nauka.ru" tvg-country="RU" group-title="Документальные",Наука
 https://vod.tuva.ru/nauka2/index.m3u8
-#EXTINF:-1 tvg-id="CityEdenKinoDok.ru@HD" tvg-country="RU" group-title="Документальные",Сити Эдем КиноДок
-https://cityeden.catcast.tv/content/38354/index.m3u8
 #EXTINF:-1 tvg-id="Smotrim100Fakty.ru" tvg-country="RU" group-title="Документальные",Смотрим 100% Факты
 https://stream.smotrim.ru/hls2/fasttv06/playlist_3.m3u8
 #EXTINF:-1 tvg-id="TopSecret.ru" tvg-country="RU" group-title="Документальные",Совершенно секретно
@@ -29,6 +27,8 @@ http://s7.merlive.am/tainigalaktiki/index.m3u8
 http://s7.merlive.am/HDLife/index.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.ru" tvg-country="RU" group-title="Документальные",Animal Planet
 http://s7.merlive.am/animalplanet/index.m3u8
+#EXTINF:-1 tvg-id="TERRA.ru" tvg-country="RU" group-title="Документальные",TERRA
+http://s7.merlive.am/TerraHD/index.m3u8
 #EXTINF:-1 tvg-id="TheExplorers.ru" tvg-country="RU" group-title="Документальные",The Explorers
 https://sofast-yupptv.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4804aca3-dd54-43d1-8caa-0b836a76d9e9/manifest.m3u8
 #EXTINF:-1 tvg-id="vijuNature.ru" tvg-country="RU" group-title="Документальные",viju Nature

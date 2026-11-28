@@ -15,6 +15,8 @@ https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8
 https://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="JibekJoly.kz" tvg-country="KZ" group-title="Общие",Jibek Joly
 https://stream.qazcdn.net/ex6r514/jjtv/playlist.m3u8
+#EXTINF:-1 tvg-id="KTK.kz" tvg-country="KZ" group-title="Общие",KTK
+http://89.218.30.37/ktklive/live.hq/playlist.m3u8
 #EXTINF:-1 tvg-id="QazaqstanInternational.kz" tvg-country="KZ" group-title="Общие",Qazaqstan International
 https://stream8.cinerama.uz/1431/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="SilkWay.kz" tvg-country="KZ" group-title="Общие",Silk Way
@@ -94,15 +96,13 @@ https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="NovgorOblTV.ru" tvg-country="RU" http-user-agent="WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer" group-title="Общие",Новгородское областное телевидение
 https://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8
 #EXTINF:-1 tvg-id="NTV.ru" tvg-country="RU" group-title="Общие",НТВ
-https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?e=2077050299&s=HSWg81JrQ3OqmwuWkEIDAQ&scheme=https
+http://s7.merlive.am/ntvhd/index.m3u8
 #EXTINF:-1 tvg-id="NTV.ru" tvg-country="RU" http-referrer="https://televizor24tochka.ru/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Общие",НТВ
 https://streaming.televizor-24-tochka.ru/live/7.m3u8
 #EXTINF:-1 tvg-id="NTK21.ru" tvg-country="RU" http-user-agent="WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer" group-title="Общие",НТК 21
 https://s97982.cdn.ngenix.net/hls/CH_R79_OTT_DV_HVSK_NTK/variant.m3u8
 #EXTINF:-1 tvg-id="NTM.ru@SD" tvg-country="RU" group-title="Общие",НТМ
 https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="NTS.ru@SD" tvg-country="RU" group-title="Общие",НТС
-https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="OTR.ru" tvg-country="RU" group-title="Общие",Общественное Телевидение России
 http://31.148.5.241/kanal_9/index.m3u8
 #EXTINF:-1 tvg-id="OsetiyaIryston.ru" tvg-country="RU" group-title="Общие",Осетия-Ирыстон
@@ -129,8 +129,6 @@ https://live.chechensoft.ru/vainahtv/ngrp:vaynahtv_all/playlist.m3u8
 http://176.118.197.101/RossiyaHD/index.m3u8
 #EXTINF:-1 tvg-id="RTRPlaneta.ru" tvg-country="RU" group-title="Общие",РТР-Планета
 https://streaming.televizor-24-tochka.ru/live/211.m3u8
-#EXTINF:-1 tvg-id="CityEdenTV.ru" tvg-country="RU" group-title="Общие",Сити Эдем TV
-https://cityeden.catcast.tv/content/34246/index.m3u8
 #EXTINF:-1 tvg-id="Sochi24.ru" tvg-country="RU" group-title="Общие",Сочи24
 http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Soyuzny.ru" tvg-country="RU" group-title="Общие",Союзный
@@ -167,11 +165,13 @@ https://streaming.televizor-24-tochka.ru/live/29.m3u8
 http://91.194.79.46:8081/stream2/channel2/playlist.m3u8
 #EXTINF:-1 tvg-id="BlackSeaTV.ua" tvg-country="UA" http-user-agent="curl/8.16.0" group-title="Общие",Чорноморська телерадіокомпанія
 https://ext.cdn.nashnet.tv/228.0.0.136/index.m3u8
-#EXTINF:-1 tvg-id="InterPlus.ua" tvg-country="UA" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36" group-title="Общие",Інтер+
-https://op-flashcon-digdayahd-1.dens.tv/h/h305/stream.m3u8
+#EXTINF:-1 tvg-id="InterPlus.ua" tvg-country="UA" group-title="Общие",Інтер+
+https://cdn15.live-tv.cloud/ua_infinitas_tv/inter-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="Simon.ua@SD" tvg-country="UA" group-title="Общие",Simon
 https://hls.simon.ua/live-HD/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Turkmenistan.tm@SD" tvg-country="TM" group-title="Общие",Turkmenistan
 https://alpha.tv.online.tm/legacyhls/ch007.m3u8
+#EXTINF:-1 tvg-id="AABCTV.us" tvg-country="US" group-title="Общие",AABC TV
+https://s10host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config12/wfaa/24x7/index.m3u8?vendor=LocalNow&device_devicetype=desktop_web&height=1080&ip_addr=187.14.239.54&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&width=1920&app_version=0.0.0&ccpa_us_privacy=1YNY&ads.cdnhost=s10host3.localnow.api.cms.amdvids.com&ads.playbackid=C5AC28A2-6E6A-48DF-A947-78219DF0FCEE&ads.n1=rule_id&ads.v1=3DD25AFA-F895-4BAA-9D6D-089AAD5E7187-1781621125&ads.n3=qp_content_id&ads.v3=C5AC28A2-6E6A-48DF-A947-78219DF0FCEE&ads.n4=content_name&ads.v4=WFAA%20Dallas%20TX&ads.n21=device_type&ads.v21=&ads.n22=w&ads.v22=1920&ads.n23=app_bundle&ads.v23=&ads.n24=content_custom_3_param&ads.v24=channel&ads.n25=channel_language&ads.v25=en&ads.n26=channel_title&ads.v26=WFAA%20Dallas%20TX&ads.n27=channel_corp&ads.v27=Tegna%20INC&ads.n28=h&ads.v28=1080&ads.n29=gpp&ads.v29=&ads.n30=app_version&ads.v30=0.0.0&ads.n31=cust_devicename&ads.v31=desktop_web&ads.n32=did&ads.v32=&ads.n33=content_provider&ads.v33=wfaa-dallas&ads.n34=gpp_sid&ads.v34=&ads.n35=device_make&ads.v35=&ads.n36=channel_rating&ads.v36=TV-PG&ads.n37=pos&ads.v37=midroll&ads.n38=dnt&ads.v38=&ads.n39=content_custom_2_param&ads.v39=AMDB013605&ads.n40=ua&ads.v40=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n41=channel_id&ads.v41=C5AC28A2-6E6A-48DF-A947-78219DF0FCEE&ads.n42=app_name&ads.v42=&ads.n43=us_privacy&ads.v43=1NYY&ads.n44=ifa_type&ads.v44=&ads.n45=app_store_url&ads.v45=&ads.n46=content_custom_1_param&ads.v46=C5AC28A2-6E6A-48DF-A947-78219DF0FCEE&ads.n47=content_livestream&ads.v47=1&ads.n48=ip&ads.v48=187.14.239.54&ads.n49=channel_brand_id&ads.v49=AMDB013605&ads.n50=channel_genre&ads.v50=News&ads.n51=url&ads.v51=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n52=channel_name&ads.v52=WFAA%20Dallas%20TX&ads.n53=device_model&ads.v53=&ads.n54=network_name&ads.v54=wfaa-dallas&ads.n55=content_type&ads.v55=channel&ads.n56=channel_ext_id&ads.v56=&ads.n57=content_producer_name&ads.v57=Tegna%20INC&ads.n58=channel_company_id&ads.v58=AMDP500555
 #EXTINF:-1 tvg-id="RTViUS.us" tvg-country="US" group-title="Общие",RTVi US
 https://amg17233-amg17233c1-wisptv-us-6409.playouts.now.amagi.tv/playlist.m3u8

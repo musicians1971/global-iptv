@@ -11,8 +11,6 @@ https://klukva.mediacdn.ru/cdn/klukva/playlist.m3u8
 https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Friday.ru" tvg-country="RU" group-title="Развлечения",Пятница!
 http://31.148.5.241/kanal_16/index.m3u8
-#EXTINF:-1 tvg-id="Smotrim100k1.ru" tvg-country="RU" group-title="Развлечения",Смотрим 100% к 1
-https://stream.smotrim.ru/hls2/fasttv08/playlist_2.m3u8
 #EXTINF:-1 tvg-id="Smotrim100Prazdnik.ru" tvg-country="RU" group-title="Развлечения",Смотрим 100% Праздник
 https://stream.smotrim.ru/hls2/fasttv04/playlist_3.m3u8
 #EXTINF:-1 tvg-id="Smotrim100Talkshow.ru" tvg-country="RU" group-title="Развлечения",Смотрим 100% Ток-шоу
@@ -26,9 +24,11 @@ https://streaming.televizor-24-tochka.ru/live/18.m3u8
 #EXTINF:-1 tvg-id="TvoeTV.ru" tvg-country="RU" group-title="Развлечения",Твое ТВ
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-id="TNT.ru" tvg-country="RU" group-title="Развлечения",ТНТ
-http://31.148.5.241/kanal_19/index.m3u8
+http://s7.merlive.am/tnthd/index.m3u8
 #EXTINF:-1 tvg-id="TNT.ru" tvg-country="RU" http-referrer="https://televizor24tochka.ru/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Развлечения",ТНТ
 https://streaming.televizor-24-tochka.ru/live/23.m3u8
+#EXTINF:-1 tvg-id="TNT4.ru" tvg-country="RU" group-title="Развлечения",ТНТ4
+http://s7.merlive.am/TNT4/index.m3u8
 #EXTINF:-1 tvg-id="Che.ru" tvg-country="RU" group-title="Развлечения",Че!
 http://s7.merlive.am/Che/index.m3u8
 #EXTINF:-1 tvg-id="U.ru" tvg-country="RU" group-title="Развлечения",Ю

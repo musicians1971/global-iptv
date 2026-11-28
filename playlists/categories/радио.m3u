@@ -17,8 +17,6 @@ http://online.hiphop.by:9000/8000
 http://radio.gubernia.com:8000/radio4
 #EXTINF:-1 group-title="Радио",Monte Carlo (Монте Карло)
 http://montecarlo.hostingradio.ru/montecarlo96.aacp
-#EXTINF:-1 group-title="Радио",Revolution (Санкт-Петербург)
-http://revolutionradio.ru:8000/live.mp3
 #EXTINF:-1 group-title="Радио",Sfera Music (Украина)
 http://radio.radioshansonplus.com:8000/radio
 #EXTINF:-1 group-title="Радио",Авторадио

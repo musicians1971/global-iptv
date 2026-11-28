@@ -21,10 +21,14 @@ https://serv25.vintera.tv/dai/k_kino_dai_scte-35/playlist.m3u8
 https://stream8.cinerama.uz/1237/index.m3u8
 #EXTINF:-1 group-title="Кино",Наше Аниме
 https://bl.rutube.ru/livestream/ec5267347fa50d03edba227906eba679/index.m3u8?s=xnLCaCP1x_dY6PgDuaR9wg&e=2095679016&scheme=https
+#EXTINF:-1 tvg-id="nst" group-title="Кино",НСТ
+http://176.118.197.101/HCT/index.m3u8
 #EXTINF:-1 group-title="Кино",Ретро Аниме
 https://bl.rutube.ru/livestream/5cc3ad508ccf825b275c2815ba05d2f7/index.m3u8?s=yDFQpHfM6TUJZujmv5mu8g&e=2095679017&scheme=https
 #EXTINF:-1 group-title="Кино",Советское кино
 http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
+#EXTINF:-1 group-title="Кино",Тайна
+https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=hCc3BqSwghCQ0GRhDJ967A&e=2070623490&scheme=https
 #EXTINF:-1 group-title="Кино",Техно 24 Т24
 https://stream8.cinerama.uz/1037/index.m3u8
 #EXTINF:-1 group-title="Кино",Hollywood
@@ -73,6 +77,8 @@ https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8
 http://s7.merlive.am/Kinosemya/index.m3u8
 #EXTINF:-1 tvg-id="Kinoseriya.ru" tvg-country="RU" group-title="Кино",Киносерия
 http://s7.merlive.am/Kinoseria/index.m3u8
+#EXTINF:-1 tvg-id="Kinouzhas.ru" tvg-country="RU" group-title="Кино",Киноужас
+http://s7.merlive.am/Kinoujas/index.m3u8
 #EXTINF:-1 tvg-id="KinoHit.ru" tvg-country="RU" group-title="Кино",Кинохит
 https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MosfilmGoldCollection.ru" tvg-country="RU" group-title="Кино",Мосфильм Золотая коллекция
@@ -86,25 +92,7 @@ https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="RodnoeKino.ru" tvg-country="RU" group-title="Кино",Родное Кино
 https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Russkiyroman.ru" tvg-country="RU" group-title="Кино",Русский роман
-https://vod.tuva.ru/rusroman/index.m3u8
-#EXTINF:-1 tvg-id="CityEdenKinoAsia.ru@HD" tvg-country="RU" group-title="Кино",Сити Эдем КиноАзия
-https://cityeden.catcast.tv/content/34393/index.m3u8
-#EXTINF:-1 tvg-id="CityEdenKinoArt.ru@HD" tvg-country="RU" group-title="Кино",Сити Эдем КиноАрт
-https://cityeden.catcast.tv/content/38398/index.m3u8
-#EXTINF:-1 tvg-id="CityEdenKinoDetektiv.ru@HD" tvg-country="RU" group-title="Кино",Сити Эдем КиноДетектив
-https://cityeden.catcast.tv/content/41327/index.m3u8
-#EXTINF:-1 tvg-id="CityEdenKinoDrama.ru@HD" tvg-country="RU" group-title="Кино",Сити Эдем КиноДрама
-https://cityeden.catcast.tv/content/45269/index.m3u8
-#EXTINF:-1 tvg-id="CityEdenKinoKlassika.ru@HD" tvg-country="RU" group-title="Кино",Сити Эдем КиноКлассика
-https://cityeden.catcast.tv/content/34185/index.m3u8
-#EXTINF:-1 tvg-id="CityEdenKinoKomediya.ru@HD" tvg-country="RU" group-title="Кино",Сити Эдем КиноКомедия
-https://cityeden.catcast.tv/content/41331/index.m3u8
-#EXTINF:-1 tvg-id="CityEdenKinoMistika.ru@HD" tvg-country="RU" group-title="Кино",Сити Эдем КиноМистика
-https://cityeden.catcast.tv/content/40783/index.m3u8
-#EXTINF:-1 tvg-id="CityEdenKinoFantastika.ru@HD" tvg-country="RU" group-title="Кино",Сити Эдем КиноФантастика
-https://cityeden.catcast.tv/content/45268/index.m3u8
-#EXTINF:-1 tvg-id="CityEdenKinoAction.ru@HD" tvg-country="RU" group-title="Кино",Сити Эдем КиноЭкшен
-https://cityeden.catcast.tv/content/41333/index.m3u8
+http://s7.merlive.am/ruskiroman/index.m3u8
 #EXTINF:-1 tvg-id="Smotrim100Gorkogo.ru" tvg-country="RU" group-title="Кино",Смотрим 100% Горького
 https://stream.smotrim.ru/hls2/fasttv07/playlist_3.m3u8
 #EXTINF:-1 tvg-id="Smotrim100Klassika.ru" tvg-country="RU" group-title="Кино",Смотрим 100% Классика

@@ -1,8 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="NickelodeonCIS.kz" tvg-country="KZ" group-title="Детские",Nickelodeon CIS
 https://stream8.cinerama.uz/1500/playlist.m3u8
+#EXTINF:-1 group-title="Детские",Маша и Медведь
+https://rpn3.bozztv.com/dvrfl07/ushba79/index.m3u8
 #EXTINF:-1 group-title="Детские",Мультимания
 https://venera.movify.tv/Multimania_16_9/index.m3u8
+#EXTINF:-1 group-title="Детские",Мультфильмы
+https://rpn3.bozztv.com/dvrfl07/ushba80/index.m3u8
 #EXTINF:-1 group-title="Детские",Смайл
 https://stream8.cinerama.uz/1425/index.m3u8
 #EXTINF:-1 tvg-id="solnce-pl2" group-title="Детские",Солнце +2

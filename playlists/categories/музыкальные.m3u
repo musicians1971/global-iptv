@@ -11,8 +11,8 @@ https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R05_MAIDAN/variant.m3u8
 https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
 #EXTINF:-1 group-title="Музыкальные",МузCOVERрадио
 https://kinowalk.hopto.org/muzcoverradio_live
-#EXTINF:-1 group-title="Музыкальные",Музыка 1 International
-https://kino-1.catcast.tv/content/37745/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",Музыка 2 International
+https://kino-1.catcast.tv/content/37742/index.m3u8
 #EXTINF:-1 group-title="Музыкальные",Музыка Live
 https://stream8.cinerama.uz/1238/index.m3u8
 #EXTINF:-1 group-title="Музыкальные",Новое Радио
@@ -95,8 +95,6 @@ http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 https://bss1.neterra.tv/magictv/magictv.m3u8
 #EXTINF:-1 group-title="Музыкальные",Makon
 https://stream8.cinerama.uz/1497/index.m3u8
-#EXTINF:-1 group-title="Музыкальные",Meditation Music
-https://cityeden.catcast.tv/content/47410/index.m3u8
 #EXTINF:-1 group-title="Музыкальные",Mezzo
 http://live-3.otcnet.ru/Mezzo/index.m3u8
 #EXTINF:-1 group-title="Музыкальные",Mix
@@ -125,6 +123,8 @@ http://streamcdnm5-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhd
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные",RetroMusic
 https://kinowalk.hopto.org/retromus_live
+#EXTINF:-1 group-title="Музыкальные",SANSEY_RU
+https://kinowalk.hopto.org/sansey_ru_live
 #EXTINF:-1 group-title="Музыкальные",Spirit
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 #EXTINF:-1 group-title="Музыкальные",Stingray Classic Rock
